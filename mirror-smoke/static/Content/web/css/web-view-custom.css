@@ -1,0 +1,310 @@
+ï»¿body {
+}
+#top-nav ul {    
+    margin-bottom: 0px;
+}
+    #top-nav ul li {       
+        text-align: center;
+        font-family: "Inter", "Arial Black", sans-serif;
+        font-size: 16px;
+    }
+        #top-nav ul li a {
+            color: #224472;
+            text-decoration: none;
+            display: block;
+            padding: .5rem .3rem;
+            -webkit-transition: all .2s ease;
+            transition: all .2s ease;
+            font-family: "Inter", "Arial Black", sans-serif;
+            font-size: 14px;
+            font-weight: 800;
+        }
+    #top-nav ul li a:hover {
+        background: #205194;
+        text-decoration: underline;
+        color: #fff;
+    }
+
+    #top-nav ul .dropdown ul {
+        padding-left: 0px;
+    }
+
+/*MAIN MENU SUB ITEMS*/
+        #top-nav ul .dropdown ul li a {
+            padding: 0.5em 0 !important;
+            font-size: 12px !important;
+            /*color: #252a3e;*/
+            color: #ffffff;
+            font-weight: 400;
+        }
+
+    #top-nav ul .dropdown p.intro {
+        color: #ffffff !important;
+        font-family: "Inter", "Arial Black", sans-serif;
+        font-size: 14px;
+        font-weight: 200;
+        line-height: 1.4;
+        letter-spacing: .015rem;
+    }
+
+
+.navigation__intro__img {
+    width: 98%;
+    border-radius: 12px;
+    -webkit-user-drag: none;
+    user-select: none;
+}
+
+/* Student Zone Hover Styles */
+.li__sudent__zone:hover a {
+    background: brown !important;
+    color: white;
+}
+
+.li__sudent__zone .dropdown {
+    background-color: brown !important;
+    box-shadow: inset 0 0 47px -21px rgba(0,0,0,0.75);
+}
+
+    .li__menu__zone .dropdown {
+        background-color: #205194 !important;
+        box-shadow: inset 0 0 47px -21px rgba(0,0,0,0.75);
+    }
+
+
+.sku-menu-sub-title {
+    background-color: #23322800;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    margin-left: -18px !important;
+    padding-left: 18px !important;
+    margin-bottom: 10px !important;
+    font-size: 14px !important;
+    font-weight: 800 !important;
+    color: #fdc800;
+    text-decoration: underline;
+}
+
+.header-sub-title-eng {
+    font-size: 8px;
+    font-weight: 300;
+    color: black;
+    font-family: "Inter", "Arial Black", sans-serif;
+}
+
+.info__box__1 {
+    background-image: url(/content/web/university/shri-krishna-universityconvocation-2024.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center !important;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+    .info__box__1 .info__button {
+        color: black;
+        background-color: #d4b974 !important;
+        font-size: 14px;
+        padding: 5px;
+        padding-left: 15px;
+        padding-right: 15px !important;
+    }
+
+    .info__box__1 h5 {
+        padding-bottom: 5px;
+        font-size: 18px;
+        color: black;
+        padding-top: 15%;
+        margin-bottom: 5px !important;
+    }
+
+
+
+
+ /*ANNOUNCEMENT SECTION*/
+.headingfx {
+    background-color: #205194 !important;
+    color: white !important;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.tabs-menu li.current {
+    position: relative;
+    background-color: #fdc800;
+    border-bottom: 0px solid #063a7e;
+    z-index: 5;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 800;
+}
+
+.tabs-menu li {
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    margin-right: 10px;
+    background-color: transparent;
+    border-top: 0px solid #d4d4d1;
+    border-right: 0px solid #d4d4d1;
+    border-left: 0px solid #d4d4d1;
+    font-family: "Inter", "Arial Black", sans-serif;
+}
+
+.media:nth-child(even) {
+    background-color: transparent;
+}
+.demof p {
+    font-family: "Inter", "Arial Black", sans-serif;
+}
+
+.demof li {
+    padding: 2px;
+    border-bottom: 2px dashed #e8e8e8;
+}
+.panel.date {
+    margin: 0px;
+    width: 40px;
+    text-align: center;
+}
+
+
+
+/*ABOUT UNIVERSITY SECTION*/
+.info__box__9 {
+    background-color: #224472 !important;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.info__box__10 {
+    background-color: #3c5e8c;
+}
+.info__box__11 {
+    background-color: #224472;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+#campus-short-info .our-offer p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+
+
+
+
+
+
+/*TOP-LINK MOBILE MENU START*/
+/* Styling specifically for the unique e-journal menu */
+
+
+.bg__light__yellow {
+   background-color: #fdfff7;
+}
+
+
+.mobile__menu__title__top__link {
+    font-size: 10px !important;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    border-right: 1px solid #e2e2e2;
+    padding-right: 5px;
+}
+
+.unique-e-journal-link {
+    font-size: 10px !important;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-family: "Inter", "Arial Black", sans-serif;
+}
+
+/* Responsive styling for the e-journal menu */
+@media (max-width: 64em) {
+    .unique-e-journal {
+        padding: 6px;
+    }
+
+    .unique-e-journal-link {
+        font-size: 8px;
+        text-align: center;
+    }
+
+    .unique-e-journal-submenu {
+        padding-left: 0;
+        display: none; /* Initially hidden */
+        font-family: "Inter", "Arial Black", sans-serif;
+    }
+
+        .unique-e-journal-submenu.active {
+            display: block; /* Show when the active class is added */
+            list-style: none;
+            border-left: 1px solid #070707;
+        }
+
+        .unique-e-journal-submenu li a {
+            font-size: 6px;
+            display: block;
+            padding: 2px 5px;
+            color: black;
+            font-weight: 300;
+        }
+
+        .unique-e-journal-submenu li {
+            margin: 0px 0;
+        }
+        .unique-e-journal-submenu li:hover {
+            background-color:aquamarine;
+            color:white;
+        }
+}
+
+/* Tablet adjustments for the e-journal menu */
+@media (min-width: 768px) and (max-width: 991px) {
+    .unique-e-journal-link {
+        font-size: 11px;
+        padding: 6px;
+    }
+
+    .unique-e-journal-submenu li a {
+        font-size: 11px;
+    }
+}
+
+/*TOP-LINK MOBILE MENU END*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

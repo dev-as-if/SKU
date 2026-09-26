@@ -1,0 +1,4514 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <title>Research Papers | Shri Krishna University | Shri Krishna University</title>
+    <meta name="description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education.">
+    <meta name="keywords" content="sku india, Best University MP, SKU, SKUINDIA, Shri Krishna University, Best Leading University Chhatarpur, Best University Chhatarpur, Best college MP, Best Hi-Tech University In Bundelkhand, Hi-Tech University In Chhatarpur, Hi-Tech College In Chhatarpur, Hi-Tech College In MP, Hi-Tech College In Madhya Pradesh, Best University India, Leading University India, Best Private University, Chhatarpur, Madhya Pradesh, Sagar, Damoh, Panna, Tikamgarh, Jhansi, Khajuraho, Best High-Tech University, Best Law College, Best Nursing College, Best Architecture College, Best Pharmacy College, Global University, UGC Approved University, Top Rated University Madhya Pradesh, Best MBA University, Best Engineering University, shri krishna, ">
+
+    <meta property="og:title" content="Research Papers | Shri Krishna University | Shri Krishna University" />
+    <meta property="og:description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shri Krishna University" />
+    <meta property="og:url" content="https://www.skuindia.ac.in/research-papers" />
+    <link rel="canonical" href="https://www.skuindia.ac.in/research-papers" />
+    <link rel="shortcut icon" type="image/png" href="/Content/images/sku_logo.png" />
+
+    <!-- Additional course-related keywords for SEO -->
+    <meta name="Course_keywords" content="MBA, Engineering, Science, Computer Science, Arts, Architecture, LAW, Mass Communication, Nursing, Pharmacy, Paramedical courses." />
+
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="FLDn8XvtIcI/GsRYkFdZ+g" async></script>
+    
+
+
+
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,800&display=swap" rel="stylesheet">
+
+    <!-- icons -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">    
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="/Content/Assets/css/nwuni.css" />
+    <link rel="stylesheet" href="/Content/Assets/css/bootstrap.min.css" />
+
+
+    
+    
+    
+    
+    
+    
+
+    <!-- slider -->
+    <script src="/Content/xcv/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/Content/Assets/plugins/Slider/slippry.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/plugins/Slider/slippry.css">
+
+    <!-- parsley -->
+    <link href="/Content/Assets/css/parsley.css" rel="stylesheet" />
+    <script src="/Content/Assets/js/parsley.js"></script>
+
+    <!-- lightbox -->
+    <link href="/Content/xcv/ekko-lightbox.css" rel="stylesheet" />
+    <script src="/Content/xcv/ekko-lightbox.js"></script>
+
+    <!-- custom-css -->
+
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/css/sku.css">
+    <link href="/Content/Assets/css/sku_custom.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/footer.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/skuCustom2020.css" rel="stylesheet" />
+    <link href="/Content/web/css/web-view-custom.css" rel="stylesheet" />
+
+    <!-- custom-css-mobile -->
+    <link rel="stylesheet" type="text/css" href="/Content/masterCss/dotmobile-small.css" />
+
+    <!-- loader style -->
+    <link href="/Content/admin/css/zloder.css" rel="stylesheet" />
+
+
+    
+    <link href="/Content/web/css/pages.css" rel="stylesheet" />
+    <link href="/Content/web/css/pages__mx.css" rel="stylesheet" />
+
+
+    <style>
+        /* Global Styles */
+        .social {
+            padding: 0 10px;
+            border-radius: 50px;
+        }
+
+        #divProcessing {
+            /* No styles defined */
+        }
+
+        .loading {
+            position: fixed;
+            z-index: 999;
+            height: 2em;
+            width: 2em;
+            overflow: show;
+            margin: auto;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            visibility: hidden;
+        }
+
+            .loading:before {
+                content: '';
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+                background: -webkit-radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+            }
+
+            .loading:not(:required) {
+                font: 0/0 a;
+                color: transparent;
+                text-shadow: none;
+                background-color: transparent;
+                border: 0;
+            }
+
+                .loading:not(:required):after {
+                    content: '';
+                    display: block;
+                    font-size: 10px;
+                    width: 1em;
+                    height: 1em;
+                    margin-top: -0.5em;
+                    animation: spinner 1500ms infinite linear;
+                    border-radius: 0.5em;
+                    box-shadow: rgba(255, 255, 255, 0.75) 1.5em 0 0 0, rgba(255, 255, 255, 0.75) 1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) 0 1.5em 0 0, rgba(255, 255, 255, 0.75) -1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) -1.5em 0 0 0, rgba(255, 255, 255, 0.75) -1.1em -1.1em 0 0, rgba(255, 255, 255, 0.75) 0 -1.5em 0 0, rgba(255, 255, 255, 0.75) 1.1em -1.1em 0 0;
+                }
+
+        /* Animation */
+        @keyframes spinner {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Social Icon Styles */
+        .socialIcon {
+            padding: 10px 51px;
+            font-size: 48px;
+        }
+
+        /* Filter Block Styles */
+        .xFilterBlock {
+            background-color: #efeded;
+            padding: 10px;
+            margin: 0 0 20px;
+        }
+
+        /* Horizontal Rule Styles */
+        hr.style13 {
+            height: 10px;
+            border: 0;
+            box-shadow: 0 10px 10px -10px #8c8b8b inset;
+        }
+
+        hr.styleX1 {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, #f0f0f0, #8c8b8b, #f0f0f0);
+        }
+
+        hr.style15 {
+            border-top: 4px double #8c8b8b;
+            text-align: center;
+        }
+
+            hr.style15:after {
+                content: '\002665';
+                display: inline-block;
+                position: relative;
+                top: -15px;
+                padding: 0 10px;
+                background: #f0f0f0;
+                color: #8c8b8b;
+                font-size: 18px;
+            }
+
+        /* Content Block Styles */
+        .content-xc {
+            padding: 15px;
+            background-color: #f8f8f8;
+        }
+
+        /* Ribbon Styles */
+        .ribbon {
+            background: #e22692;
+            height: 87px;
+            margin: 0 auto;
+            position: absolute;
+            width: 74px;
+            right: 20px;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 87px;
+            font-size: 35px;
+            color: #f2f2f2;
+        }
+
+            .ribbon:after,
+            .ribbon:before {
+                content: '';
+                position: absolute;
+                border-top: 20px solid #e22692;
+                height: 0;
+                width: 0;
+                top: 100%;
+            }
+
+            .ribbon:after {
+                border-left: 50px solid transparent;
+                right: 0;
+            }
+
+            .ribbon:before {
+                border-right: 50px solid transparent;
+                left: 0;
+            }
+
+        /* Box Styles */
+        #box {
+            width: 250px;
+            height: 250px;
+            background: #f8f8f8;
+            position: relative;
+            color: #666;
+            font-size: 18px;
+            border: 1px solid #333;
+        }
+
+        /* Navigation Title Styles */
+        .li-nav-title {
+            border-right: 1px solid #dedede !important;
+        }
+
+        /* Heading Styles */
+        .style__3 h1 {
+            font-size: 28px;
+            font-weight: 500;
+            letter-spacing: 0;
+            line-height: 1.5em;
+            padding-bottom: 15px;
+            position: relative;
+        }
+
+            .style__3 h1:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                height: 5px;
+                width: 55px;
+                background-color: #111;
+            }
+
+            .style__3 h1:after {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 2px;
+                height: 1px;
+                width: 95%;
+                max-width: 255px;
+                background-color: #333;
+            }
+
+        .style__6 h2 {
+            text-align: center;
+            color: #222;
+            font-size: 30px;
+            font-weight: 400;
+            text-transform: uppercase;
+            word-spacing: 1px;
+            letter-spacing: 2px;
+            color: #c50000;
+        }
+
+            .style__6 h2 span {
+                line-height: 2em;
+                padding-bottom: 15px;
+                text-transform: none;
+                font-size: .7em;
+                font-weight: normal;
+                font-style: italic;
+                font-family: "Playfair Display","Bookman",serif;
+                color: #999;
+                letter-spacing: -0.005em;
+                word-spacing: 1px;
+                letter-spacing: none;
+            }
+
+            .style__6 h2:after, .style__6 h2:before {
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 45px;
+                height: 4px;
+                content: "";
+                right: 45px;
+                margin: auto;
+                background-color: #ccc;
+            }
+
+            .style__6 h2:before {
+                background-color: #d78b8b;
+                left: 45px;
+                width: 90px;
+            }
+
+        .style__7 h2 {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 300;
+            color: #222;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            display: grid;
+            grid-template-columns: 1fr max-content 1fr;
+            grid-template-rows: 27px 0;
+            grid-gap: 20px;
+            align-items: center;
+        }
+
+            .style__7 h2:after, .style__7 h2:before {
+                content: " ";
+                display: block;
+                border-bottom: 1px solid #c50000;
+                border-top: 1px solid #c50000;
+                height: 5px;
+                background-color: #f8f8f8;
+            }
+
+        .style__10 h2 {
+            font-size: 18px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+
+            .style__10 h2:before {
+                background-color: #c50000;
+                border-radius: 0.25rem;
+                content: '';
+                display: block;
+                height: 0.25rem;
+                width: 42px;
+                margin-bottom: 1.25rem;
+            }
+
+        /* Top Bar Styles */
+        #top-bar {
+            font-weight: 800;
+            position: inherit;
+            left: 0;
+            top: 0;
+            z-index: 2000;
+            background: #f7f7f7;
+            width: 100%;
+            text-align: center;
+            height: 40px;
+            overflow: visible !important;
+            border-bottom: 1px solid #dedede;
+            background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+        }
+
+            #top-bar #right .e-journal-menu {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter {
+                    display: inline-block !important;
+                    padding: 8px !important;
+                    background-color: white !important;
+                    color: inherit !important;
+                    text-decoration: none !important;
+                    font-size: 10px !important;
+                }
+
+                /* Base Styles */
+                #top-bar #right .e-journal-menu .submenu {
+                    display: none; /* Hide submenu initially */
+                    position: absolute;
+                    top: 100%;
+                    right: 10px;
+                    background-color: white;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                    padding: 10px;
+                    min-width: 200px;
+                    z-index: 1000;
+                    text-align: left;
+                }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter:hover .submenu {
+                    display: block !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block !important;
+                    margin: 5px 0 !important;
+                    padding: 0 !important;
+                    list-style-type: none !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block !important;
+                    padding: 5px !important;
+                    color: #333 !important;
+                    text-decoration: none !important;
+                    white-space: nowrap !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4 !important;
+                        color: white !important;
+                    }
+
+            #top-bar #right {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu,
+                #top-bar #right .e-journal-menu > a,
+                #top-bar #right .e-journal-menu .submenu,
+                #top-bar #right .e-journal-menu .submenu li,
+                #top-bar #right .e-journal-menu .submenu a {
+                    margin: 0 !important;
+                    border: none !important;
+                    font-size: inherit !important;
+                    font-weight: normal !important;
+                    line-height: normal !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu {
+                        opacity: 0;
+                        visibility: hidden;
+                        transition: opacity 0.2s, visibility 0.2s;
+                    }
+
+                    #top-bar #right .e-journal-menu:hover .submenu {
+                        opacity: 1 !important;
+                        visibility: visible !important;
+                    }
+
+
+
+
+
+        /* Desktop View: Show submenu on hover */
+        @media (min-width: 769px) {
+            #top-bar #right .e-journal-menu:hover .submenu {
+                display: block;
+            }
+        }
+
+        /* Mobile View: Ensure submenu only shows when toggled */
+        @media (max-width: 768px) {
+            #top-bar #right .e-journal-menu .submenu {
+                position: static;
+                box-shadow: none;
+                background-color: transparent;
+                padding: 0;
+            }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block;
+                    margin: 5px 0;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block;
+                    padding: 5px;
+                    color: #333;
+                    text-decoration: none;
+                    white-space: nowrap;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4;
+                        color: white;
+                    }
+        }
+    </style>
+    <style>
+        .blink {
+            animation: blinker 1s linear infinite;
+            background: red !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .blink-Yellow {
+            animation: blinker 1s linear infinite;
+            background: #5a0303 !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+
+
+        .blink-blue {
+    animation: blinkBlue 1s infinite;
+}
+
+@keyframes blinkBlue {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+    </style>
+</head>
+<body>
+    <div id="divProcessing" class="loading"></div>
+
+    <div id="top-bar" class="strip">
+        <div class="contain-1120 group">
+
+
+
+            <ul id="left">
+                
+                <li class="header-sub-title-eng hidden-xs">(Approved By Government of Madhya Pradesh & UGC)</li>
+            </ul>
+            <ul id="right">
+                <li><a class="" href="/admin/Login/Login">Login</a></li>
+                <li>
+                    <a href="http://library.skuindia.com">Library</a>
+                </li>
+                <li style="padding: 8px;" class="blink-blue">
+                    <a href="https://sku.clickeffect.in/" target="_blank"
+                       style="background: linear-gradient(45deg, #007bff, #00c6ff);
+                              color: #fff;
+                              padding: 5px 18px;
+                              border-radius: 25px;
+                              text-decoration: none;
+                              font-weight: bold;
+                              display: inline-block;
+                              box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+                              transition: 0.3s;">
+                        🎥 360° Virtual Tour
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink-Yellow">
+                    <a href="/Home/proformaUGC" target="_blank" style="color: white;">
+                        UGC Proforma
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink">
+                    <a href="http://skuindia.ac.in/content/upload/disclosure/ugc-sku-public-self-disclosure.pdf" target="_blank" style="color: white;">
+                        Public Self Disclosure
+                    </a>
+                </li>
+                <li style="padding: 8px;">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-wifi" aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+                </li>
+                <li class="e-journal-menu">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i>
+                        &nbsp;E Journal
+                    </a>
+                    <ul class="submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            const ejournalMenu = document.querySelector('.e-journal-menu');
+            const submenu = ejournalMenu.querySelector('.submenu');
+            const ejournalLink = ejournalMenu.querySelector('a');
+
+            // Function to toggle submenu display
+            function toggleSubmenu() {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    submenu.style.display = submenu.style.display === 'block' ? 'none' : 'block';
+                } else {
+                    submenu.style.display = ''; // Reset display for desktop view
+                }
+            }
+
+            // Toggle submenu on click for mobile
+            ejournalLink.addEventListener('click', function (event) {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    event.preventDefault(); // Prevent the default anchor behavior
+                    toggleSubmenu();
+                }
+            });
+
+            // Hide submenu if clicked outside for mobile view
+            document.addEventListener('click', function (event) {
+                if (window.innerWidth <= 768 && !ejournalMenu.contains(event.target)) {
+                    submenu.style.display = 'none';
+                }
+            });
+
+            // Adjust submenu display on window resize
+            window.addEventListener('resize', function () {
+                submenu.style.display = ''; // Reset display on resize
+            });
+        });
+    </script>
+
+
+    <header id="nu" class="grayBg">
+        <div class="bottom-bar group">
+            <div class="container-fluid grayBg hidden-xs" style="padding-top: 0px; margin-top:-10px;">
+                <div class="col-md-5 col-xs-12 logo">
+                    <a href="/">
+                        <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 col-xs-12" style="padding-top: 10px;padding-left: 0;padding-bottom: 0px;text-align: left; float:right;">
+                    <div style="float:right;">
+                        <a href="https://www.skuindia.ac.in/Enquiry">
+                            <img style="border-radius: 12px;" src="https://www.skuindia.ac.in/Content/web/banner/shri-krishna-university-2026-admission-enquiry-now.webp" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid grayBg hidden-xs" id="hybridHeader"
+                 style="padding-left: 0px; padding-right: 0px;">
+                <div class="col-md-12"
+                     style="padding: 0px;">
+                    <nav aria-label="main navigation menu" id="top-nav">
+<ul>
+    
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">About <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>The University</span>
+                    </li>
+                    <li>
+                        <a href="/about-university">About University</a>
+                    </li>
+                    <li>
+                        <a href="/Administration">Administration</a>
+                    </li>
+                    <li>
+                        <a href="/institutional-development-plan">Institutional Development Plan</a>
+                    </li>
+                    <li>
+                        <a href="/annual-reports">Annual Reports</a>
+                    </li>
+                    <li>
+                        <a href="/annual-accounts">Annual Accounts</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Welcome Note</span>
+                    </li>
+                    <li>
+                        <a href="/chancellor-welcome-message">Chancellor Message</a>
+                    </li>
+                    <li>
+                        <a href="/chairman-welcome-message">Chairman Message</a>
+                    </li>
+                    <li>
+                        <a href="/vice-chancellor-welcome-message">Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/pro-vice-chancellor-welcome-message">Pro Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/registrar">Registrar Message</a>
+                    </li>
+                    <li>
+                        <a href="/Important-message">Important Message</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Councils</span>
+                    </li>
+                    <li>
+                        <a href="/governing-body">Governing Body</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-management">Board of Management</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-council">Academic Council</a>
+                    </li>
+
+                    <li>
+                        <a href="/finance-committee">Finance Committee</a>
+                    </li>
+
+                    <li>
+                        <a href="/internal-complaint-committee">Internal Complaint Committee (Staff)</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-studies">Board of Studies</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-leadership">Academic Leadership</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul class="column">
+                    <li class="sku-menu-sub-title">
+                        <span>Regulatory & Compliance</span>
+                    </li>
+                    <li>
+                        <a href="/act-and-statutes">Act & Statutes</a>
+                    </li>
+                    <li>
+                        <a href="/approval-and-recognitions">Approvals & Recognitions</a>
+                    </li>
+                    <li>
+                        <a href="/ordinances">Ordinance</a>
+                    </li>
+                    <li>
+                        <a href="">Accreditation & Ranking</a>
+                    </li>
+                    <li>
+                        <a href="/Home/proformaUGC">
+                            Proforma For Submission of information by State Private</br>
+                            Universities for ascertaining their norms and Standards
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            UGC Application Proforma
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Faculty <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Science & Technology</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/2">Faculty of Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/12">Faculty of Computer Science & Application</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/14">Faculty of Agriculture</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Medical & Health Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/Course/FacultyPharmacy">Faculty of Pharmacy</a>
+                        <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                            <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                            <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/Course-details/29">Faculty of Paramedical</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/26">Faculty of Nursing</a>
+                    </li>
+                    <li>
+                         <a href="#">Faculty of Ayurveda</a>
+                         <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                             <li><a href="/department/ayurveda">Department of Ayurveda</a></li>
+                             <li><a href="https://skuayurvedic.com/">Shri Krishna Ayurvedic Hospital</a></li>
+                         </ul>
+                        
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Arts, Humanities & Social Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/education">Department of Education</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/15">Faculty of Humanities & Social Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/7">Faculty of Journalism and Mass Communication</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/22">Faculty of Music, Dance, Fine Arts & Film and Theater</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/18">Faculty of Fashion and Animation</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/20">Faculty of Vocational Studies</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Business, Law & Management</span>
+                    </li>
+                    <li>
+                        <a href="/Course-details/8">Faculty of Management</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/5">Faculty of Commerce</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/law">Faculty of Law</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/disaster-management">Faculty of Disaster Management</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Academics <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/academic-menu-intro.webp" />
+                <p class="intro">Stay informed with the Academic Calendar, explore quality initiatives by the Internal Quality Assurance Cell, and discover academic collaborations. Access a rich collection of resources in the Library, experience innovative pedagogy, and review exam regulations for a smooth academic journey.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/academic-calander">Academic Calendar</a>
+                    </li>
+                    <li>
+                        <a href="/internal-quality-assurance-cell">Internal Quality Assurance Cell</a>
+                    </li>
+                    <li>
+                        <a href="/collaboration">Academic Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/teaching-staff-details">Teaching Staff</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/pedagogy">Pedagogy</a>
+                    </li>
+                    <li>
+                        <a href="/exam-guidelines">Exam Guidelines & Regulation</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Admissions <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/admission-menu-intro.webp" />
+                <p class="intro">Learn how to apply and start your SKU journey. Explore certificate, diploma, undergraduate, postgraduate, and Ph.D. programs. Get details on the admission process, prospectus, fees refund policy, scholarships, and apply online effortlessly.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Academic Programs</span>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/1">Undergradute Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/2">Postgraduate Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <a href="/Search-Course-Syllabus">Scheme / Syllabus</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Guidelines</span>
+                    </li>
+                    <li>
+                        <a href="">Admission Process & Guidelines</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/Content/web/prospectus/shri-krishna-university-prospectus-2025-26.pdf">Prospectus</a>
+                    </li>
+                    <li>
+                        <a href="/fees-refund-policy">Fees Refund Policy</a>
+                    </li>
+                    <li>
+                        <a href="">Scholorship</a>
+                    </li>
+                    <li>
+                        <a href="">Online Application & Enquiry</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">R&D/Research<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/research-menu-intro.webp" />
+                <p class="intro">Explore the Research & Development Cell, engage in consultancy projects, and discover patents and research papers. Learn about books, foreign and industry collaborations, and the Incubation Center fostering start-ups and entrepreneurship. Access central facilities for innovation and growth.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/research-and-development-cell">Research & Development Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Research & Consultancy Projects</a>
+                    </li>
+                    <li>
+                        <a href="/research-patent">Patents</a>
+                    </li>
+                    <li>
+                        <a href="/research-papers">Research Papers</a>
+                    </li>
+                    <li>
+                        <a href="/books-and-book-chapters">Books & Book Chapters</a>
+                    </li>
+                    <li>
+                        <a href="#">Foreign Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="#">Industry Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/university-Incubation-Innovation-startup-center">Incubation Center/ Start-ups/ Entrepreneurship Cell</a>
+                    </li>
+                    <li>
+                        <a href="/university-central-facilities">Central Facilities</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+
+    <li class="li-nav-title li__sudent__zone">
+        <a href="#">Life@SKU<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro" style="width:35%;">
+                <img class="navigation__intro__img" src="/Content/web/navigation/campus-.webp" />
+                <p class="intro">Explore student support services including the Grievance Redressal Committee, Ombudsperson, and Anti-Ragging Cell. Access campus highlights, sports, health, and lab facilities. Discover NCC/NSS activities, placement support, and amenities for differently-abled individuals, ensuring a safe and inclusive environment.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Rights & Safety</span>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Student-Grievance-Redressal-Committee-Feb-2026.pdf">Student Grievance Redressal Committee</a>
+                    </li>
+                    <li>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd5YfrlIPE8YsTqJUIg6p0GrzIU1JgEnypjtk7Z2LsFQA_Mw/viewform">Student Grievance Form</a>
+                    </li>
+                    <li>
+                        <a href="/ombudsperson">Ombudsperson</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Anti-Ragging-Committee-Feb-2026.pdf">Anti-Ragging Cell</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Internal-Complaints-Committee-ICC-Feb-2026.pdf">Internal Complaint Committee (Students)</a>
+                    </li>
+                    <li>
+                        <a href="/equal-opportunity-cell">Equal Opportunity Cell/ Socio-Economically Disadvantaged Groups Cells (SEDG)</a>
+                    </li>
+                    <li>
+                        <a href="https://samadhaan.ugc.ac.in/" target="_blank">UGC e-Samadhan Portal</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Campus Life</span>
+                    </li>
+                    <li>
+                        <a href="/Sports-Facility">Sports Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/university-health-facilities">Health Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/Internet">Computer Lab</a>
+                    </li>
+                    <li>
+                        <a href="/Innovation-Labs">Innovation Labs</a>
+                    </li>
+                    <li>
+                        <a href="/Laboratories">Laboratories</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/Transport">Transport</a>
+                    </li>
+                    <li>
+                        <a href="/facility-for-differently-abled">Facility for Differently Abled</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Safety</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Support & Activities</span>
+                    </li>
+                    <li>
+                        <a href="/ncc-nss">NCC/NSS Details</a>
+                    </li>
+                    <li>
+                        <a href="/training-and-placements">Placement Cell & its Activities</a>
+                    </li>
+                    <li>
+                        <a href="/counselling-well-being-cell">SKU Counselling & Well-being Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Highlights</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Information Corner<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/information-menu-intro.webp" />
+                <p class="intro">Stay updated with circulars, announcements, and newsletters. Explore recent events, achievements, and international student facilities. Browse print and online media coverage, and view highlights in the video gallery.</p>
+            </li>
+            <li class="nav-links" style="width: 35%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Announcements & Events</span>
+                    </li>
+                    <li>
+                        <a href="#">Circular & Notices</a>
+                    </li>
+                    <li>
+                        <a href="#">Announcements</a>
+                    </li>
+                    <li>
+                        <a href="#">Newsletters</a>
+                    </li>
+                    <li>
+                        <a href="#">News, Recent Events & Achievements</a>
+                    </li>
+                    <li>
+                        <a href="#">Study in India & SKU</a>
+                    </li>
+                    <li>
+                        <a href="#">Admission procedure and facilities provided to International Students</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Media</span>
+                    </li>
+                    <li>
+                        <a href="/media-gallery">Print Media</a>
+                    </li>
+                    <li>
+                        <a href="#">Online Media</a>
+                    </li>
+                    <li>
+                        <a href="/event-gallery">Event Gallery</a>
+                    </li>
+                    <li>
+                        <a href="/video-gallery">Video Gallery</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Career</span>
+                    </li>
+                    <li>
+                        <a href="/Apply-Job">Apply Online</a>
+                    </li>
+                    <li>
+                        <a href="/carrier">Current Openings</a>
+                    </li>
+                </ul>
+            </li>
+
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Placement <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/placement-menu-intro.webp" />
+                <p class="intro">Enhance your skills with training programs and explore career opportunities through our dedicated placement cell.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/training-and-placements">Training & Placements</a>
+                    </li>
+                   
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title">
+        <a href="/">NIRF</a>
+    </li>
+</ul>
+
+                    </nav>
+                </div>
+            </div>
+
+
+
+
+
+            
+
+            <div class="row mobile-head bg__light__yellow " style="text-align:left;">
+                <div class="col-xs-11 padR0 hidden-lg hidden-md hidden-sm">
+                    <a href="tel:18002003007" class="mobile__admission__head">Admission Helpline +91 6262 180 303/909</a>
+                </div>
+                <div class="col-xs-1 padR0 hidden-lg hidden-md hidden-sm">
+                    <div id="mobile-links">
+                        <a class="mobile-link mobile-nav-link" href="#mobile-nav">
+                            <span class="hide-label">Menu</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-12 hidden-lg hidden-md hidden-sm" style="border-top: 1px solid #e2e2e2;">
+                    <a href="http://library.skuindia.com" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-library' aria-hidden="true"></i>
+                        Library
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        Public Self Disclosure
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+
+                    <a href="#" class="mobile__menu__title__top__link unique-e-journal-link animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i> &nbsp;E Journal
+                    </a>
+                    <ul class="unique-e-journal-submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+
+                    <script>
+                        document.querySelector('.unique-e-journal-link').addEventListener('click', function (e) {
+                            e.preventDefault();
+                            document.querySelector('.unique-e-journal-submenu').classList.toggle('active');
+                        });
+                    </script>
+                </div>
+            </div>
+            <nav id="mobile-nav">
+<ul>
+    <li>
+        <a href="http://www.skuindia.ac.in">Home</a>
+    </li>
+    <li>
+        <a href="#">About</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            <li class="sku-menu-sub-title">
+                <span>The University</span>
+            </li>
+            <li>
+                <a href="">About University</a>
+            </li>
+            <li>
+                <a href="">Administration</a>
+            </li>
+            <li>
+                <a href="">Institutional Development Plan</a>
+            </li>
+            <li>
+                <a href="">Annual Reports</a>
+            </li>
+            <li>
+                <a href="">Annual Accounts</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Welcome Note</span>
+            </li>
+            <li>
+                <a href="">Chancellor Message</a>
+            </li>
+            <li>
+                <a href="">Chairman Message</a>
+            </li>
+            <li>
+                <a href="">Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Pro Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Important Message</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Councils</span>
+            </li>
+            <li>
+                <a href="">Governing Body</a>
+            </li>
+
+            <li>
+                <a href="">Board of Management</a>
+            </li>
+
+            <li>
+                <a href="">Academic Council</a>
+            </li>
+
+            <li>
+                <a href="">Finance Committee</a>
+            </li>
+
+            <li>
+                <a href="">Internal Complaint Committee (Staff)</a>
+            </li>
+
+            <li>
+                <a href="">Board of Studies</a>
+            </li>
+
+            <li>
+                <a href="">Academic Leadership</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Regulatory & Compliance</span>
+            </li>
+            <li>
+                <a href="#">Act & Statutes</a>
+            </li>
+            <li>
+                <a href="">Approvals & Recognitions</a>
+            </li>
+            <li>
+                <a href="">Ordinance</a>
+            </li>
+            <li>
+                <a href="">Accreditation & Ranking</a>
+            </li>           
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Faculty</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            
+        <li>
+            <a href="/faculty/education">Department of Education</a>
+        </li>
+            <li>
+                <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+            </li>
+        <li>
+            <a href="/Course/FacultyPharmacy">Faculty of Pharmacy </a>
+            <ul class="mobile__sub__ul_li_ul">
+                <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+            </ul>
+        </li>
+            
+        </ul>
+    </li>
+    <li>
+        <a href="#">Admissions</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Admissions Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="Course-admission/4">Certificate Course</a>
+            </li>
+            <li>
+                <a href="Course-admission/3">Diploma Admissions</a>
+            </li>
+            <li>
+                <a href="Course-admission/1">Undergradute Admission</a>
+            </li>
+            <li>
+                <a href="Course-admission/2">Postgraduate Admission</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">M.Phil. / Ph.D.</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scholarship</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Fees Structure</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scheme / Syllabus</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Campus Life</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Campus Life Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="#">Campus Events</a>
+            </li>
+            <li>
+                <a href="#">Visiting Campus</a>
+            </li>
+            <li>
+                <a href="#">Campus Highlights</a>
+            </li>
+            <li>
+                <a href="#">Campus Safety</a>
+            </li>
+            <li class="sku-menu-sub-title">
+                <span>Gallery</span>
+            </li>
+            <li>
+                <a href="/home/event-gallery">Picture Gallery</a>
+            </li>
+            <li>
+                <a href="/home/video-gallery">Video Gallery</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Research</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Research Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a target="_blank" href="http://library.skuindia.ac.in">Libraries</a>
+            </li>
+            <li>
+                <a href="#">Innovation &amp; Entrepreneurship</a>
+            </li>
+            <li>
+                <a href="#">Research News</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Infrastructure</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Infrastructure Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+    <li><a href="Infrastructure/3">Library </a></li>
+    <li><a href="Infrastructure/4">Laboratories </a></li>
+    <li><a href="Infrastructure/5">Hostel </a></li>
+    <li><a href="Infrastructure/6">Sports facility </a></li>
+    <li><a href="Infrastructure/7">Transport </a></li>
+    <li><a href="Infrastructure/9">Internet </a></li>
+
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Career</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Career Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+
+                <a>
+
+                </a>
+                <a href="/carrier/Why-SKU">Why Sku</a>
+            </li>
+            <li>
+                <a href="/Apply-Job">Apply Online</a>
+            </li>
+            <li>
+                <a href="/Carrier">Current Openings</a>
+            </li>
+            <li>
+                <a href="#">Policies</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/contact-us">Contact Us</a>
+    </li>
+</ul>
+
+<div id="mobile-nav-bottom">
+    <ul id="mobile-nav-bottom-left">                      
+        <li>
+            <a href="#">Alumni</a>
+        </li>
+        <li>
+            <a href="#">Faculty &amp; Staff</a>
+        </li>
+    </ul>
+    <ul id="mobile-nav-bottom-right">
+        <li>
+            <a href="#">Webmail</a>
+        </li>
+        <li><a class="" href="/admin/Login/Login">Admin</a></li>
+        <li>
+            <a href="#">Libraries</a>
+        </li>
+        <li>
+            <a href="#">Academic&#160;Calendar</a>
+        </li>
+    </ul>
+</div>
+            </nav>
+            <div class="row mobile-head hidden-lg hidden-md hidden-sm" style="background-color: #e8e8e8; text-align: center; color: white !important; ">
+                <div class="col-xs-12"></div>
+            </div>
+            <div class="container-fluid hidden-lg hidden-md hidden-sm bg__light__yellow">
+                <div class="container" style="padding-right: 0px; padding-left: 0px;">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="#">
+                                <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+        </div>
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="conatiner-content" style="background: #f7f8fa !important;">
+        <div class="container-fluid" id="TitleBreadcum">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <style>
+                        </style>
+                        <nav aria-label="Breadcrumb" class="breadcrumb">
+                            <ol>
+                                <li>
+                                    <a href="#"><i class='bx bx-home-circle'></i></a>
+                                </li>
+                                
+     <li>
+     <a href="/Faculty">R&D/Research</a>
+ </li>
+ <li>
+     <a href="" aria-current="page">Research Papers</a>
+ </li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+<style>
+    .table {
+        margin-top: 20px;
+        font-size:11px;
+    }
+
+        .table th, .table td {
+            text-align: left;
+            vertical-align: middle;
+            padding-left: 10px !important;
+        }
+
+        .table th {
+            background-color: #2c3e50;
+            color: #fff;
+        }
+
+    .table-striped > tbody > tr:nth-of-type(odd) {
+        background-color: #f9f9f9;
+    }
+
+    .table-hover > tbody > tr:hover {
+        background-color: #f1f1f1;
+    }
+    .table > thead > tr {
+        background-color: #337ab7;
+        color: white;
+    }
+    h1, h3 {
+        color: #2c3e50;
+    }
+    .intro {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+        color: #555;
+    }
+    
+</style>
+<header class="university__aboutus">
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-heading">Research Papers</div>
+            
+        </div>
+    </div>
+</header>
+<div class="container-fluid padTB25">
+    <div class="container">
+
+        <div class="intro">
+            <p>
+                At our university, research is at the core of academic excellence. Our faculty and scholars are continuously engaged in meaningful investigations and contribute significantly to national and international journals. This page highlights our most recent and impactful research papers published across diverse disciplines.
+            </p>
+        </div>
+
+        <table class="table table-bordered table-striped table-hover" width="100%">
+            <tr>
+                <td>S.No.</td>
+                <td>Faculty</td>
+                <td>Year</td>
+                <td>Author(s)  Name</td>
+                <td>Title  of Research Paper</td>
+                <td>Name of Journal </td>
+                <td>National/International</td>
+                <td>ISSN No. </td>
+                <td>Link (If Any)</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Education</td>
+                <td>2024</td>
+                <td>Dr. Dinesh Kumar Mishra</td>
+                <td>iafMr enu eksgu ekyoh; dk iz;ksxkRed f&#39;k{kk n&#39;kZu</td>
+                <td>SKU &#39;kks/k lapkj jan-2024</td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/april.html</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Education</td>
+                <td>2023</td>
+                <td>Dr. Dinesh Kumar Mishra</td>
+                <td>Hkkjrh; nk&#39;kZfud ijEijk esa tSu n&#39;kZu dk egRo</td>
+                <td>Janmat Power Multi Disciplinary Research Journal. Oct. 2023</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Education</td>
+                <td>2023</td>
+                <td> Siju John (1), Dinesh Kumar Mishra (2)</td>
+                <td>A review of social values and learning behaviour of student in the district of Satna</td>
+                <td>Journal of Advances and Scholarly Researches in Allied Education (JASRAE)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/110</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Education</td>
+                <td>2024</td>
+                <td> Siju John (1), Dinesh Kumar Mishra (2)</td>
+                <td>An influences of gender, locality, and religion on social values among secondary students</td>
+                <td>Journal of Advances and Scholarly Researches in Allied Education (JASRAE)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/197</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Education</td>
+                <td>2023</td>
+                <td>Charls KC (1), Dinesh Kumar Mishra (2</td>
+                <td>A review of blended learning approach at senior secondary level schools</td>
+                <td>Journal of Advances and Scholarly Researches in Allied Education (JASRAE)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/110</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Education</td>
+                <td>2024</td>
+                <td>Charls KC (1), Dinesh Kumar Mishra (2</td>
+                <td>A Study of Blended Learning Attitude Towards Biology</td>
+                <td>Journal of Advances and Scholarly Researches in Allied Education (JASRAE)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/197</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Education</td>
+                <td>2024</td>
+                <td>Charls KC (1), Dinesh Kumar Mishra (2</td>
+                <td>Impact of blended learning method on the academic performance of senior secondary school students in biology</td>
+                <td>Shodhasamhita:-journal of fundamental &amp; comparative research..vol.x,Issue-2,Book no.01,july-dec. 2024</td>
+                <td>National            </td>
+                <td>2277-7067</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Education</td>
+                <td>2023</td>
+                <td>Dr. Sachin Kumar</td>
+                <td>Nk= izsj.kk vkSj miyfC/k ij f&#39;k{kd dh vis{kkvksa dk izHkko</td>
+                <td>Janmat Power Multi Disciplinary Research Journal</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Education</td>
+                <td>2023</td>
+                <td>Dr. Sachin Kumar</td>
+                <td>fo|kfFkZ;ksa dh oSKkfud vfHko`fRr ij miyfC/k vfHkizsj.kk ds izHkko dk v/;;u</td>
+                <td>SKU &#39;kks/k lapkj</td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Education</td>
+                <td>2022</td>
+                <td>Dr. Sachin Kumar</td>
+                <td>vdknfed izn&#39;kZu ij vkRe vo/kkj.kk dk izHkko</td>
+                <td>Eductaion Plus</td>
+                <td>National</td>
+                <td>2277-2405</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Education</td>
+                <td>2024</td>
+                <td>Dr. Sachin Kumar</td>
+                <td>mPp f&#39;k{kk ds fo&#39;ks&quot;k lanHkZ esa jk&quot;Vªh; f&#39;k{kk uhfr 2020 dk fo&#39;ys&quot;k.k</td>
+                <td>SKU &#39;kks/k lapkj</td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>Education</td>
+                <td>2021</td>
+                <td>Sachin Kumar (1), Dr. Sachin Kaushik (2)</td>
+                <td>Nk=ksa dh lgdkjh f&#39;k{kk dh izHkko&#39;khyrk ij ,d v/;;u</td>
+                <td>Journal of Advances &amp; Scholarly Researches in Allied Education (Vol-18)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/98</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>Education</td>
+                <td>2020</td>
+                <td>Sachin Kumar (1), Dr. Sachin Kaushik (2)</td>
+                <td>izkFkfed Lrj ij mPp vkSj fuEu miyfC/k izkIr djus okys Nk=ksa dh vkRe vo/kkj.k ij lgdkjh f&#39;k{k.k dk izHkko</td>
+                <td>Journal of Advances &amp; Scholarly Researches in Allied Education (Vol-17)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/index.php/jasrae/issue/view/94</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>Education </td>
+                <td>2023</td>
+                <td>Ramprasad Rajak </td>
+                <td>भारतीय शिक्षा शास्त्रियों के मानवतावादी विचार एवं उनकी उपयोगिकता </td>
+                <td>जनमत पावर<br></td>
+                <td>International</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td>Ramprasad Rajak </td>
+                <td>मानवतावादी विचारों की वर्तमान परिपेक्ष्‍य में प्रांगिकता </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod10.pdf</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td>Ramprasad Rajak </td>
+                <td>रामचरित मानस में मानवतावाद </td>
+                <td>SKU शोध संचार </td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td>Ramprasad Rajak </td>
+                <td>शिक्षा एवं मानवमूल्‍य </td>
+                <td>विद्यावर्ता </td>
+                <td>International</td>
+                <td>2394-5303</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td>Mr. Rohit Bidua </td>
+                <td>प्राचीन भारत में शिक्षा संस्‍थान </td>
+                <td>SKU शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n6.pdf</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td>Mr. Rohit Bidua </td>
+                <td>प्राचीन भारत में शिक्षण प्रणाली </td>
+                <td>SKU शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2901</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod5.pdf</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>Education </td>
+                <td>2021</td>
+                <td> Ajay Kumar Sharma</td>
+                <td>ijh{kk esa cSBus okys Nk=ksa esa ijh{kk dh fpark vkSj &#39;kS{kf.kd ruko dks fu;af=r djus ds fy, ;ksx f&#39;k{kk dk v/;;u</td>
+                <td>Journal of Advances &amp; Scholarly Researches in Allied Education (Vol-18)</td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>Education </td>
+                <td>2023</td>
+                <td> Ajay Kumar Sharma</td>
+                <td> &#39;kkjhfjd f&#39;k{kk dh vo/kkj.k dk fodkl ,d v/;;u</td>
+                <td>Maharaja Vikramaditya Sodhpeeth, Bhopal</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>Education </td>
+                <td>2024</td>
+                <td> Ajay Kumar Sharma</td>
+                <td>jk&quot;Vªh; f&#39;k{kk uhfr 2020 esa &#39;kkjhfjd f&#39;k{kk dh ladYiuk</td>
+                <td>uo lkfgR;dkj ifCyds&#39;ku ukansM &amp; egkjk&quot;Vª</td>
+                <td>National</td>
+                <td>2454-6283</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>Education </td>
+                <td>2020</td>
+                <td>Ajay Kumar Sharma</td>
+                <td> &#39;kkjhfjd ,oa ;ksx f&#39;k{kk ls fo|kfFkZ;ksa ds ijh{kk esa vkus okys izHkkoksa dk v/;;u</td>
+                <td>Journal of Advances &amp; Scholarly Researches in Allied Education </td>
+                <td>National</td>
+                <td>2230-7540</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Pankaj Ahirwar</td>
+                <td>Analysis on Impact of <br>Differentiating Root gap on <br>TIG welding process of MS plate</td>
+                <td>Sku journal of Engineering <br>Research Vol. 1 Issue 2, <br>April - June 2024</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/sksksks44.pdf</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Pankaj Patel,Saurabh Chaurasia, Pankaj Ahirwar</td>
+                <td>An Analysis of the IC Engine’s utilization of heat pipes as an exhaust heat recovery system</td>
+                <td>Sku journal of Engineering <br>Research Vol. 1 Issue 2, <br>July - Sept 2024</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/skskshnhshs777.pdf</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Pankaj Ahirwar</td>
+                <td>Analysis and Estimation of Minearls in Mining Industry</td>
+                <td>Sku journal of Engineering <br>Research Vol. 1 Issue 2, <br>Oct - Dec 2024</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/eeeee1.pdf</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Saurabh Chaurasia</td>
+                <td>A Review Paper on Alternative fuels in IC Engine</td>
+                <td>Sku journal of Engineering <br>Research Vol. 1 Issue 4, <br>Oct - Dec 2024</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/ennd2.pdf</td>
+            </tr>
+            <tr>
+                <td>28</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Lawkesh Tripathi</td>
+                <td>Organic Diode Circuits for Half-Wave and Full-Wave Rectifiers</td>
+                <td>Sku Journal Of Engineering Research Vol.1 No. 2, April-June 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/skskshnhshs777.pdf</td>
+            </tr>
+            <tr>
+                <td>29</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Lawkesh Tripathi</td>
+                <td>Crystalline Material that Falls Between an Insulator and A Conductor</td>
+                <td>Sku Journal Of Engineering Research Vol.1 No. 3, July-Sept 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/skskshnhshs777.pdf</td>
+            </tr>
+            <tr>
+                <td>30</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Lawkesh Tripathi</td>
+                <td>Antenna –The Evolution in the field of Communication</td>
+                <td>Sku shodhsancharVol.1 No. 3, April-June 2024:</td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>Lawkesh Tripathi</td>
+                <td>Wireless Communication<br> Changing the Lifestyle </td>
+                <td>Sku Journal Of Engineering<br> Research Vol.1 No. 4,<br> Oct-Dec 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/skskskskssk.pdf</td>
+            </tr>
+            <tr>
+                <td>32</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>NITESH MISHRA</td>
+                <td>A Review on Animated Feedback in a Field Visible Expert, ScalarResistor, Traditional Rotary Control and Field Worried throughResistor 3-phase Induction Motor</td>
+                <td>International Journal of Engineering, Management and Medical Research (IJEMMR) Vol.10 ,No.4 ,     April 2024</td>
+                <td>International</td>
+                <td> 2395-2180</td>
+                <td>http;//www.ijemmr.ac.in</td>
+            </tr>
+            <tr>
+                <td>33</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>NITESH MISHRA</td>
+                <td>“A Review on Incessant Transformation Meets EnergyAuditing An Energy Audit Agency for IST”</td>
+                <td>International Journal of Engineering, Management and Medical Research (IJEMMR) Vol. 10, No. 5,       May 2024</td>
+                <td>International</td>
+                <td> 2395-2180</td>
+                <td>http;//www.ijemmr.ac.in</td>
+            </tr>
+            <tr>
+                <td>34</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>NITESH MISHRA</td>
+                <td>IOT - Powered Solar Smart Structures: The Next Phase of Eco-Friendly</td>
+                <td>Sku Journal Of Engineering<br> Research Vol.1,  No. 3,<br> July-September 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/skskshnhshs777.pdf</td>
+            </tr>
+            <tr>
+                <td>35</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>NITESH MISHRA</td>
+                <td>An Analysis of Scalar Resistor, Conventional Rotary Control, Resistor 3-phase Induction Motor and Animated Feedback in a Field Visible Expert</td>
+                <td>Sku Journal Of Engineering<br> Research Vol.1, No. 4,<br> October-December 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/askakakaka.pdf</td>
+            </tr>
+            <tr>
+                <td>36</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>SATISH PATHAK</td>
+                <td>Study of Congestion Control Scheme to Improve Communication in DTN : A Survey</td>
+                <td>Sku Journal Of Engineering<br> Research Vol.1, No. 3,<br> July-September 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>https://www.skujer.com/pdf/ffffffffff1111.pdf</td>
+            </tr>
+            <tr>
+                <td>37</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2021</td>
+                <td>VARSHA YADAV</td>
+                <td>Estimation Techniques for MIMO-OFDM </td>
+                <td>International Journal of Advanced Research in Science, Communication &amp; Technology (IJARSCT ) vol.12,issue 1, Dec.2021 </td>
+                <td>International</td>
+                <td>2581-9429</td>
+                <td>http;//www.ijarsct.co.in</td>
+            </tr>
+            <tr>
+                <td>38</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>VARSHA YADAV</td>
+                <td>A Review on Amazing Improvement of Electro-magnetic Motion Transmittance Lines in Multi-Layer PCBs</td>
+                <td>International Journal of Engineering ,Management and Medical Research (IJEMMR),vol-10 ,issue-5,may 2024</td>
+                <td>International</td>
+                <td>2395-2180</td>
+                <td>http;//www.ijemmr.ac.in</td>
+            </tr>
+            <tr>
+                <td>39</td>
+                <td>Engineering &amp;<br> Technology</td>
+                <td>2024</td>
+                <td>VARSHA YADAV</td>
+                <td>Recent Advancement in Smart Grid Technology : Future Prospects in the Electrical Power Network </td>
+                <td>Sku Journal Of Engineering Research Vol.1 No. 2, April-June 2024:</td>
+                <td>National</td>
+                <td>3048-930X</td>
+                <td>skujer.com/epatrika.html</td>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2022</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>अजन्‍ता के भित्तिचित्रों की चित्रण विधि</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>41</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>ओरछा के भित्तिचित्रों का चित्रात्‍मक अध्‍ययन</td>
+                <td>शिवना साहित्यिकी</td>
+                <td>International</td>
+                <td>2455-9717</td>
+                <td>http://shivnaprakashan.blogspot.com/2023/02/7-28-2023.html</td>
+            </tr>
+            <tr>
+                <td>42</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>भित्तिचित्रों के कलात्‍मक रूपांकन का अध्‍ययन</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/december-2023/</td>
+            </tr>
+            <tr>
+                <td>43</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>भित्तिचित्रों की तकनीक का अध्‍ययन</td>
+                <td>SKU शोध संचार</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://skushodhsanchar.com/october.html</td>
+            </tr>
+            <tr>
+                <td>44</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>भित्तिचित्रों की कलात्‍मकता का वर्णन</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/april-2024/</td>
+            </tr>
+            <tr>
+                <td>45</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>योग: भारतीय ज्ञान परम्‍परा में एक महत्‍वपूर्ण अध्‍ययन</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/may-2024/</td>
+            </tr>
+            <tr>
+                <td>46</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>भारतीय ज्ञान परम्‍परा</td>
+                <td>SKU शोध संचार</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://skushodhsanchar.com/april.html</td>
+            </tr>
+            <tr>
+                <td>47</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>भारतीय मॉं : बहुआयामी शक्तिपुंज</td>
+                <td>SKU शोध संचार</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://skushodhsanchar.com/july.html</td>
+            </tr>
+            <tr>
+                <td>48</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>भारतीय चित्रकला शैली : एक परिदृश्‍य</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/july-2024/</td>
+            </tr>
+            <tr>
+                <td>49</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal</td>
+                <td>ललितकला में महिलाओं की भूमिका</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>योग चिकित्‍सा : एक प्राचीन चिकित्‍सा पद्धति का पुनर्जागरण</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/november-2024/</td>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>नागरिकता संशोधन कानून और राष्ट्रीय सुरक्षा: एक विश्लेषण</td>
+                <td>SKU Journal of Lex Vibrent</td>
+                <td>International</td>
+                <td>3048-7323</td>
+                <td>https://skujlv.com/oct_doc.html</td>
+            </tr>
+            <tr>
+                <td>52</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2025</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>ललितकला में नवाचार पारंपरिकता और आधुनिकता का संगम </td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/january-2025/</td>
+            </tr>
+            <tr>
+                <td>53</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2025</td>
+                <td>Dr. Bhakti Agrawal, Dr. Alok Agrawal </td>
+                <td>भारतीय ज्ञान परम्‍परा में भित्तिचित्रों का महत्‍व</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/february-2025/</td>
+            </tr>
+            <tr>
+                <td>54</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Mrs. Reena Sharma</td>
+                <td>वर्तमान राजनैतिक परिपेक्ष्‍य में धर्म एवं राम राज्‍य की नीतियों की प्रासंगिकता </td>
+                <td>Janmat Power Research Journal Vol. 1 Oct- 2023</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>55</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td> Digant Dwivedi</td>
+                <td>कोंदर जनजाति एवं आधुनिकीकरण: एक समाजशास्त्रीय अध्यय, ( छतरपुर जिले के विजाबर विकासखण्ड के संदर्भ में</td>
+                <td>International Journal of Human Rights</td>
+                <td>International</td>
+                <td>2394-0298</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>56</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td> Digant Dwivedi</td>
+                <td>कोंदर जनजाति में शैक्षिक जागरूकता का अध्ययन</td>
+                <td>Janmat Power Research Journal</td>
+                <td>National</td>
+                <td> 2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>57</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2022</td>
+                <td>Digant Dwivedi</td>
+                <td>कोंदर जनजाति की वास्तविक आवश्य कताओं का समाजशास्त्रीय अध्यययन</td>
+                <td>Ignited Minds Journals</td>
+                <td>International</td>
+                <td> 2230-7540</td>
+                <td>https://ignited.in/</td>
+            </tr>
+            <tr>
+                <td>58</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2021</td>
+                <td>Digant Dwivedi</td>
+                <td>&#39;जनजाति समाज की सभ्यता एवं संस्कृजति की सामाजिक जानकारी&#39;&#39;</td>
+                <td>Ignited Minds Journals</td>
+                <td>International</td>
+                <td>2230-7540</td>
+                <td>https://ignited.in/</td>
+            </tr>
+            <tr>
+                <td>59</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Digant Dwivedi</td>
+                <td>कोंदर जनजाति की सामाजिक स्थिति का समाजशास्‍त्रीय अध्‍ययन</td>
+                <td>आधुनिक साहित्‍य <br>यूजीसी केयर जनरल</td>
+                <td>International</td>
+                <td> 2277-7083</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>60</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2022</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>स्‍वतंत्र भारत में महिला शिक्षा के विकास हेतु प्रयास </td>
+                <td>आर्यावर्त शोध विकास पत्रिका बलिया उत्तशर प्रदेश</td>
+                <td>International</td>
+                <td> 2347-2944</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>61</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>जैन धर्म में ईश्वर की अवधारणा </td>
+                <td>Janmat Power National  Research Journal </td>
+                <td>National</td>
+                <td> 2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>62</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>बुन्देखण्ड की दीवारी नृत्यृ एवं मौनिहा परम्पदरा का एक अध्यीयन </td>
+                <td>आर्यावर्त शोध विकास पत्रिका बलिया उत्तशर प्रदेश</td>
+                <td>International</td>
+                <td>2347-2944</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>&#39; जैव विविधता संरक्षण रणनीतिक योजना 2030 के लक्ष्यों  का अध्य0यन&#39;&#39; </td>
+                <td>AKSHARA - Multidisciplinary International Research Journal<br>Indira Gandhi Govt. PG College Bangaramau Unnao (U.P.)<br></td>
+                <td>International</td>
+                <td> 2582-5429</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>64</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>रमेश चन्द्रदत्त के विचारो का  आर्थिक विश्लेष्ण</td>
+                <td>IDEAL -An International Multidisciplinary Hale Yearly Research Journal <br>Ajanta Prakashan <br>Aurangabad (M.S)<br></td>
+                <td>International</td>
+                <td>2319-359X</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>65</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>&#39;वीरांगना महारानी दुर्गावती : एक ऐतिहासिक अध्ययन&#39;&#39; </td>
+                <td>SKU - शोध संचार <br>Shri Krishna University, Chhatarpur (M.P.)<br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>http://www.skushodhsanchar.com/</td>
+            </tr>
+            <tr>
+                <td>66</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>&#39;भारत में काष्ठ शिल्पे का ऐतिहासिक विकास : एक सांस्कृकतिक अध्यंयन&#39;&#39; </td>
+                <td>International peer-reviewed E-Research Journal <br>शोध साहित्य ग्वालियर (म.प्र.) <br></td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>http://www.shodhsahitya.in/</td>
+            </tr>
+            <tr>
+                <td>67</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>भारतीय राष्ट्रीकय आंदोलन मे महिलाओं की भूमिका: एक ऐतिहासिक अध्यमयन</td>
+                <td>SKU शोध संचार</td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>http://www.skushodhsanchar.com/</td>
+            </tr>
+            <tr>
+                <td>68</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2025</td>
+                <td>Dr. Alok Kumar Pandey </td>
+                <td>बुन्‍देलखण्‍ड की लोक संस्‍कति : ऐतिहासिक परिप्रेक्ष्‍य एवं सांस्‍कृतिक विशिष्‍टता </td>
+                <td>शोध धारा </td>
+                <td>International</td>
+                <td>0975-3664</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>69</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2021</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>जैनेन्‍द्र के कथा साहित्‍य में बाल मनोविज्ञान </td>
+                <td>शोध समीक्षा अर्द्धवार्षिक शोध पत्रिका </td>
+                <td>National</td>
+                <td>2249-1597</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>70</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2021</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>निराला जी के साहित्‍य में सामाजिक चेतना </td>
+                <td>रिसर्च जनरल ऑफ बुंदेलखंड </td>
+                <td>National</td>
+                <td>2395-7816</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>71</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2021</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>प्रेमचन्‍द के कथा साहित्‍य में बाल विमर्श </td>
+                <td>बोहल शोध मंजूषा <br></td>
+                <td>International</td>
+                <td>2395-7115</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>72</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2022</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>साये में धूप ( गजल संग्रह में सामाजिक यथार्थ बोध </td>
+                <td>चिंतन रिसर्च जनरल<br></td>
+                <td>International</td>
+                <td>2229-7227</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>73</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2020</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>हिंदी नवजागरण और प्रेमचन्‍द का कथा साहित्‍य </td>
+                <td>EDU CARE<br></td>
+                <td>National</td>
+                <td>2319-5282</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>74</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>भक्तिकाल और तुलसी के राम </td>
+                <td>शोध ऋतु <br></td>
+                <td>National</td>
+                <td>2454-6283</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>75</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>गुप्‍तकाल साहित्‍य का स्‍वर्ण युग </td>
+                <td>जनमत पावर राष्‍ट्रीय शोध पत्रिका <br></td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>76</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>प्रसाद के नाटकों में राष्‍ट्रीय चेतना </td>
+                <td>समकालीन हस्‍तक्षेप <br></td>
+                <td>National</td>
+                <td>2277-7857</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>77</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>भक्तिकालीन कवियों के काव्‍य में मानवतावाद </td>
+                <td>शोधादर्श <br></td>
+                <td>National</td>
+                <td>2582-1288 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>78</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>लोक साहित्‍य का सामाजिक सांस्‍कृतिक परिप्रेक्ष्‍य </td>
+                <td>Sku शोध संचार<br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF.pdf</td>
+            </tr>
+            <tr>
+                <td>79</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>छायावादी काव्‍य में नारी चेतना का विश्‍लेषण </td>
+                <td>शोध साहित्‍य <br></td>
+                <td>National</td>
+                <td>2584-2447</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>80</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>बुन्‍देली लोक साहित्‍य में चित्रित ग्राम्‍य जीवन </td>
+                <td>Sku शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/m-6.pdf</td>
+            </tr>
+            <tr>
+                <td>81</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>समकालीन कविता में सामाजिक यथार्थबोध </td>
+                <td>शोधादर्श<br></td>
+                <td>National</td>
+                <td>2582-1288</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>82</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>राष्‍ट्रीय बोध और समकालीन कविता </td>
+                <td>शोधादर्श <br></td>
+                <td>National</td>
+                <td>2582-1288</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>83</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>राष्‍ट्रीय चेतना के संवाहक कवि दिनकर </td>
+                <td>Sku शोध संचार<br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod11.pdf</td>
+            </tr>
+            <tr>
+                <td>84</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>अज्ञेय के उपन्‍यासों में शिल्‍प और संवेदना का विश्‍लेषण </td>
+                <td>अक्षरा मल्‍टीडिस्‍पेनरी रिसर्च जर्नल <br></td>
+                <td>International</td>
+                <td>2582-5429</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>85</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>हिंदी कथा साहित्‍य में नैतिक मूल्‍य </td>
+                <td>sku शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/ggggggg.pdf</td>
+            </tr>
+            <tr>
+                <td>86</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>काशीनाथ सिंह के कथा साहित्‍य में पात्रों के सामाजिक यथार्थ के स्‍वरूप का विश्‍लेषण </td>
+                <td>शोध साहित्‍य <br></td>
+                <td>National</td>
+                <td>2584-2447</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>87</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>व्‍यंग्‍यकार रविन्‍द्रनाथ त्‍यागी के काव्‍य में सौंदर्यानुभूति </td>
+                <td>शोध साहित्‍य <br></td>
+                <td>National</td>
+                <td>2584-2447</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>88</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2019</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>मैथिलीशरण गुप्‍त के काव्‍य में राष्‍टवाद </td>
+                <td>अभिव्‍यंजना शोध साहित्‍य </td>
+                <td>International</td>
+                <td>2277-9884</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>89</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2019</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>अज्ञेय की प्रयोग धर्मिता </td>
+                <td>अभिव्‍यंजना शोध त्रैमासिक पत्रिका </td>
+                <td>International</td>
+                <td>2277-9884</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>90</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>समकालीन कविताओं में आज का सामाजिक परिदृश्‍य </td>
+                <td>शोध साहित्‍य </td>
+                <td>National</td>
+                <td>2584-2447</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>91</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Ashish Kumar Tiwari </td>
+                <td>गोपालदास नीरज के काव्‍य में प्रेम चित्रण </td>
+                <td>SKU शोध संचार </td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhhh8.pdf</td>
+            </tr>
+            <tr>
+                <td>92</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Archana Dubey </td>
+                <td>मानवीय संबंधों पर सोशल मीडिया का प्रभाव</td>
+                <td>SKU शोधसंचार<br>वष[-1, अंक-3, अैप्रल – जून 2024</td>
+                <td>International</td>
+                <td>2524-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n3.pdf</td>
+            </tr>
+            <tr>
+                <td>93</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Archana Dubey </td>
+                <td>बुंदेली लोक आख्यानों में निहित सामाजिकता समुदायिकता एवं समरसता</td>
+                <td>शोधादर्श<br></td>
+                <td>National</td>
+                <td>2582-1288</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>94</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Archana Dubey </td>
+                <td>आधुनिक समाज में धार्मिक शिक्षा की भूमिका (हिंदू धर्म के विशेष संदर्भ में)</td>
+                <td>SKU शोध संचार<br>वष[-1, अंक-4, जुलाई –सितम्‍बर 2024<br></td>
+                <td>International</td>
+                <td>2524-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod9.pdf</td>
+            </tr>
+            <tr>
+                <td>95</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Archana Dubey </td>
+                <td>लोक पर्व में सामाजिकता का समन्वय   ( बुंदेलखंड के विशेष संदर्भ में )</td>
+                <td>शोध साहित्य <br></td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://in.docs.wps.com/module/common/loadPlatform/?sid=sINbr2voygb7mvQY&amp;v=v2</td>
+            </tr>
+            <tr>
+                <td>96</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Archana Dubey </td>
+                <td>भारतीय संस्कृति एवं युवा: एक अध्ययन  </td>
+                <td>SKU शोध संचार </td>
+                <td>International</td>
+                <td>2524-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhh11.pdf</td>
+            </tr>
+            <tr>
+                <td>97</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vandana Tiwari </td>
+                <td>अंग्रेजी हूकूमत में भारतीय राजनीत एक अध्‍ययन </td>
+                <td>शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod7.pdf</td>
+            </tr>
+            <tr>
+                <td>98</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vandana Tiwari </td>
+                <td>भारतीय राजनीति में महिलाओं की भूमिका एवं भागीदारी एक अध्‍ययन </td>
+                <td>शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n5.pdf</td>
+            </tr>
+            <tr>
+                <td>99</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vandana Tiwari </td>
+                <td>वर्तमान भारतीय गठबंधन सरकार: चुनौतियॉं एवं संभावनायें </td>
+                <td>शोध साहित्‍य <br></td>
+                <td>International</td>
+                <td> 2584-2447 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>100</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vandana Tiwari </td>
+                <td>आधुनिक राजनीतिक सिद्धांत एक विश्‍लेषण </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td> 2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhh7.pdf</td>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Mr. Rajkumar Chaurasia </td>
+                <td>कृषि विकास का सांस्‍कृतिक पर्यावरण पर प्रभाव </td>
+                <td>Sku शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/m-3.pdf</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Mr. Rajkumar Chaurasia </td>
+                <td>कृषि विकास में तकनीकि परिवर्तन की भूमिका </td>
+                <td>जनरल प्रकाशन इंटरनेशनल <br></td>
+                <td>International</td>
+                <td>2454-4655</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Mr. Rajkumar Chaurasia </td>
+                <td>कृषि सुविधाओं का कृषि विकास पर प्रभावों का विश्‍लेषणात्‍मक अध्‍ययन  </td>
+                <td>Sku शोध संचार पत्रिका <br></td>
+                <td>International</td>
+                <td>2584-2900 </td>
+                <td>https://www.skushodhsanchar.com/pdf/fffffff.pdf</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Mr. Rajkumar Chaurasia </td>
+                <td>सुरक्षित एवं समृद्ध भारत के लिए पर्यावरण संरक्षण एवं प्रबंधन  </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900 </td>
+                <td>https://www.skushodhsanchar.com/pdf/sod6.pdf</td>
+            </tr>
+            <tr>
+                <td>105</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>डॉ. राममिलन द्विवेदी </td>
+                <td>मानसून को कब तक ताकता रहेगा किसान </td>
+                <td>जनमत पावर <br></td>
+                <td>National</td>
+                <td>2582-6557 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>106</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>डॉ. राममिलन द्विवेदी </td>
+                <td>वर्तमान में कृषि और राष्‍ट्रीय अर्थव्‍यवस्‍था </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900 </td>
+                <td>https://www.skushodhsanchar.com/pdf/n4.pdf</td>
+            </tr>
+            <tr>
+                <td>107</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>डॉ. राममिलन द्विवेदी </td>
+                <td>कृषि विकास के लिये उपयुक्‍त तकनीकी </td>
+                <td>Akshara Multidisciplinary Research Journal<br></td>
+                <td>International</td>
+                <td>2582-5429</td>
+                <td>http://www.aimrj.com</td>
+            </tr>
+            <tr>
+                <td>108</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>डॉ. राममिलन द्विवेदी </td>
+                <td>शहर की ओर पलायन होते वीरान गॉंव </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900 </td>
+                <td>https://www.skushodhsanchar.com/pdf/sod15.pdf</td>
+            </tr>
+            <tr>
+                <td>109</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Dr. Vijay kumar </td>
+                <td>म.प्र में ग्राम न्‍यायालयों की अवधारणा : एक अभिनव पहल</td>
+                <td>जनमत पावर  राष्‍ट्रीय शोध पत्रिका</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>110</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vijay kumar </td>
+                <td>भारतीय नौकरशाह  के समक्ष : चुनौतियाँ और महत्‍व एवं विश्लेषण</td>
+                <td>SKU शोध संचार <br>वष[-1, अंक-4, जुलाई – सितम्‍बर 2024<br></td>
+                <td>National</td>
+                <td> 2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod12.pdf</td>
+            </tr>
+            <tr>
+                <td>111</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Vijay kumar </td>
+                <td>न्‍यायिक सक्रियता  बनाम् भारत का लोकतंत्र </td>
+                <td>SKU शोध संचार<br></td>
+                <td>National</td>
+                <td> 2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n15.pdf</td>
+            </tr>
+            <tr>
+                <td>112</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Mr. Himanshu Dixit </td>
+                <td>Imapact of Agriculture on Environmental development </td>
+                <td>जनमत पावर राष्‍ट्रीय शोध पत्रिका <br></td>
+                <td>National</td>
+                <td>2582-6257 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>113</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Mr. Himanshu Dixit </td>
+                <td>Contribution of Environmental Conservationand its management for Properous Country </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584- 2900 </td>
+                <td>https://www.skushodhsanchar.com/pdf/sod8.pdf</td>
+            </tr>
+            <tr>
+                <td>114</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Ramprasad Rajak </td>
+                <td>भारतीय शिक्षा की समस्‍याऍं एवं समाधान  </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/m-5.pdf</td>
+            </tr>
+            <tr>
+                <td>115</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Satyawati Chaurasia </td>
+                <td>वर्तमान परिपेक्ष्‍य में शिक्षा और संस्‍कारों की प्रांसगिकता </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n16.pdf</td>
+            </tr>
+            <tr>
+                <td>116</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Satyawati Chaurasia </td>
+                <td>संस्‍कृत साहित्‍य और आध्‍यात्‍मवाद </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td> 2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhh9.pdf</td>
+            </tr>
+            <tr>
+                <td>117</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Satyawati Chaurasia </td>
+                <td>महाकवि कालिदास रघुवंशम् महाकाव्‍य का प्रकृति सौंदर्य </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/m-4.pdf</td>
+            </tr>
+            <tr>
+                <td>118</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Satyawati Chaurasia </td>
+                <td>भारतीय ज्ञान परंपरा की प्रासंगिकता संस्‍कृत साहित्‍य के संदर्भ में </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod3.pdf</td>
+            </tr>
+            <tr>
+                <td>119</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Satyawati Chaurasia </td>
+                <td>कालीदास की अंलकार योजना </td>
+                <td>शोध ऋतु <br></td>
+                <td>International</td>
+                <td>2454-6283 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>120</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Satyawati Chaurasia </td>
+                <td>कालीदास की रचनाओं में प्रकृति चित्रण के विभिन्‍न रूप </td>
+                <td>अक्षरा त्रिमासिक पत्रिका <br></td>
+                <td>International</td>
+                <td>2582-5429</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>121</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Vandana Shukla </td>
+                <td>छायावादी काव्‍य में नारी का उद्त स्‍वरूप </td>
+                <td>शोध साहित्‍य <br></td>
+                <td>National</td>
+                <td>2584-2447 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>122</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Vandana Shukla </td>
+                <td>छायावादी काव्‍य में राष्‍ट्रीय चेतना </td>
+                <td>शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n11.pdf</td>
+            </tr>
+            <tr>
+                <td>123</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Vandana Shukla </td>
+                <td>सूर्यकांत त्रिपाठी निराला के काव्‍य में युग चेतना </td>
+                <td>शोध संचार <br></td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sod2.pdf</td>
+            </tr>
+            <tr>
+                <td>124</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Vandana Shukla </td>
+                <td>मुक्तिबोध के काव्‍य में भाषा एवं शिल्‍प सौंदर्य </td>
+                <td>जनमत पावर <br></td>
+                <td>National</td>
+                <td>2582-6557 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>125</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Vandana Shukla </td>
+                <td>समकालीन कविता में अभिव्‍यक्‍त युगबोध </td>
+                <td>शोध ऋतु <br></td>
+                <td>National</td>
+                <td>2454-6283 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>126</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Vandana Shukla </td>
+                <td>हिंदी भाषा का बढ़ता स्‍तर </td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhh5.pdf</td>
+            </tr>
+            <tr>
+                <td>127</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2025</td>
+                <td>Vandana Shukla </td>
+                <td>लोक कथाओं में आध्‍यात्‍ममिकता </td>
+                <td>महाराजा छत्रसाल बुंदेलखंड विश्‍वविद्यालय छतरपुर म.प्र. <br>राष्‍ट्रीय संगोष्‍ठी </td>
+                <td>National</td>
+                <td>0975-8011</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>128</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>VARSHA RAJA BUNDELA</td>
+                <td>BHARTI MUKHERJEE&#39;S JASMINE IS AN OPTIMISTIC CHARACTER</td>
+                <td>JANMAT POWER RESEARCH JOURNAL<br></td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>129</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td> Mr. Brijesh Tiwari </td>
+                <td>भारतीय स्‍वतंत्रता संघर्ष का इतिहास (1942-1947)</td>
+                <td>SKU शोध संचार <br></td>
+                <td>International</td>
+                <td>25842900<br></td>
+                <td>https://www.skushodhsanchar.com/pdf/sod4.pdf</td>
+            </tr>
+            <tr>
+                <td>130</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Gunjan Nigam </td>
+                <td>Role of Government in Woman Empowerment </td>
+                <td>Janmat Power National Research Journal <br></td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>131</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Gunjan Nigam </td>
+                <td>मौयकालीन प्रशासन व्‍यवस्‍था </td>
+                <td>sku शोध संचार <br></td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhhh10.pdf</td>
+            </tr>
+            <tr>
+                <td>132</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2020</td>
+                <td>Gunjan Nigam </td>
+                <td>प्राचीन भारतीय इतिहावस में सिक्‍कों के महत्‍व का विश्‍लेषणात्‍मक अध्‍ययन </td>
+                <td>जनमत पावर <br></td>
+                <td>National</td>
+                <td>2582-6557 </td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>133</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Khushbhu Chauhan </td>
+                <td>हिंदी भाषा का राष्‍ट्रीय स्‍वरूप </td>
+                <td>Janmat Power National Research Journal </td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>134</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Pooja Singh</td>
+                <td>Study of social impact on the Role of Self-help groups on women empowerment in Chhatarpur district</td>
+                <td>SKU शोध संचार International Peer Reviewed E-Research Journal </td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/sodhh44.pdf</td>
+            </tr>
+            <tr>
+                <td>135</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Pooja Singh</td>
+                <td>A critical study of legal information regarding juvenile delinquents in Chhatarpur district</td>
+                <td>SKU JOURNAL OF LEX VIBRENT (National Peer Reviewed E-Research Journal) </td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/la3.pdf</td>
+            </tr>
+            <tr>
+                <td>136</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Dr. Pooja Singh</td>
+                <td>Analytical study of social causes of domestic violence in Chhatarpur district (Madhya Pradesh)</td>
+                <td>International Journal of Applied Research 2024; </td>
+                <td>International</td>
+                <td>2394-5869</td>
+                <td>www.allresearchjournal.com</td>
+            </tr>
+            <tr>
+                <td>137</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2023</td>
+                <td>Mrs. Rajni Gupta </td>
+                <td>संत कबीर दास के साहित्‍य की वर्तमान उपादेयता </td>
+                <td>जनमत पावर राष्‍ट्रीय शोध पत्रिका </td>
+                <td>National</td>
+                <td>2582-5257</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>138</td>
+                <td>Humanities &amp; Social Science </td>
+                <td>2024</td>
+                <td>Mrs. Rajni Gupta </td>
+                <td>भारतीय ज्ञान परपंरा के विकास में महिलाओं का योगदान </td>
+                <td>जनमत पावर राष्‍ट्रीय शोध पत्रिका </td>
+                <td>National</td>
+                <td>2584-2900</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>140</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2023</td>
+                <td>Dr. Alok Agrawal</td>
+                <td>जनमत निर्धारण में आधुनिक संचार की भूमिका</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>141</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2023</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>आधुनिक वर्तमान समय में योग की आवश्‍यकता</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>142</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>व्‍यसन समस्‍या समाधान में प्रेक्षाध्‍यान की भूमिका</td>
+                <td>SKU शोध संचार</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://skushodhsanchar.com/january.html</td>
+            </tr>
+            <tr>
+                <td>143</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal</td>
+                <td>शिक्षा की भारतीय परिकल्‍पना : ऐतिहासिक परिप्रेक्ष्‍य, सिद्धांत और समकालीन चुनौतियॉं</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>144</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>कला, साहित्‍य और संस्‍कृति</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/june-2024/</td>
+            </tr>
+            <tr>
+                <td>145</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>वर्तमान परिवेश में सोशल मीडिया का महत्‍व</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/august-2024/</td>
+            </tr>
+            <tr>
+                <td>146</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>मूल्‍याधारित शिक्षा : अवधारणा, महत्‍व और समकालीन परिप्रेक्ष्‍य</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/september-2024/</td>
+            </tr>
+            <tr>
+                <td>147</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>पाश्‍चात्‍य एवं बुन्‍देली शैली का अंतर्वस्‍तु विश्‍लेषण</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/october-2024/</td>
+            </tr>
+            <tr>
+                <td>148</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal</td>
+                <td>पत्रकारिता में महिलाओं की भूमिका</td>
+                <td>जनमत पावर</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>149</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>योग और प्राचीन चिकित्‍सा पद्धतियॉं : एक तुलनात्‍मक अध्‍ययन</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/december-2024/</td>
+            </tr>
+            <tr>
+                <td>150</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal</td>
+                <td>मानव जीवन में योग की भूमिका</td>
+                <td>SKU शोध संचार</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://skushodhsanchar.com/oct_month.html</td>
+            </tr>
+            <tr>
+                <td>151</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2024</td>
+                <td>Dr. Alok Agrawal, Bhakti Agrawal </td>
+                <td>Cybersecurity in Healthcare Systems: Challenges and Solutions</td>
+                <td>SKU Journal of Engineering Research</td>
+                <td>International</td>
+                <td>3048-930X</td>
+                <td>http://skujer.com/octuber.html</td>
+            </tr>
+            <tr>
+                <td>152</td>
+                <td>Journalism &amp; Mass Communication </td>
+                <td>2025</td>
+                <td>Dr. Alok Agrawal</td>
+                <td>फेक न्यूज और लोकतंत्र: पत्रकारिता की साख पर बढ़ता खतरा</td>
+                <td>शोध साहित्‍य</td>
+                <td>International</td>
+                <td>2584-2447</td>
+                <td>https://shodhsahitya.in/february-2025/</td>
+            </tr>
+            <tr>
+                <td>153</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>Navigating Legal Horizons: The Future of Law in the Face of Climate Change</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. I January – March 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lalwll22.pdf</td>
+            </tr>
+            <tr>
+                <td>154</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>The Impact of Social Media on Freedom of Speech Rights: An Indian<br>Perspective</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. I April – June 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/cfffff.pdf</td>
+            </tr>
+            <tr>
+                <td>155</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>Advancements in Digital Forensics: Impact of Emerging Technologies on<br>Criminal Investigations and Evidence Collection in the Indian Context</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. I July – September 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lalll4.pdf</td>
+            </tr>
+            <tr>
+                <td>156</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>अनुसूचित जाति एवं अनुसूचित जनजाति के अपराध दर पर सामाजिक-आर्थिक कारकों का प्रभाव: एक तुलनात्‍मक अध्‍ययन।</td>
+                <td>Kishor Vidya Niketan<br>Lalita Kavi-Bharati (UGC Care Listed Journal) Vol. 12 December 2024</td>
+                <td>National</td>
+                <td> 0975-6256</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>157</td>
+                <td>Law</td>
+                <td>2023</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>आपराधिक प्रकरणों मे प्रौद्योगिकी की भूमिका </td>
+                <td>जनमत पावर Vol. I  अक्‍टूबर -2023</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>158</td>
+                <td>Law</td>
+                <td>2022</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>The Role of the SC/ST Act in addressing cast- Based atrocities: A critical legal analysis </td>
+                <td>Jounral of advances and scholarly reaserches in allide education Vol. 19 issue no 1 Jan 2022</td>
+                <td>International</td>
+                <td> 2230-7540</td>
+                <td>https://doi.org/10.29070/qhtdyp65</td>
+            </tr>
+            <tr>
+                <td>159</td>
+                <td>Law</td>
+                <td>2022</td>
+                <td>Mr. Vivek Pratap Singh</td>
+                <td>Judicial Internpretation and chalanges in the implementation of the SC/ST Act</td>
+                <td>Jounral of advances and scholarly reaserches in allide education Vol. 19 issue no 4 Jul 2022</td>
+                <td>International</td>
+                <td> 2230-7540</td>
+                <td>https://doi.org/10.29070/ypjjk285</td>
+            </tr>
+            <tr>
+                <td>160</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Madhav Sharan Pathak</td>
+                <td>विधिक सहायता में जिला विधिक सहायता प्राधिकरण की भूमिका </td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 Jan - March 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/llslsssl5.pdf</td>
+            </tr>
+            <tr>
+                <td>161</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Madhav Sharan Pathak</td>
+                <td>Legal Protections and Encouragement for Good Samaritans: A Study of Indian Provisions</td>
+                <td>SKU JOURNAL OF LEX VIBRENT  Vol. 1 July - Sept 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/sdssssssd.pdf</td>
+            </tr>
+            <tr>
+                <td>162</td>
+                <td>Law</td>
+                <td>2023</td>
+                <td>Mr. Madhav Sharan Pathak</td>
+                <td>महिला एवं भारतीय विधि</td>
+                <td>Janmat Power Research Journal Vol. 2 Oct- 2023</td>
+                <td>National</td>
+                <td> 2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>163</td>
+                <td>Law</td>
+                <td>2023</td>
+                <td>Mr. Madhav Sharan Pathak</td>
+                <td>Judicial Activism in balancing business &amp; sustainbility under indian cosntitution</td>
+                <td>Janmat Power Research Journal Vol. 1 Oct- 2023</td>
+                <td>National</td>
+                <td> 2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>164</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Chandradeep Singh</td>
+                <td>Navigating Privacy in the Age of Advanced Technology: A Legal Odyssey</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 Jan – March 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lwwlw2.pdf</td>
+            </tr>
+            <tr>
+                <td>165</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mr. Chandradeep Singh</td>
+                <td>From Chaos to Clarity: Regulatory Innovations in the Cryptocurrency Ecosystem</td>
+                <td>SKU JOURNAL OF LEX  VIBRENT Vol. 1 April – June 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/cc1.pdf</td>
+            </tr>
+            <tr>
+                <td>166</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mrs. Poonam Chaurasia</td>
+                <td>Legal Challenges in Regulating Nanotechnology and its Environmental Impact</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1   July – Sep 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lslsslaw.pdf</td>
+            </tr>
+            <tr>
+                <td>167</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Miss Meghanjali Tiwari</td>
+                <td>Personal Liberty and Its Expanding Dimensions</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 Jan – March 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lw11.pdf</td>
+            </tr>
+            <tr>
+                <td>168</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Miss Meghanjali Tiwari</td>
+                <td>International Laws Governing Cyber Warfare: An Indian Perspective</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 April – June 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/ggggg.pdf</td>
+            </tr>
+            <tr>
+                <td>169</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Miss Meghanjali Tiwari</td>
+                <td>Impact of E-Commerce on Small Scale Industries: A Legal Study</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 July – Sep 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lakaajjsmw3.pdf</td>
+            </tr>
+            <tr>
+                <td>170</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td> Miss Deepti Seth</td>
+                <td>Privacy Rights and the Collection of Personal Data by Tech Companies: An Indian Perspective</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 April – June 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/sksksk.pdf</td>
+            </tr>
+            <tr>
+                <td>171</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Miss Sapna Tiwari</td>
+                <td>Intellectual Property Rights in the Age of Digital Content Distribution</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 July – Sep 2024</td>
+                <td>National</td>
+                <td>3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lalaks5.pdf</td>
+            </tr>
+            <tr>
+                <td>172</td>
+                <td>Law</td>
+                <td>2024</td>
+                <td>Mrs. Shalini Singh</td>
+                <td>TENDOR OF PARDON TO AN ACCOMPLICES “A complex evidentiary process”</td>
+                <td>SKU JOURNAL OF LEX VIBRENT Vol. 1 Jan – March 2024</td>
+                <td>National</td>
+                <td> 3048-7323</td>
+                <td>https://www.skujlv.com/pdf/lallaall4.pdf</td>
+            </tr>
+            <tr>
+                <td>173</td>
+                <td>Management</td>
+                <td>2023</td>
+                <td>Ms.Gauri Tiwari</td>
+                <td>Challenges of Work Life Balance faced in Private Sectors</td>
+                <td>Janmat Power</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>174</td>
+                <td>Management</td>
+                <td>2024</td>
+                <td>Ms.Gauri Tiwari</td>
+                <td>Economic Planning- The Plans Boost Back Indian Economy</td>
+                <td>SKU Shodh Sanchar</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/pdf/n10.pdf</td>
+            </tr>
+            <tr>
+                <td>175</td>
+                <td>Management</td>
+                <td>2024</td>
+                <td>Ms.Gauri Tiwari</td>
+                <td>Emotional Intelligence for Effective Business Leadership</td>
+                <td>IJFMR</td>
+                <td>International</td>
+                <td>2582-2160</td>
+                <td>https://doi.org/10.36948/ijfmr.2024.v06i04.25989</td>
+            </tr>
+            <tr>
+                <td>176</td>
+                <td>Management</td>
+                <td>2024</td>
+                <td>Dr. Rajendra Kumar Choudhary</td>
+                <td>A Study on Environmental Management &amp; Ecological System Development</td>
+                <td>IJRASET</td>
+                <td>International</td>
+                <td>2321-9653</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>177</td>
+                <td>Pharmacy</td>
+                <td>2021</td>
+                <td>Priti Singh , Arjun Anant, Abhishek Pathak , Vivek Asati</td>
+                <td>Recent updates on extraction techniques of bioactive compounds</td>
+                <td>Pharmaspire, Vol 13, 2,  Apr-Jun 2021 </td>
+                <td>International</td>
+                <td>2321-4732</td>
+                <td>http://www.isfcppharmaspire.com/uploads/228/13786_pdf.pdf</td>
+            </tr>
+            <tr>
+                <td>178</td>
+                <td>Pharmacy</td>
+                <td>2023</td>
+                <td>Vivek Asati, Ritu Bhupal, Sushanta Bhattacharya, Kamalpreet Kaur, G D Gupta, Abhishek Pathak, Debarshi Kar Mahapatra</td>
+                <td>Recent Updates on Indole Derivatives as Kinase Inhibitors in the Treatment of Cancer</td>
+                <td>Anticancer Agents Medicinal Chemistry, Bentham Science Publishers</td>
+                <td>International</td>
+                <td>1875-5992</td>
+                <td>10.2174/1871520622666220607143040</td>
+            </tr>
+            <tr>
+                <td>179</td>
+                <td>Pharmacy</td>
+                <td>2020</td>
+                <td>Hemant Kumar, Abhishek Pathak</td>
+                <td>A Review on Medicinal and General Importance of Ficus Bengalis Tree</td>
+                <td>Journal of Advances in Bio- pharmaceutics and Pharmacovigilance</td>
+                <td>International</td>
+                <td>2583-8202</td>
+                <td>http://matjournals.co.in/index.php/JABP/article/view/1847</td>
+            </tr>
+            <tr>
+                <td>180</td>
+                <td>Pharmacy</td>
+                <td>2020</td>
+                <td>Hemant kumar, Deependra Singh, Abhisek Pathak, Ram Milan Vishwakarma</td>
+                <td>A review on herbal drug phytoconstituent used for treatment of cancer</td>
+                <td>International Journal of Pharmacognosy and Clinical Research </td>
+                <td>International</td>
+                <td>2664-7648</td>
+                <td>DOI: 10.33545/2664763X.2020.v2.i1a.14</td>
+            </tr>
+            <tr>
+                <td>181</td>
+                <td>Pharmacy</td>
+                <td>2021</td>
+                <td>Hemant Kumar*, Girish Tripathi, Abhisek Pathak, Deependra Singh</td>
+                <td>Review on Immunboosting and Immunostimulatory Activity of Some<br>Natural Plants</td>
+                <td>Journal of Advances in Bio- pharmaceutics and</td>
+                <td>International</td>
+                <td></td>
+                <td>https://doi.org/10.46610/JABP.2021.v03i01.001</td>
+            </tr>
+            <tr>
+                <td>182</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Kirti Tomer *, Anjali Peter, Anamika Singh, Supriya Shidhaye  Amit Kumar Jain, Ms. Shivani Jain</td>
+                <td>Antipyretic activity of methanolic extract of C. canadensis</td>
+                <td>Bulletin of Pure and Applied Sciences Zoology (Animal Science) Vol.43B, No.2S,  July-December 2024</td>
+                <td>International</td>
+                <td>0019-462X</td>
+                <td>https://bpasjournals.com/zoology/index.php/journal/article/view/269/152</td>
+            </tr>
+            <tr>
+                <td>183</td>
+                <td>Pharmacy</td>
+                <td>2025</td>
+                <td>Pooja Bhati, Kirti Tomer, Saurabh Mundada, Surbhi Choursiya, Garima Carpenter, Vijay Ojha, Mangal Singh Panwar, Amit Kumar Jain</td>
+                <td>Formulation and evaluation of herbal soap by using Azadiracta indica and Ocimum tenuiflorum</td>
+                <td>South Eastern European Journal of Public Health</td>
+                <td>International</td>
+                <td>2197-5248</td>
+                <td>https://www.seejph.com/index.php/seejph/article/view/4057/2678</td>
+            </tr>
+            <tr>
+                <td>184</td>
+                <td>Pharmacy</td>
+                <td>2023</td>
+                <td>Hemant Kumar1*, Ram Milan Vishwakarma, Deependra Singh , Abhisek Pathak , </td>
+                <td>Hypoglycemiv Activity on Putranjiva roxburghii Bark. In Alloxan Induced Diabetic Rats</td>
+                <td>International Journal Of Pharmacy &amp; Pharmaceutical Research, 27,02,5/30/2023</td>
+                <td>International</td>
+                <td> 2664-763X</td>
+                <td>https://ijppr.humanjournals.com/hypoglycemic-activity-on-putranjiva-roxburghii-bark-in-alloxan-induced-diabetic-rats/</td>
+            </tr>
+            <tr>
+                <td>185</td>
+                <td>Pharmacy</td>
+                <td>2021</td>
+                <td>Deependra Singh  , Hemant Kumar , Abhisek Pathak, Ram Milan Vishwakarma</td>
+                <td>A Review Article on Improcess Problems and evaluation tests of Tablet manufacturing </td>
+                <td>International Journal of Pharmaceutical Research and Application, </td>
+                <td>International</td>
+                <td>2249-7781</td>
+                <td>10.35629/7781-06057983</td>
+            </tr>
+            <tr>
+                <td>186</td>
+                <td>Pharmacy</td>
+                <td>2020</td>
+                <td>Deependra Singh Bundrla Hemant Kumar, Abhisek Pathak</td>
+                <td>A Review on Natural Permeation Enhancer for Transdermal Drug Delivery System and Permeation Evaluation</td>
+                <td>IJPPR</td>
+                <td>International</td>
+                <td>2349-7203</td>
+                <td>https://ijppr.humanjournals.com/wp-content/uploads/2020/10/5.Deependra-Singh-Bundrla-Hemant-Kumar-Abhisek-Pathak.pdf</td>
+            </tr>
+            <tr>
+                <td>187</td>
+                <td>Pharmacy</td>
+                <td>2023</td>
+                <td>Jeetendra Kushwaha1*, Deependra Singh , Priyanka Ahirwar2 , Deepa Singh</td>
+                <td>EVALUATION OF THE EFFECT OF OCIMUM BASILICUM LEAVES ON ETHYLE GLYCOL INDUCED KIDNEY STONE IN RATS </td>
+                <td>INTERNATIONAL JOURNAL OF PHARMACY AND PHARMACEUTICAL RESEARCH, 28, (3),10/30/2023  </td>
+                <td>International</td>
+                <td>2349- 7203</td>
+                <td>https://ijppr.humanjournals.com/wp-content/uploads/2023/11/13.Jeetendra-Kushwaha-Deependra-Singh-Priyanka-Ahirwar-Deepa-Singh.pdf</td>
+            </tr>
+            <tr>
+                <td>188</td>
+                <td>Pharmacy</td>
+                <td>2025</td>
+                <td>Keerti Ahirwar, Shilpi Rawat, Prashansa Tripathi and Deepa Singh Chouhan</td>
+                <td>DEVELOPMENT AND IN-VITRO EVALUATION OF METOPROLOL TARTRATE LOADED CROSS LINKED POLYSACCHARIDE MICROBEAD FOR CONTROLLED DELIVERY</td>
+                <td>WORLD JOURNAL OF PHARMACY AND PHARMACEUTICAL SCIENCES</td>
+                <td>International</td>
+                <td>2278 – 4357</td>
+                <td>https://www.google.com/search?q=DEVELOPMENT+AND+IN-VITRO+EVALUATION+OF+METOPROLOL+TARTRATE+LOADED+CROSS+LINKED+POLYSACCHARIDE+MICROBEAD+FOR</td>
+            </tr>
+            <tr>
+                <td>189</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Rajendra Ahirwar,  Deepa Singh Chouhan Shilpi Rawat, Devsharn Chaturvedi, Govind Das Soni</td>
+                <td>A BRIEF REVIEW ON GENE THERAPY</td>
+                <td>INTERNATIONALl JOURNAL OF RESEARCH AND REVIEW</td>
+                <td>International</td>
+                <td>2454-2237</td>
+                <td>DOI: https://doi.org/10.52403/ijrr.20241254</td>
+            </tr>
+            <tr>
+                <td>190</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Deepa Singh </td>
+                <td>Screening of Anti Diabetic Potential of Zizyphus Xylopyrus Fruits in Type-2 Diabetic Animal Model</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN </td>
+            </tr>
+            <tr>
+                <td>191</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Deepa Singh Chouhan</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Jeetendra Kushwaha</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Deependra Singh</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Neelesh Anuragi</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Ram Milan Vihwakarma</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Keerti Ahirwar</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>ANTI – DIABETIC POTENTIAL OF DELONIX REGIA </td>
+                <td>SKU PHARMACEUTICAL REVIEW<br></td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>192</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Neelesh Anuragi,Jeetendra Kushwaha, Deependra Singh, Deepa Singh Chouhan4,Keerti Ahirwar</td>
+                <td>Phytochemical Investigations and Pharmacological Evaluation of Mimusops elengi L Bark for Hepatoprotective Activity</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+            </tr>
+            <tr>
+                <td>193</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Gireesh Tripathi ,B.K. Dubey</td>
+                <td>Optimization and Drug Release Studies of Dithranol Loaded Solid Lipid Nanoparticles for its Exploitation as Topical Drug Delivery System</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+            </tr>
+            <tr>
+                <td>194</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Anand Chaurasia</td>
+                <td>A Review on : Materiovigilance in Practice of Pharmaceutical and Other Healthcare System</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+            </tr>
+            <tr>
+                <td>195</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Deependra Singh</td>
+                <td>Corona Virus Disease 2019 (COVID-19): REVIEW ARTICLE</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+            </tr>
+            <tr>
+                <td>196</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Neelesh Anuragi</td>
+                <td>Environmental and Health Impacts of Air Pollution: A Research Article</td>
+                <td>SKU PHARMACEUTICAL REVIEW</td>
+                <td>National</td>
+                <td>NA</td>
+                <td>WWW.SKUPHARMA.IN</td>
+            </tr>
+            <tr>
+                <td>197</td>
+                <td>Pharmacy</td>
+                <td>2025</td>
+                <td>Manoj Kumar Yadav,Rajesh Kumar Sharma,Nitin Kumar Sen,Rupali Sontakke,Preetam Kumar,Akhilesh Nautiyal,KNV Chenchu Lakshmi<br>Gireesh Tripathi</td>
+                <td>Phytochemistry and Ethnopharmacology of Andrographis Paniculata and Adhatoda Vasaka</td>
+                <td>The South Eastern European Journal of Public Health (SEEJPH) Volume XXVI S2</td>
+                <td>National</td>
+                <td>2197-5248</td>
+                <td>https://www.seejph.com/index.php/seejph/article/view/5535</td>
+            </tr>
+            <tr>
+                <td>198</td>
+                <td>Pharmacy</td>
+                <td>2025</td>
+                <td>Gireesh Tripathi</td>
+                <td>Development and optimization of solid lipid nanoparticles for transdermal drug delivery systems</td>
+                <td>INTERNATIONAL JOURNAL OF TRENDS IN EMERGING RESEARCH AND DEVELOPMENT Vol 3 Issue I</td>
+                <td>National</td>
+                <td>2584-282X</td>
+                <td>DOI: https://doi.org/10.5281/zenodo.14844321</td>
+            </tr>
+            <tr>
+                <td>199</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Angesh Kumar, Mahesh Kumar Gupta, Manish Gupta, Surwase Kumar Pralhad, Gireesh Tripathi, Deepika Aggarwal, Priyanka Gupta, Rajiv Yadav</td>
+                <td>Ocular Nanoparticles: Formulation and Characterization for Targeted Drug Delivery Systems</td>
+                <td>Library Progress International Vol.44 No. 3, Jul-Dec 2024: </td>
+                <td>International</td>
+                <td>2320-317X</td>
+                <td>https://bpasjournals.com/library-science/index.php/journal/article/view/1363</td>
+            </tr>
+            <tr>
+                <td>200</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td> Gireesh Tripathi </td>
+                <td>AI-driven predictive modeling for enhancing drug solubility and stability<br>in pharmaceutical formulations Delivery System</td>
+                <td>INTERNATIONAL JOURNAL OF ADVANCE RESEARCH IN MULTIDISCIPLINARY Vol 3 Issue 3</td>
+                <td>National</td>
+                <td>2583-9667</td>
+                <td>https://doi.org/10.5281/zenodo.14739940</td>
+            </tr>
+            <tr>
+                <td>201</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td> Gireesh Tripathi and BK Dubey</td>
+                <td>Optimization and Drug Release Studies of Dithranol Loaded Solid Lipid<br>Nanoparticles for its Exploitation as Topical Drug Delivery System</td>
+                <td>SKU Pharmaceutical Review Vol 1 Jan-March 2024 </td>
+                <td>National</td>
+                <td>NA</td>
+                <td>https://www.skupharma.in/pdf/ph1.pdf</td>
+            </tr>
+            <tr>
+                <td>202</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Nahila Anjum, Ajay B Jadhao, Deepmala U. Yadav, Jyoti Khir Sagar , Kadambini Das, Avinash R. Nichat , Sanjeet Kumar , Gireesh Tripathi</td>
+                <td>Medicinal plants useful in the treatment of piles</td>
+                <td>Africal Journal of Biological Sciences  Volume 6 , Issue - 6 </td>
+                <td>International</td>
+                <td> 2663-2187</td>
+                <td>https://aprfjournal.in/wp-content/uploads/2024/09/Article-6.pdf</td>
+            </tr>
+            <tr>
+                <td>203</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Subhalakshmi Rout, Amaryllis Langbang, Avinash R. Nichat, Debabrata Mohanty,Paramita Ray and Gireesh Tripathi</td>
+                <td>Food and Medicinal Values of Freshwater Crab (Barytelphusa<br>cunicularis) &amp; Snail (Filopaludina bengalensis): A way to reduce<br>forest dependency and improve sustainability</td>
+                <td>Journal of Biodiversity and Conservation (JBC) Volume 8 Issue 4 </td>
+                <td>International</td>
+                <td>2457-0761 </td>
+                <td>https://bpasjournals.com/library-science/index.php/journal/article/view/1363</td>
+            </tr>
+            <tr>
+                <td>204</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>B.R.Asokan, Nitesh Ranjan Parida, Vivek Pratap Singh, Molleti Divya, Shloke Kumar Dwivedi, Nancy Tiwari, Arendra Pratap Singh, Gireesh Tripathi</td>
+                <td>The DPP-IV Inhibition, Glucose Uptake and Nephroprotective Potential of an Herbal Remedy of Balbisia Pedunculata and Allium Sativum</td>
+                <td>Africal Journal of Biological Sciences  Volume 6  Issue - 6 </td>
+                <td>International</td>
+                <td>2663-2187</td>
+                <td>https://www.afjbs.com/issue-content/the-dpp-iv-inhibition-glucose-uptake-and-nephroprotective-potential-of-an-herbal-remedy-of-balbisia-pedunculata-and-allium-sativum-2499</td>
+            </tr>
+            <tr>
+                <td>205</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Gireesh Tripathi, Komal Kriti, Kavitha S, B.R. Asokan, Pankaj Mohan Pimpalshende, Dilip Kumar Roy, Anuva Samanta, Konda V V S Krishna</td>
+                <td>Innovative Extraction Methods and Solvent Optimization for Paederia Foetida In Vitro Analysis of Antioxidant and Neuroprotective Properties</td>
+                <td>Bulletin of Pure and Applied Sciences Section-A-Zoology Vol .43A, No.1S, Jan-Dun 2024 </td>
+                <td>International</td>
+                <td>2320-3188</td>
+                <td>https://bpasjournals.com/zoology/index.php/journal/article/view/187</td>
+            </tr>
+            <tr>
+                <td>206</td>
+                <td>Pharmacy</td>
+                <td>2024</td>
+                <td>Ritunja Singh, Ankita Alice Singh, Sandeep Kumar Yadav, Gireesh Tripathi, Vikas Kumar, Arun Sharma, Neelam Singh, Arpita Singh</td>
+                <td>Nanoemulsion-Based Delivery Systems for Moringa Oleifera Seed Oil: Formulation and Antimicrobial Evaluation</td>
+                <td>Africal Journal of Biological Sciences Volume 6 Issue 15 </td>
+                <td>International</td>
+                <td> 2663-2187</td>
+                <td>https://www.afjbs.com/issue-content/nanoemulsion-based-delivery-systems-for-moringa-oleifera-seed-oil-formulation-and-antimicrobial-evaluation-7312</td>
+            </tr>
+            <tr>
+                <td>207</td>
+                <td>Pharmacy</td>
+                <td>2021</td>
+                <td>Hemant Kumar, Gireesh Tripathi ,Abhisek Pathak, Deependra Singh</td>
+                <td>Review on Immunboosting and ImmunostimulatoryActivity of Some Natural Plants</td>
+                <td>Journal of Advances in Bio- pharmaceutics and Pharmacovigilance Volume 3 Issue 1</td>
+                <td>National</td>
+                <td>2583-8202</td>
+                <td>https://matjournals.co.in/index.php/JABP/issue/view/371</td>
+            </tr>
+            <tr>
+                <td>208</td>
+                <td>Science </td>
+                <td>2023</td>
+                <td>Dr.Gaurav Swaroop Nigam</td>
+                <td>Analysis of Physico- Chemical Parameters along the Beehar River, Rewa, Madhya Pradesh.</td>
+                <td>Janmat Power, Multidisciplinary Research Journal</td>
+                <td>National</td>
+                <td>2582-6557</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>209</td>
+                <td>Science </td>
+                <td>2023</td>
+                <td>Dr.Gaurav Swaroop Nigam</td>
+                <td>Effect of Different  Light Spectrum on Growth and Sporulation of Pythium sp. and Saprolegnia sp.</td>
+                <td>SKU Shodh Sanchar (E-Journal)</td>
+                <td>National</td>
+                <td> 2584-2900</td>
+                <td>Print Only </td>
+            </tr>
+            <tr>
+                <td>210</td>
+                <td>Science </td>
+                <td>2024</td>
+                <td>Manisha Nahar, Ravina Rai, Deepali Jat</td>
+                <td>Therapeutic intervention of vitamin B12 in mitigating chronic alcoholism induced alterations in adult zebrafish (Danio rerio): a holistic in-vivoapproach.</td>
+                <td>International Journal of Neuroscience (Publisher-Taylor &amp; Francis)</td>
+                <td>International</td>
+                <td>1563-5279</td>
+                <td>https://doi.org/10.1080/00207454.2024.2398564</td>
+            </tr>
+            <tr>
+                <td>211</td>
+                <td>Science </td>
+                <td>2022</td>
+                <td>Sonam Dwivedi, Hari Chandra Nayak, Shivendra Singh Parmar,Rajendra Prasad Kumhar and Shailendra Rajput</td>
+                <td>Calcination Temperature Reflected Structural, Optical and Magnetic Properties of Nickel Oxide.</td>
+                <td>Magnetism  (Publisher-MDPI)</td>
+                <td>International</td>
+                <td> 2673-8724</td>
+                <td>https://doi.org/10.3390/magnetism2010004</td>
+            </tr>
+            <tr>
+                <td>212</td>
+                <td>Science </td>
+                <td>2022</td>
+                <td>Hari Chandra Nayak, Shivendra Singh Parmar, Rajendra Prasad Kumhar and Shailendra Rajput<br> </td>
+                <td>Modulation in Electric Conduction of PVK and Ferrocene-Doped PVK Thin Films.</td>
+                <td>Electronic  Materials (Publisher-MDPI)</td>
+                <td>International</td>
+                <td>2673-3978</td>
+                <td>https://doi.org/10.3390/electronicmat3010005</td>
+            </tr>
+            <tr>
+                <td>213</td>
+                <td>Science </td>
+                <td>2022</td>
+                <td>Shivendra Singh Parmar,Shailendra Rajput</td>
+                <td>Effect of Poling on Dielectric Properties of PMN-PT Ceramics.</td>
+                <td>Prabha Materials Science Letters</td>
+                <td>National</td>
+                <td>2583-5114</td>
+                <td> https://doi.org/10.33889/PMSL.2022.1.1.005</td>
+            </tr>
+            <tr>
+                <td>214</td>
+                <td>Computer Science &amp;<br> Application</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td> 2025&quot;</td>
+                <td>Mr Onkar Tiwari </td>
+                <td>Novel spatial filtering <br>integration for enhanced<br> public activity detection <br>in video via deep learning</td>
+                <td>International Research Journalof Management Science &amp; Technology<br>(Published by <br>iSaRa Solutions)</td>
+                <td>International</td>
+                <td>2250–1959</td>
+                <td>www.isarasolutions.com</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>215</td>
+                <td>Computer Science &amp;<br> Application</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2024&quot;</td>
+                <td>Chhatarsal Rathaur</td>
+                <td>Artificial Intelligence for Education &amp; Teaching system</td>
+                <td>SKU SODH CHANCHAR</td>
+                <td>International</td>
+                <td>2584-2900</td>
+                <td>https://www.skushodhsanchar.com/</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>216</td>
+                <td>Computer Science &amp;<br> Application</td>
+                <td>2023</td>
+                <td>Chhatarsal Rathaur</td>
+                <td>Artificial Intelligence as your daily experience &amp; deep learning</td>
+                <td>SKU SODH CHANCHAR</td>
+                <td>International</td>
+                <td>2582-6557</td>
+                <td>https://www.skushodhsanchar.com/</td>
+            </tr>
+        </table>
+
+    </div>
+</div>
+
+    </div>
+
+    <style>
+        .sku-footer {
+            background: url('/images/97430854-19cd-41a9-98b1-5fa49e2f2966.png') center center / cover no-repeat, #205194;
+            background-blend-mode: overlay;
+            color: #fff;
+            padding: 0px 0;
+        }
+
+            .sku-footer .footer-heading {
+                font-weight: bold;
+                margin-bottom: 10px;
+                font-size: 24px;
+            }
+
+            .sku-footer .footer-subtext {
+                font-size: 16px;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 25px;
+                font-weight: bold;
+                padding: 10px 25px;
+                border-radius: 8px !important;
+            }
+
+        @media (max-width: 767px) {
+            .sku-footer .text-left, .sku-footer .text-right {
+                text-align: center !important;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 20px;
+            }
+        }
+    </style>
+    <div class="container-fluid sku-footer text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 text-left">
+                    <h2 class="footer-heading">Shape Your Future at SKU University</h2>
+                    <p class="footer-subtext">Join a dynamic learning community focused on skills, growth, and innovation.</p>
+                </div>
+                <div class="col-sm-4 text-right">
+                    <a href="#" class="btn btn-default btn-lg footer-btn">Click Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid footer padTB20">
+        <div class="container">
+            <div class="footerlist">
+                <ul>
+                    <li>
+                        <h1>Media</h1>
+                        <a href="/event-gallery">Events</a>
+                        <a href="/Media-Gallery">Media Coverage</a>
+                    </li>
+                    <li>
+                        <h1>Programs</h1>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                        <a href="/Course-admission/1">Under Graduate</a>
+                        <a href="/Course-admission/2">Post Graduate</a>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <h1>Placements</h1>
+                        <a href="">Placement Cell</a>
+                        <a href="">Associated Recruiters</a>
+                        <a href="">Placement Record</a>
+                        <a href="">Recruiter Speak</a>
+                        <a href="">Placement Highlights</a>
+                    </li>
+                    <li>
+                        <h1>Admissions</h1>
+                        <a href="">Admission Procedure</a>
+                        <a href="">Scholarship</a>
+                        <a href="">Payment Procedure</a>
+                        <a href="">Admission Assistance</a>
+                        <a href="Registration/studentregistration">Admission Form</a>
+                    </li>
+                    <li>
+                        <h1>Other Links</h1>
+                        <a href="/event-gallery">Gallery</a>
+                        <a href="/carrier">Careers</a>
+                        <a href="/Enquiry">Quick Query</a>
+                        <a href="/contact-us">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mainrow">
+                <div style="height: 30px;"></div>
+            </div>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td width="165" class="block">
+                            <div itemscope="" itemtype="http://schema.org/Organization">
+                                <a itemprop="url" href="" title="Shri Krishna University">
+                                    <img itemprop="logo" style="width: 150px;" src="/Content/images/sku_universal_logo .png" class="marbtm10" alt="Shri Krishna University" title="Shri Krishna University">
+                                </a>
+                            </div>
+                        </td>
+                        <td width="3%" class="mobnnnnn">
+                            <div align="left">
+                                <img src="/Content/images/border.jpg">
+
+                            </div>
+                        </td>
+                        <td valign="top" class="block" style="padding-top: 0px; vertical-align: top;">
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td class="calbold" style="padding: 0px;">
+                                            <span itemprop="name">Shri Krishna University</span> <span class="mobns">-</span> <span class="moblk">Vidya Sarvasva Pujnam</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="5%" class="mobnnnnn">
+                                                            <div class="mapmarker"></div>
+                                                        </td>
+                                                        <td width="94%" valign="baseline" class="cam14">
+                                                            <a href="" target="_blank">N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="phoneicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">Landline No. - <a href="tel:+917682241716"><span class="lato">+</span>07682-241716</a>, <a href="tel:+918682248735">07682-248735</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="mailicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">
+                                                            <a href="mailto:info@skuindia.com">info@skuindia.com</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td valign="top" class="block">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Admission Enquiry.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 303/707</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Technical Support.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 909</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="cam14" style="font-weight: 600;">
+                                                            <a href="/Refund-and-Cancellation-policy">Refund and Cancellation policy</a> <span class="lato">/</span> <a href="/Privacy-Policy">Privacy Policy</a> <span class="lato">/</span> <a href="/Terms-Conditions">Terms &amp; Conditions </a><span class="lato">/</span> <a href="#">Disclaimer</a> <span class="lato">/</span> <a href="#">Site Map</a> <span class="lato">/</span> Helpline No. - <a href="tel:+6262180303">6262 180 303</a>, <a href="tel:+6262180909">6262 180 909</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="cam14">
+                                                            <span class="lato">©</span> 2022 Shri Krishna University. All rights reserved. </span>
+
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <div id="side-quick-links">
+        <ul>
+            <li class="call">
+                <div class="xContent">
+                    <a href="javascript:void(0)"><i class="fa fa-phone" aria-hidden="true"></i></a>
+                    <p><a href="tel:+91-6262-180-303">+91-6262-180-303/707</a></p>
+                </div>
+            </li>
+
+            <li class="marker">
+                <div class="xContent">
+                    <a href="javascript:void(0)">
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                    </a>
+                    <p>
+                        <a class="" href="https://www.facebook.com/skuindia/" target="_blank"><i class=" social fa fa-facebook"></i></a>
+                        <a class="" href="https://twitter.com/skuindia" target="_blank"><i class=" social fa fa-twitter"></i></a>
+                        <a class="" href="https://www.linkedin.com/company/skuindia/" target="_blank"><i class="social fa fa-linkedin"></i></a>
+                        <a class="" href="https://www.youtube.com/channel/UC2g8P5Ef7GFWacIaZ0OhEfg" target="_blank"><i class=" social fa fa-youtube-play"></i></a>
+                        <a class="" href="https://www.instagram.com/skuindia/" target="_blank"><i class=" social fa fa-instagram"></i></a>
+                    </p>
+                </div>
+            </li>
+
+            <li class="watsapp">
+                <div class="xContent">
+                    <a href="javascript:void(0)" rel="nofollow"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                    <h6>For Information</h6>
+                    <p><a href="https://wa.me/6262180909" target="_blank">+91-6262180909</a></p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="/Content/Assets/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="/Content/Assets/plugins/jquery.tickerNews.min.js"></script>
+
+    <script src="/Content/xcv/bootstrap-dropdownhover.js"></script>
+
+
+    <script async src="/Content/Assets/js/nusc.js"></script>
+
+
+    <link href="/Content/xcv/fotorama.css" rel="stylesheet" />
+    <script src="/Content/xcv/fotorama.js"></script>
+    <script src="/Content/xcv/jquery.vticker-min.js"></script>
+    
+    <script>
+        $('#InfoApplication').parsley();
+
+        function alignModal() {
+            var modalDialog = $(this).find(".modal-dialog");
+
+            // Applying the top margin on modal dialog to align it vertically center
+            modalDialog.css("margin-top", Math.max(0, ($(window).height() - modalDialog.height()) / 2));
+        }
+        // Align modal when it is displayed
+        $(".modal").on("shown.bs.modal", alignModal);
+
+        // Align modal when user resize the window
+        $(window).on("resize", function () {
+            $(".modal:visible").each(alignModal);
+        });
+        function toggle_popup() {
+            $("#myModal").modal("show")
+        }
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            _Ticker = $(".TickerNews").newsTicker();
+
+
+        });
+
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+
+    <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function () { myFunction() };
+
+        // Get the header
+        var header = document.getElementById("hybridHeader");
+
+        // Get the offset position of the navbar
+        var sticky = header.offsetTop;
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("hybridDesign");
+                header.classList.add("navbar-fixed-top");
+
+            } else {
+                header.classList.remove("navbar-fixed-top");
+                header.classList.remove("hybridDesign");
+            }
+        }
+    </script>
+    
+    
+
+
+    <script>
+        $(document).on('click',
+            '[data-toggle="lightbox"]',
+            function (event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+    </script>
+
+
+
+    
+    <script async>
+
+        $(document).ajaxStart(function () {
+            $(".loading").css("visibility", "visible");
+        });
+        $(document).ajaxComplete(function () {
+            $(".loading").css("visibility", "hidden");
+        });
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54764231-15"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-54764231-15');
+    </script>
+
+</body>
+</html>

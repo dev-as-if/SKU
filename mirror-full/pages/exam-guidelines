@@ -1,0 +1,2225 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <title>Exam Regulation &amp; Guidelines | Shri Krishna University | Shri Krishna University</title>
+    <meta name="description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education.">
+    <meta name="keywords" content="sku india, Best University MP, SKU, SKUINDIA, Shri Krishna University, Best Leading University Chhatarpur, Best University Chhatarpur, Best college MP, Best Hi-Tech University In Bundelkhand, Hi-Tech University In Chhatarpur, Hi-Tech College In Chhatarpur, Hi-Tech College In MP, Hi-Tech College In Madhya Pradesh, Best University India, Leading University India, Best Private University, Chhatarpur, Madhya Pradesh, Sagar, Damoh, Panna, Tikamgarh, Jhansi, Khajuraho, Best High-Tech University, Best Law College, Best Nursing College, Best Architecture College, Best Pharmacy College, Global University, UGC Approved University, Top Rated University Madhya Pradesh, Best MBA University, Best Engineering University, shri krishna, ">
+
+    <meta property="og:title" content="Exam Regulation &amp; Guidelines | Shri Krishna University | Shri Krishna University" />
+    <meta property="og:description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shri Krishna University" />
+    <meta property="og:url" content="https://www.skuindia.ac.in/exam-guidelines" />
+    <link rel="canonical" href="https://www.skuindia.ac.in/exam-guidelines" />
+    <link rel="shortcut icon" type="image/png" href="/Content/images/sku_logo.png" />
+
+    <!-- Additional course-related keywords for SEO -->
+    <meta name="Course_keywords" content="MBA, Engineering, Science, Computer Science, Arts, Architecture, LAW, Mass Communication, Nursing, Pharmacy, Paramedical courses." />
+
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="FLDn8XvtIcI/GsRYkFdZ+g" async></script>
+    
+
+
+
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,800&display=swap" rel="stylesheet">
+
+    <!-- icons -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">    
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="/Content/Assets/css/nwuni.css" />
+    <link rel="stylesheet" href="/Content/Assets/css/bootstrap.min.css" />
+
+
+    
+    
+    
+    
+    
+    
+
+    <!-- slider -->
+    <script src="/Content/xcv/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/Content/Assets/plugins/Slider/slippry.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/plugins/Slider/slippry.css">
+
+    <!-- parsley -->
+    <link href="/Content/Assets/css/parsley.css" rel="stylesheet" />
+    <script src="/Content/Assets/js/parsley.js"></script>
+
+    <!-- lightbox -->
+    <link href="/Content/xcv/ekko-lightbox.css" rel="stylesheet" />
+    <script src="/Content/xcv/ekko-lightbox.js"></script>
+
+    <!-- custom-css -->
+
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/css/sku.css">
+    <link href="/Content/Assets/css/sku_custom.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/footer.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/skuCustom2020.css" rel="stylesheet" />
+    <link href="/Content/web/css/web-view-custom.css" rel="stylesheet" />
+
+    <!-- custom-css-mobile -->
+    <link rel="stylesheet" type="text/css" href="/Content/masterCss/dotmobile-small.css" />
+
+    <!-- loader style -->
+    <link href="/Content/admin/css/zloder.css" rel="stylesheet" />
+
+
+    
+    <link href="/Content/web/css/pages.css" rel="stylesheet" />
+    <link href="/Content/web/css/pages__mx.css" rel="stylesheet" />
+
+
+    <style>
+        /* Global Styles */
+        .social {
+            padding: 0 10px;
+            border-radius: 50px;
+        }
+
+        #divProcessing {
+            /* No styles defined */
+        }
+
+        .loading {
+            position: fixed;
+            z-index: 999;
+            height: 2em;
+            width: 2em;
+            overflow: show;
+            margin: auto;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            visibility: hidden;
+        }
+
+            .loading:before {
+                content: '';
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+                background: -webkit-radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+            }
+
+            .loading:not(:required) {
+                font: 0/0 a;
+                color: transparent;
+                text-shadow: none;
+                background-color: transparent;
+                border: 0;
+            }
+
+                .loading:not(:required):after {
+                    content: '';
+                    display: block;
+                    font-size: 10px;
+                    width: 1em;
+                    height: 1em;
+                    margin-top: -0.5em;
+                    animation: spinner 1500ms infinite linear;
+                    border-radius: 0.5em;
+                    box-shadow: rgba(255, 255, 255, 0.75) 1.5em 0 0 0, rgba(255, 255, 255, 0.75) 1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) 0 1.5em 0 0, rgba(255, 255, 255, 0.75) -1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) -1.5em 0 0 0, rgba(255, 255, 255, 0.75) -1.1em -1.1em 0 0, rgba(255, 255, 255, 0.75) 0 -1.5em 0 0, rgba(255, 255, 255, 0.75) 1.1em -1.1em 0 0;
+                }
+
+        /* Animation */
+        @keyframes spinner {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Social Icon Styles */
+        .socialIcon {
+            padding: 10px 51px;
+            font-size: 48px;
+        }
+
+        /* Filter Block Styles */
+        .xFilterBlock {
+            background-color: #efeded;
+            padding: 10px;
+            margin: 0 0 20px;
+        }
+
+        /* Horizontal Rule Styles */
+        hr.style13 {
+            height: 10px;
+            border: 0;
+            box-shadow: 0 10px 10px -10px #8c8b8b inset;
+        }
+
+        hr.styleX1 {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, #f0f0f0, #8c8b8b, #f0f0f0);
+        }
+
+        hr.style15 {
+            border-top: 4px double #8c8b8b;
+            text-align: center;
+        }
+
+            hr.style15:after {
+                content: '\002665';
+                display: inline-block;
+                position: relative;
+                top: -15px;
+                padding: 0 10px;
+                background: #f0f0f0;
+                color: #8c8b8b;
+                font-size: 18px;
+            }
+
+        /* Content Block Styles */
+        .content-xc {
+            padding: 15px;
+            background-color: #f8f8f8;
+        }
+
+        /* Ribbon Styles */
+        .ribbon {
+            background: #e22692;
+            height: 87px;
+            margin: 0 auto;
+            position: absolute;
+            width: 74px;
+            right: 20px;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 87px;
+            font-size: 35px;
+            color: #f2f2f2;
+        }
+
+            .ribbon:after,
+            .ribbon:before {
+                content: '';
+                position: absolute;
+                border-top: 20px solid #e22692;
+                height: 0;
+                width: 0;
+                top: 100%;
+            }
+
+            .ribbon:after {
+                border-left: 50px solid transparent;
+                right: 0;
+            }
+
+            .ribbon:before {
+                border-right: 50px solid transparent;
+                left: 0;
+            }
+
+        /* Box Styles */
+        #box {
+            width: 250px;
+            height: 250px;
+            background: #f8f8f8;
+            position: relative;
+            color: #666;
+            font-size: 18px;
+            border: 1px solid #333;
+        }
+
+        /* Navigation Title Styles */
+        .li-nav-title {
+            border-right: 1px solid #dedede !important;
+        }
+
+        /* Heading Styles */
+        .style__3 h1 {
+            font-size: 28px;
+            font-weight: 500;
+            letter-spacing: 0;
+            line-height: 1.5em;
+            padding-bottom: 15px;
+            position: relative;
+        }
+
+            .style__3 h1:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                height: 5px;
+                width: 55px;
+                background-color: #111;
+            }
+
+            .style__3 h1:after {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 2px;
+                height: 1px;
+                width: 95%;
+                max-width: 255px;
+                background-color: #333;
+            }
+
+        .style__6 h2 {
+            text-align: center;
+            color: #222;
+            font-size: 30px;
+            font-weight: 400;
+            text-transform: uppercase;
+            word-spacing: 1px;
+            letter-spacing: 2px;
+            color: #c50000;
+        }
+
+            .style__6 h2 span {
+                line-height: 2em;
+                padding-bottom: 15px;
+                text-transform: none;
+                font-size: .7em;
+                font-weight: normal;
+                font-style: italic;
+                font-family: "Playfair Display","Bookman",serif;
+                color: #999;
+                letter-spacing: -0.005em;
+                word-spacing: 1px;
+                letter-spacing: none;
+            }
+
+            .style__6 h2:after, .style__6 h2:before {
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 45px;
+                height: 4px;
+                content: "";
+                right: 45px;
+                margin: auto;
+                background-color: #ccc;
+            }
+
+            .style__6 h2:before {
+                background-color: #d78b8b;
+                left: 45px;
+                width: 90px;
+            }
+
+        .style__7 h2 {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 300;
+            color: #222;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            display: grid;
+            grid-template-columns: 1fr max-content 1fr;
+            grid-template-rows: 27px 0;
+            grid-gap: 20px;
+            align-items: center;
+        }
+
+            .style__7 h2:after, .style__7 h2:before {
+                content: " ";
+                display: block;
+                border-bottom: 1px solid #c50000;
+                border-top: 1px solid #c50000;
+                height: 5px;
+                background-color: #f8f8f8;
+            }
+
+        .style__10 h2 {
+            font-size: 18px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+
+            .style__10 h2:before {
+                background-color: #c50000;
+                border-radius: 0.25rem;
+                content: '';
+                display: block;
+                height: 0.25rem;
+                width: 42px;
+                margin-bottom: 1.25rem;
+            }
+
+        /* Top Bar Styles */
+        #top-bar {
+            font-weight: 800;
+            position: inherit;
+            left: 0;
+            top: 0;
+            z-index: 2000;
+            background: #f7f7f7;
+            width: 100%;
+            text-align: center;
+            height: 40px;
+            overflow: visible !important;
+            border-bottom: 1px solid #dedede;
+            background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+        }
+
+            #top-bar #right .e-journal-menu {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter {
+                    display: inline-block !important;
+                    padding: 8px !important;
+                    background-color: white !important;
+                    color: inherit !important;
+                    text-decoration: none !important;
+                    font-size: 10px !important;
+                }
+
+                /* Base Styles */
+                #top-bar #right .e-journal-menu .submenu {
+                    display: none; /* Hide submenu initially */
+                    position: absolute;
+                    top: 100%;
+                    right: 10px;
+                    background-color: white;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                    padding: 10px;
+                    min-width: 200px;
+                    z-index: 1000;
+                    text-align: left;
+                }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter:hover .submenu {
+                    display: block !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block !important;
+                    margin: 5px 0 !important;
+                    padding: 0 !important;
+                    list-style-type: none !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block !important;
+                    padding: 5px !important;
+                    color: #333 !important;
+                    text-decoration: none !important;
+                    white-space: nowrap !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4 !important;
+                        color: white !important;
+                    }
+
+            #top-bar #right {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu,
+                #top-bar #right .e-journal-menu > a,
+                #top-bar #right .e-journal-menu .submenu,
+                #top-bar #right .e-journal-menu .submenu li,
+                #top-bar #right .e-journal-menu .submenu a {
+                    margin: 0 !important;
+                    border: none !important;
+                    font-size: inherit !important;
+                    font-weight: normal !important;
+                    line-height: normal !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu {
+                        opacity: 0;
+                        visibility: hidden;
+                        transition: opacity 0.2s, visibility 0.2s;
+                    }
+
+                    #top-bar #right .e-journal-menu:hover .submenu {
+                        opacity: 1 !important;
+                        visibility: visible !important;
+                    }
+
+
+
+
+
+        /* Desktop View: Show submenu on hover */
+        @media (min-width: 769px) {
+            #top-bar #right .e-journal-menu:hover .submenu {
+                display: block;
+            }
+        }
+
+        /* Mobile View: Ensure submenu only shows when toggled */
+        @media (max-width: 768px) {
+            #top-bar #right .e-journal-menu .submenu {
+                position: static;
+                box-shadow: none;
+                background-color: transparent;
+                padding: 0;
+            }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block;
+                    margin: 5px 0;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block;
+                    padding: 5px;
+                    color: #333;
+                    text-decoration: none;
+                    white-space: nowrap;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4;
+                        color: white;
+                    }
+        }
+    </style>
+    <style>
+        .blink {
+            animation: blinker 1s linear infinite;
+            background: red !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .blink-Yellow {
+            animation: blinker 1s linear infinite;
+            background: #5a0303 !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+
+
+        .blink-blue {
+    animation: blinkBlue 1s infinite;
+}
+
+@keyframes blinkBlue {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+    </style>
+</head>
+<body>
+    <div id="divProcessing" class="loading"></div>
+
+    <div id="top-bar" class="strip">
+        <div class="contain-1120 group">
+
+
+
+            <ul id="left">
+                
+                <li class="header-sub-title-eng hidden-xs">(Approved By Government of Madhya Pradesh & UGC)</li>
+            </ul>
+            <ul id="right">
+                <li><a class="" href="/admin/Login/Login">Login</a></li>
+                <li>
+                    <a href="http://library.skuindia.com">Library</a>
+                </li>
+                <li style="padding: 8px;" class="blink-blue">
+                    <a href="https://sku.clickeffect.in/" target="_blank"
+                       style="background: linear-gradient(45deg, #007bff, #00c6ff);
+                              color: #fff;
+                              padding: 5px 18px;
+                              border-radius: 25px;
+                              text-decoration: none;
+                              font-weight: bold;
+                              display: inline-block;
+                              box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+                              transition: 0.3s;">
+                        🎥 360° Virtual Tour
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink-Yellow">
+                    <a href="/Home/proformaUGC" target="_blank" style="color: white;">
+                        UGC Proforma
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink">
+                    <a href="http://skuindia.ac.in/content/upload/disclosure/ugc-sku-public-self-disclosure.pdf" target="_blank" style="color: white;">
+                        Public Self Disclosure
+                    </a>
+                </li>
+                <li style="padding: 8px;">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-wifi" aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+                </li>
+                <li class="e-journal-menu">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i>
+                        &nbsp;E Journal
+                    </a>
+                    <ul class="submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            const ejournalMenu = document.querySelector('.e-journal-menu');
+            const submenu = ejournalMenu.querySelector('.submenu');
+            const ejournalLink = ejournalMenu.querySelector('a');
+
+            // Function to toggle submenu display
+            function toggleSubmenu() {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    submenu.style.display = submenu.style.display === 'block' ? 'none' : 'block';
+                } else {
+                    submenu.style.display = ''; // Reset display for desktop view
+                }
+            }
+
+            // Toggle submenu on click for mobile
+            ejournalLink.addEventListener('click', function (event) {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    event.preventDefault(); // Prevent the default anchor behavior
+                    toggleSubmenu();
+                }
+            });
+
+            // Hide submenu if clicked outside for mobile view
+            document.addEventListener('click', function (event) {
+                if (window.innerWidth <= 768 && !ejournalMenu.contains(event.target)) {
+                    submenu.style.display = 'none';
+                }
+            });
+
+            // Adjust submenu display on window resize
+            window.addEventListener('resize', function () {
+                submenu.style.display = ''; // Reset display on resize
+            });
+        });
+    </script>
+
+
+    <header id="nu" class="grayBg">
+        <div class="bottom-bar group">
+            <div class="container-fluid grayBg hidden-xs" style="padding-top: 0px; margin-top:-10px;">
+                <div class="col-md-5 col-xs-12 logo">
+                    <a href="/">
+                        <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 col-xs-12" style="padding-top: 10px;padding-left: 0;padding-bottom: 0px;text-align: left; float:right;">
+                    <div style="float:right;">
+                        <a href="https://www.skuindia.ac.in/Enquiry">
+                            <img style="border-radius: 12px;" src="https://www.skuindia.ac.in/Content/web/banner/shri-krishna-university-2026-admission-enquiry-now.webp" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid grayBg hidden-xs" id="hybridHeader"
+                 style="padding-left: 0px; padding-right: 0px;">
+                <div class="col-md-12"
+                     style="padding: 0px;">
+                    <nav aria-label="main navigation menu" id="top-nav">
+<ul>
+    
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">About <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>The University</span>
+                    </li>
+                    <li>
+                        <a href="/about-university">About University</a>
+                    </li>
+                    <li>
+                        <a href="/Administration">Administration</a>
+                    </li>
+                    <li>
+                        <a href="/institutional-development-plan">Institutional Development Plan</a>
+                    </li>
+                    <li>
+                        <a href="/annual-reports">Annual Reports</a>
+                    </li>
+                    <li>
+                        <a href="/annual-accounts">Annual Accounts</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Welcome Note</span>
+                    </li>
+                    <li>
+                        <a href="/chancellor-welcome-message">Chancellor Message</a>
+                    </li>
+                    <li>
+                        <a href="/chairman-welcome-message">Chairman Message</a>
+                    </li>
+                    <li>
+                        <a href="/vice-chancellor-welcome-message">Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/pro-vice-chancellor-welcome-message">Pro Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/registrar">Registrar Message</a>
+                    </li>
+                    <li>
+                        <a href="/Important-message">Important Message</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Councils</span>
+                    </li>
+                    <li>
+                        <a href="/governing-body">Governing Body</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-management">Board of Management</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-council">Academic Council</a>
+                    </li>
+
+                    <li>
+                        <a href="/finance-committee">Finance Committee</a>
+                    </li>
+
+                    <li>
+                        <a href="/internal-complaint-committee">Internal Complaint Committee (Staff)</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-studies">Board of Studies</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-leadership">Academic Leadership</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul class="column">
+                    <li class="sku-menu-sub-title">
+                        <span>Regulatory & Compliance</span>
+                    </li>
+                    <li>
+                        <a href="/act-and-statutes">Act & Statutes</a>
+                    </li>
+                    <li>
+                        <a href="/approval-and-recognitions">Approvals & Recognitions</a>
+                    </li>
+                    <li>
+                        <a href="/ordinances">Ordinance</a>
+                    </li>
+                    <li>
+                        <a href="">Accreditation & Ranking</a>
+                    </li>
+                    <li>
+                        <a href="/Home/proformaUGC">
+                            Proforma For Submission of information by State Private</br>
+                            Universities for ascertaining their norms and Standards
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            UGC Application Proforma
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Faculty <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Science & Technology</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/2">Faculty of Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/12">Faculty of Computer Science & Application</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/14">Faculty of Agriculture</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Medical & Health Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/Course/FacultyPharmacy">Faculty of Pharmacy</a>
+                        <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                            <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                            <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/Course-details/29">Faculty of Paramedical</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/26">Faculty of Nursing</a>
+                    </li>
+                    <li>
+                         <a href="#">Faculty of Ayurveda</a>
+                         <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                             <li><a href="/department/ayurveda">Department of Ayurveda</a></li>
+                             <li><a href="https://skuayurvedic.com/">Shri Krishna Ayurvedic Hospital</a></li>
+                         </ul>
+                        
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Arts, Humanities & Social Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/education">Department of Education</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/15">Faculty of Humanities & Social Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/7">Faculty of Journalism and Mass Communication</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/22">Faculty of Music, Dance, Fine Arts & Film and Theater</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/18">Faculty of Fashion and Animation</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/20">Faculty of Vocational Studies</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Business, Law & Management</span>
+                    </li>
+                    <li>
+                        <a href="/Course-details/8">Faculty of Management</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/5">Faculty of Commerce</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/law">Faculty of Law</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/disaster-management">Faculty of Disaster Management</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Academics <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/academic-menu-intro.webp" />
+                <p class="intro">Stay informed with the Academic Calendar, explore quality initiatives by the Internal Quality Assurance Cell, and discover academic collaborations. Access a rich collection of resources in the Library, experience innovative pedagogy, and review exam regulations for a smooth academic journey.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/academic-calander">Academic Calendar</a>
+                    </li>
+                    <li>
+                        <a href="/internal-quality-assurance-cell">Internal Quality Assurance Cell</a>
+                    </li>
+                    <li>
+                        <a href="/collaboration">Academic Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/teaching-staff-details">Teaching Staff</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/pedagogy">Pedagogy</a>
+                    </li>
+                    <li>
+                        <a href="/exam-guidelines">Exam Guidelines & Regulation</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Admissions <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/admission-menu-intro.webp" />
+                <p class="intro">Learn how to apply and start your SKU journey. Explore certificate, diploma, undergraduate, postgraduate, and Ph.D. programs. Get details on the admission process, prospectus, fees refund policy, scholarships, and apply online effortlessly.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Academic Programs</span>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/1">Undergradute Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/2">Postgraduate Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <a href="/Search-Course-Syllabus">Scheme / Syllabus</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Guidelines</span>
+                    </li>
+                    <li>
+                        <a href="">Admission Process & Guidelines</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/Content/web/prospectus/shri-krishna-university-prospectus-2025-26.pdf">Prospectus</a>
+                    </li>
+                    <li>
+                        <a href="/fees-refund-policy">Fees Refund Policy</a>
+                    </li>
+                    <li>
+                        <a href="">Scholorship</a>
+                    </li>
+                    <li>
+                        <a href="">Online Application & Enquiry</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">R&D/Research<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/research-menu-intro.webp" />
+                <p class="intro">Explore the Research & Development Cell, engage in consultancy projects, and discover patents and research papers. Learn about books, foreign and industry collaborations, and the Incubation Center fostering start-ups and entrepreneurship. Access central facilities for innovation and growth.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/research-and-development-cell">Research & Development Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Research & Consultancy Projects</a>
+                    </li>
+                    <li>
+                        <a href="/research-patent">Patents</a>
+                    </li>
+                    <li>
+                        <a href="/research-papers">Research Papers</a>
+                    </li>
+                    <li>
+                        <a href="/books-and-book-chapters">Books & Book Chapters</a>
+                    </li>
+                    <li>
+                        <a href="#">Foreign Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="#">Industry Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/university-Incubation-Innovation-startup-center">Incubation Center/ Start-ups/ Entrepreneurship Cell</a>
+                    </li>
+                    <li>
+                        <a href="/university-central-facilities">Central Facilities</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+
+    <li class="li-nav-title li__sudent__zone">
+        <a href="#">Life@SKU<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro" style="width:35%;">
+                <img class="navigation__intro__img" src="/Content/web/navigation/campus-.webp" />
+                <p class="intro">Explore student support services including the Grievance Redressal Committee, Ombudsperson, and Anti-Ragging Cell. Access campus highlights, sports, health, and lab facilities. Discover NCC/NSS activities, placement support, and amenities for differently-abled individuals, ensuring a safe and inclusive environment.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Rights & Safety</span>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Student-Grievance-Redressal-Committee-Feb-2026.pdf">Student Grievance Redressal Committee</a>
+                    </li>
+                    <li>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd5YfrlIPE8YsTqJUIg6p0GrzIU1JgEnypjtk7Z2LsFQA_Mw/viewform">Student Grievance Form</a>
+                    </li>
+                    <li>
+                        <a href="/ombudsperson">Ombudsperson</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Anti-Ragging-Committee-Feb-2026.pdf">Anti-Ragging Cell</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Internal-Complaints-Committee-ICC-Feb-2026.pdf">Internal Complaint Committee (Students)</a>
+                    </li>
+                    <li>
+                        <a href="/equal-opportunity-cell">Equal Opportunity Cell/ Socio-Economically Disadvantaged Groups Cells (SEDG)</a>
+                    </li>
+                    <li>
+                        <a href="https://samadhaan.ugc.ac.in/" target="_blank">UGC e-Samadhan Portal</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Campus Life</span>
+                    </li>
+                    <li>
+                        <a href="/Sports-Facility">Sports Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/university-health-facilities">Health Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/Internet">Computer Lab</a>
+                    </li>
+                    <li>
+                        <a href="/Innovation-Labs">Innovation Labs</a>
+                    </li>
+                    <li>
+                        <a href="/Laboratories">Laboratories</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/Transport">Transport</a>
+                    </li>
+                    <li>
+                        <a href="/facility-for-differently-abled">Facility for Differently Abled</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Safety</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Support & Activities</span>
+                    </li>
+                    <li>
+                        <a href="/ncc-nss">NCC/NSS Details</a>
+                    </li>
+                    <li>
+                        <a href="/training-and-placements">Placement Cell & its Activities</a>
+                    </li>
+                    <li>
+                        <a href="/counselling-well-being-cell">SKU Counselling & Well-being Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Highlights</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Information Corner<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/information-menu-intro.webp" />
+                <p class="intro">Stay updated with circulars, announcements, and newsletters. Explore recent events, achievements, and international student facilities. Browse print and online media coverage, and view highlights in the video gallery.</p>
+            </li>
+            <li class="nav-links" style="width: 35%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Announcements & Events</span>
+                    </li>
+                    <li>
+                        <a href="#">Circular & Notices</a>
+                    </li>
+                    <li>
+                        <a href="#">Announcements</a>
+                    </li>
+                    <li>
+                        <a href="#">Newsletters</a>
+                    </li>
+                    <li>
+                        <a href="#">News, Recent Events & Achievements</a>
+                    </li>
+                    <li>
+                        <a href="#">Study in India & SKU</a>
+                    </li>
+                    <li>
+                        <a href="#">Admission procedure and facilities provided to International Students</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Media</span>
+                    </li>
+                    <li>
+                        <a href="/media-gallery">Print Media</a>
+                    </li>
+                    <li>
+                        <a href="#">Online Media</a>
+                    </li>
+                    <li>
+                        <a href="/event-gallery">Event Gallery</a>
+                    </li>
+                    <li>
+                        <a href="/video-gallery">Video Gallery</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Career</span>
+                    </li>
+                    <li>
+                        <a href="/Apply-Job">Apply Online</a>
+                    </li>
+                    <li>
+                        <a href="/carrier">Current Openings</a>
+                    </li>
+                </ul>
+            </li>
+
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Placement <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/placement-menu-intro.webp" />
+                <p class="intro">Enhance your skills with training programs and explore career opportunities through our dedicated placement cell.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/training-and-placements">Training & Placements</a>
+                    </li>
+                   
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title">
+        <a href="/">NIRF</a>
+    </li>
+</ul>
+
+                    </nav>
+                </div>
+            </div>
+
+
+
+
+
+            
+
+            <div class="row mobile-head bg__light__yellow " style="text-align:left;">
+                <div class="col-xs-11 padR0 hidden-lg hidden-md hidden-sm">
+                    <a href="tel:18002003007" class="mobile__admission__head">Admission Helpline +91 6262 180 303/909</a>
+                </div>
+                <div class="col-xs-1 padR0 hidden-lg hidden-md hidden-sm">
+                    <div id="mobile-links">
+                        <a class="mobile-link mobile-nav-link" href="#mobile-nav">
+                            <span class="hide-label">Menu</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-12 hidden-lg hidden-md hidden-sm" style="border-top: 1px solid #e2e2e2;">
+                    <a href="http://library.skuindia.com" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-library' aria-hidden="true"></i>
+                        Library
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        Public Self Disclosure
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+
+                    <a href="#" class="mobile__menu__title__top__link unique-e-journal-link animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i> &nbsp;E Journal
+                    </a>
+                    <ul class="unique-e-journal-submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+
+                    <script>
+                        document.querySelector('.unique-e-journal-link').addEventListener('click', function (e) {
+                            e.preventDefault();
+                            document.querySelector('.unique-e-journal-submenu').classList.toggle('active');
+                        });
+                    </script>
+                </div>
+            </div>
+            <nav id="mobile-nav">
+<ul>
+    <li>
+        <a href="http://www.skuindia.ac.in">Home</a>
+    </li>
+    <li>
+        <a href="#">About</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            <li class="sku-menu-sub-title">
+                <span>The University</span>
+            </li>
+            <li>
+                <a href="">About University</a>
+            </li>
+            <li>
+                <a href="">Administration</a>
+            </li>
+            <li>
+                <a href="">Institutional Development Plan</a>
+            </li>
+            <li>
+                <a href="">Annual Reports</a>
+            </li>
+            <li>
+                <a href="">Annual Accounts</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Welcome Note</span>
+            </li>
+            <li>
+                <a href="">Chancellor Message</a>
+            </li>
+            <li>
+                <a href="">Chairman Message</a>
+            </li>
+            <li>
+                <a href="">Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Pro Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Important Message</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Councils</span>
+            </li>
+            <li>
+                <a href="">Governing Body</a>
+            </li>
+
+            <li>
+                <a href="">Board of Management</a>
+            </li>
+
+            <li>
+                <a href="">Academic Council</a>
+            </li>
+
+            <li>
+                <a href="">Finance Committee</a>
+            </li>
+
+            <li>
+                <a href="">Internal Complaint Committee (Staff)</a>
+            </li>
+
+            <li>
+                <a href="">Board of Studies</a>
+            </li>
+
+            <li>
+                <a href="">Academic Leadership</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Regulatory & Compliance</span>
+            </li>
+            <li>
+                <a href="#">Act & Statutes</a>
+            </li>
+            <li>
+                <a href="">Approvals & Recognitions</a>
+            </li>
+            <li>
+                <a href="">Ordinance</a>
+            </li>
+            <li>
+                <a href="">Accreditation & Ranking</a>
+            </li>           
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Faculty</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            
+        <li>
+            <a href="/faculty/education">Department of Education</a>
+        </li>
+            <li>
+                <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+            </li>
+        <li>
+            <a href="/Course/FacultyPharmacy">Faculty of Pharmacy </a>
+            <ul class="mobile__sub__ul_li_ul">
+                <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+            </ul>
+        </li>
+            
+        </ul>
+    </li>
+    <li>
+        <a href="#">Admissions</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Admissions Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="Course-admission/4">Certificate Course</a>
+            </li>
+            <li>
+                <a href="Course-admission/3">Diploma Admissions</a>
+            </li>
+            <li>
+                <a href="Course-admission/1">Undergradute Admission</a>
+            </li>
+            <li>
+                <a href="Course-admission/2">Postgraduate Admission</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">M.Phil. / Ph.D.</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scholarship</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Fees Structure</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scheme / Syllabus</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Campus Life</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Campus Life Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="#">Campus Events</a>
+            </li>
+            <li>
+                <a href="#">Visiting Campus</a>
+            </li>
+            <li>
+                <a href="#">Campus Highlights</a>
+            </li>
+            <li>
+                <a href="#">Campus Safety</a>
+            </li>
+            <li class="sku-menu-sub-title">
+                <span>Gallery</span>
+            </li>
+            <li>
+                <a href="/home/event-gallery">Picture Gallery</a>
+            </li>
+            <li>
+                <a href="/home/video-gallery">Video Gallery</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Research</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Research Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a target="_blank" href="http://library.skuindia.ac.in">Libraries</a>
+            </li>
+            <li>
+                <a href="#">Innovation &amp; Entrepreneurship</a>
+            </li>
+            <li>
+                <a href="#">Research News</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Infrastructure</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Infrastructure Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+    <li><a href="Infrastructure/3">Library </a></li>
+    <li><a href="Infrastructure/4">Laboratories </a></li>
+    <li><a href="Infrastructure/5">Hostel </a></li>
+    <li><a href="Infrastructure/6">Sports facility </a></li>
+    <li><a href="Infrastructure/7">Transport </a></li>
+    <li><a href="Infrastructure/9">Internet </a></li>
+
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Career</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Career Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+
+                <a>
+
+                </a>
+                <a href="/carrier/Why-SKU">Why Sku</a>
+            </li>
+            <li>
+                <a href="/Apply-Job">Apply Online</a>
+            </li>
+            <li>
+                <a href="/Carrier">Current Openings</a>
+            </li>
+            <li>
+                <a href="#">Policies</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/contact-us">Contact Us</a>
+    </li>
+</ul>
+
+<div id="mobile-nav-bottom">
+    <ul id="mobile-nav-bottom-left">                      
+        <li>
+            <a href="#">Alumni</a>
+        </li>
+        <li>
+            <a href="#">Faculty &amp; Staff</a>
+        </li>
+    </ul>
+    <ul id="mobile-nav-bottom-right">
+        <li>
+            <a href="#">Webmail</a>
+        </li>
+        <li><a class="" href="/admin/Login/Login">Admin</a></li>
+        <li>
+            <a href="#">Libraries</a>
+        </li>
+        <li>
+            <a href="#">Academic&#160;Calendar</a>
+        </li>
+    </ul>
+</div>
+            </nav>
+            <div class="row mobile-head hidden-lg hidden-md hidden-sm" style="background-color: #e8e8e8; text-align: center; color: white !important; ">
+                <div class="col-xs-12"></div>
+            </div>
+            <div class="container-fluid hidden-lg hidden-md hidden-sm bg__light__yellow">
+                <div class="container" style="padding-right: 0px; padding-left: 0px;">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="#">
+                                <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+        </div>
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="conatiner-content" style="background: #f7f8fa !important;">
+        <div class="container-fluid" id="TitleBreadcum">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <style>
+                        </style>
+                        <nav aria-label="Breadcrumb" class="breadcrumb">
+                            <ol>
+                                <li>
+                                    <a href="#"><i class='bx bx-home-circle'></i></a>
+                                </li>
+                                
+    <li>
+        <a href="#">Academics</a>
+    </li>
+    <li>
+        <a href="" aria-current="page">Exam Regulations & Guidelines</a>
+    </li>
+
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+<style>
+
+    .instruction-box {
+        border-radius: 12px;
+        background: #fff;
+        border-left: 5px solid #ce1609;
+        padding: 20px;
+        margin-bottom: 20px;
+        box-shadow: rgba(14, 63, 126, 0.04) 0px 0px 0px 1px, rgba(42, 51, 69, 0.04) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.04) 0px 6px 6px -3px, rgba(14, 63, 126, 0.04) 0px 12px 12px -6px, rgba(14, 63, 126, 0.04) 0px 24px 24px -12px;
+        transition: transform 0.2s;
+        overflow: hidden;
+    }
+
+    .main-heading {
+        color: #337ab7;
+        margin-bottom: 30px;
+    }
+
+    .section-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #23527c;
+        margin-top: 20px;
+    }
+
+    .list-indent {
+        margin-left: 20px;
+    }
+</style>
+
+<header class="university__aboutus">
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-heading">Exam Regulations & Guidelines</div>
+            <div class="intro-lead-in">GENERAL INSTRUCTIONS FOR THE GUIDANCE OF THE CENTRE SUPERINTENDENT</div>
+        </div>
+    </div>
+</header>
+<div class="container-fluid padTB25">
+    <div class="container">
+
+        <div class="instruction-box">
+            <p><strong>1.</strong> All arrangements and recognition of online/offline examination centre of the conduct of entrance test and academic (year/semester) examination to be help by the university shall be made by the examination controller in accordance with such direction, which may be issued by the academic council of the university.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>2.</strong> Examination controller with the approval of the academic council can change the examination mode of year/semester.</p>
+            <div class="list-indent">
+                <p><strong>(i)</strong> The examination controller shall prepare and duly publish program for the conduct of examination specifying the date of each examination and the last dates by which application and fee for the examination shall be submitted by the intending examinees.</p>
+                <p><strong>(ii)</strong> The board of management shall in consultation with the head of the institution appoint superintendent and assistant superintendent, if any for the examination centre and shall issue instructions for their guidance as per ordinance.</p>
+            </div>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>3.</strong> The examination controller may on the recommendation of the centre superintendent appoint an alternative person to write-down answer to question at the examination on behalf of an examinee who is unable to write by himself/herself on account on severe short sightedness or sudden illness (must be supported by a certificate issued by a medical officer), provided that such an alternative person is possessing qualification at least one class lower than the examinee concerned.</p>
+            <p>Filling and submission of exam form will be mandatory. The student will be responsible for applying in the required format in order to give the test. A photocopy of the mark sheets from the previous semester final exams, along with any other required certificates and examination fees, should be submitted with the application. On the day, time, and at the location that the university may designate from time to time, the application must be sent in through the principal or dean of the concerned department.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>4.</strong> The Superintendent of the Examination shall be personally responsible for the safe custody of question papers and the answer books sent to him and shall render to the university office with complete account of used and unused question papers and answer books/sheets.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>5.</strong> The Superintendent shall supervise the work of invigilators working under him and shall conduct the examination strictly according to the instructions issued to him by the university.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>6.</strong> The Superintendent of the Examination shall, whenever necessary send a confidential report to the Examination Controller about the conduct of Examination, mentioning there in the performance of the invigilators and the general behavior of the examinees. He shall send a daily report on the proforma related to number of examinees attending each examination, absentees roll numbers and such other information relating to the examination, being held at the center as may be considered necessary, along with any other matter which he thinks fit to be brought to the notice of the university.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>7.</strong> The Centre Superintendent shall have the power to expel an examinee, from examination on subsequent days, on any of the following grounds:</p>
+            <div class="list-indent">
+                <p><strong>a:</strong> That the examinee creates a nuisance or serious disturbance at the Examination centre.</p>
+                <p><strong>b:</strong> That the examinee shows a seriously aggressive attitude towards an invigilator or a Member of the staff entrusted with the examination work.</p>
+                <p><strong>c:</strong> If necessary, the Superintendent of examination may get police assistance. Where a candidate is expelled from examination the Examination Controller should be informed immediately.</p>
+            </div>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>8.</strong> Unless otherwise directed, only teachers of university teaching department shall be appointed as invigilators by the Superintendent, provided that a teacher of the subject of the written examination at any session may not be an invigilator at such session of the examination.</p>
+        </div>
+
+
+        <div class="instruction-box">
+            <p><strong>9.</strong> It shall be the duty of the centre Superintendent to ensure that an examinee is the same person who had filled in the application for appearing at the examination. It shall be the duty of the Centre Superintendent to see that on each day on which a candidate appears in the examination his signature is obtained on the form and to make sure that it tallies with the one already on it.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>10.</strong> The printed copies of the question papers in sealed covers will be sent to the Centre Superintendent few days before the day fixed for examination (or if necessary on the same day of the examination concerned). The Superintendent of examination centre should observe carefully and satisfy himself / herself that the secrecy of question papers has not been jeopardized. In case of doubt, he/she shall make a report to the University immediately. The sealed packet of question papers shall be opened in the presence of at least two Invigilators and they shall sign and issue a certificate in the form prescribed about the intactness of the seals of question- papers.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>11.</strong> The examinees will enter the examination halls without books, papers, chits, bags. Electronic devices and unauthorized materials etc. are strictly forbidden in reference to any kind. Communication in any manner with each other during the examination is strictly prohibited. In order to enforce this, it will be necessary to procure the services of sufficient number of suitable persons to assist the Superintendent of Examination. Normally there may be two invigilators for every room consisting not less than 30 students. In bigger hall, accommodating large number of students, the general ratio of invigilators can be 20:1. An Assistant Superintendent may be appointed provided the number of candidates for examination is more than 300. In special circumstances prior approval of the University be obtained for increasing the number of invigilators/ Assistant Superintendents.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>12.</strong> Care should be taken in the seating arrangements of the examinees to prevent collusion. It can be so arranged, that examinees for one and the same examination should not be allowed to sit next to each other, and sufficient space should be left between the examinees so as to avoid any unfair practice.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>13.</strong> Examinees should be asked to write the correct name of examination, subject and paper with optional if any at which they are appearing. Special care should be taken to see that the examinees write their Roll Numbers both in Figures and in Words. Writing of Enrolment Number is also essential. The Roll Number, Enrolment Number, Registration Number written by the examinees must be checked by the Invigilators. He/she should put his/her initials on the cover page of the answer books against the Roll Number.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>14.</strong> The answer books to be used by the examinees at the centre will be sent separately. The Centre Superintendent will notice that these are of two kinds: "Main" having 24 Pages and "Supplementary" having 8 pages. He shall see that each examinee is provided with the main answer book at the commencement of the examination for all the papers. The examinees be instructed that they must not write their names or put their signature on any part of the answer-book.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>15.</strong> Superintendent of Examination shall instruct all invigilators to ensure biometric photo and aadhaar verification of examinees through university mobile application authorized exclusively for this purpose. Invigilators must also ensure that biometric attendance of examinees is properly recorded. He should make entry of serial number of answer books through same mobile application. Superintendent of examination should follow this practice in every examination.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>16.</strong> The Superintendent of examinations shall affix the seal of the Code Number of on the upper right side of the cover page of each answer-book. In addition to this as a measure of check against malpractice, secrecy mark of the University i.e. S.K.U. Seal shall be put by him/her on each day of examination at a separate place on the cover page to be decided by him. The secrecy mark should be affixed both on the main and supplementary answer-books. At the end of a particular examination specimen of S.K.U. seal marked at different places, date-wise, may please be forwarded to the Deputy Registrar (Confidential) in a confidential cover.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>17.</strong> It is desired that Centre Superintendent will please instruct all the students (i) not to put signature or Roll No. on the last page of the answer-books and (ii) not to write anything on reverse side of the cover page of the answer-books.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>18.</strong> Unless instructed otherwise, the answer must be written on both sides of the leaves. No paper of any kind from outside shall be inserted in the answer-books, except that supplied by the centre-superintendent and no portion of the answer-books supplied to the examinees be torn out or detached from it. In fact no such paper should be carried to the examination hall by the examinees. If an examinee wishes to cancel any part of answers, he may do so by drawing distinct lines across it. No answer should be written on the reverse side of the cover page.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>19.</strong> After finishing the main answer-book (of 24 pages), if any examinee, who is answering one and the same paper needs a supplementary answer-book (of 8 pages) may be supplied and both the "Main" and the "Supplementary" answer books should be stitched/tagged together as soon as the supplementary answer-book is issued. The invigilators shall keep a record of supplementary answer books issued to each candidate in the Daily Diary and the Superintendent shall forward the same to the University as soon as the examination is over.</p>
+            <p>The examinee will himself/herself write on the cover of the Main answer-books of the number the supplementary answer-books used by him/her in the paper concerned. The invigilators shall also check the entries made by the examinee and countersign the same. This is essential to avoid any possible mistake or omission. He/she shall put the date also with his/her signature. It is seen that this is not done generally but this should be followed strictly.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>20.</strong> All answer-books at the examination centre should be collected, checked and duly arranged according to roll numbers. It should be kept in a parcel duly sealed immediately after the examination. The parcel should be dispatched to the University Confidential Department on the day on which the paper is held.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>21.</strong> While forwarding the answer-books to the University the roll number of the answer-books may be mentioned in the forwarding letter. The total number of answer-books should tally with the total number of Roll Numbers in the forwarding letter. The roll numbers of the candidates absent in the paper and roll numbers of those candidates who were found using unfair means and other answer books being sent to the University may also be mentioned separately in the forwarding letter clearly, to avoid any confusion at a later stage.</p>
+        </div>
+
+
+        <div class="instruction-box">
+            <p><strong>22.</strong></p>
+            <div class="list-indent">
+                <p><strong>(a)</strong> The Memo, Forms and dockets showing Roll Numbers of the students present, absent and who have used unfair means be prepared and sent to the confidential department along with the copy of question paper with correction if any attached thereto.</p>
+                <p><strong>(b)</strong> The packet/bundle of answer-books for being sent to examiners should first be wrapped with brown paper and then it should be taped with sutli and seal be put on the joints. Thereafter the bundle be wrapped with cloth (and not in gunny bag or brown paper etc.) and should be properly sealed at all appropriate places. No answer-book be sent in envelopes.</p>
+                <p><strong>(c)</strong> No address of any kind be mentioned on packets/bundles except that in the corner the Code No. of the question paper, date of examination be given and the seal of the examination centre be put as follows:</p>
+                <p><strong>PAPER CODE NO: <br> DATE OF EXAM:</strong></p>
+            </div>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>23.</strong> It is necessary for superintendent to be connected by telephones so that the contact may be easy in all emergencies, this should also be taken to care that the telephones are attended during the examination session by some responsible official. The Registrar/ Dy, Registrar and Assistant Registrars (Conf./Exams) will be available at their office on phone numbers as noted below:</p>
+            <div class="list-indent">
+                <p><strong>OFFICE</strong></p>
+                <ul>
+                    <li>Registrar – <strong>6262180505</strong></li>
+                    <li>Examination Controller – <strong>6262618007</strong></li>
+                    <li>Dy. Registrar (Conf.) – <strong>6262618033</strong></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>24.</strong> No candidate shall be allowed to appear at the examination without possessing Admission Card. If any candidate enters the examination room without his/her admission card, he/she should be allowed to sit only after identification and on issuing him/her a duplicate admission card. When the examinations are in progress and when the admission card is lost by a candidate, a duplicate admission card can be issued by the centre Superintendent after proper identification of the candidate. The fee for Duplicate Admission card is fixed Rs…….. which should be charged from the student and sent to the University. His/her name and roll number can be verified from the Roll List. Witness of some other candidates who know him/her can also be recorded. Blank Duplicate Admission cards will be supplied to Centre Superintendent by the University. After the examinations are over the remaining blank admission cards along with the fees realized, may be returned to the Registrar, Shri Krishna University, Chhatarpur.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>25.</strong> The abstract application forms including Attendance Sheets of the candidates will be provided to the superintendent for obtaining their signatures in token of their attendance in each paper. The centre superintendent shall see that each examinee is identified properly from the photograph affixed on the admission card with his/her specimen signatures given on the abstract application forms and he/she shall procure signature of the candidates on each day of examination in the space provided for. These attendance sheets are also to be countersigned in the presence of the candidate either by Assistant Superintendent or by some other responsible person assisting the Centre Superintendent in conduct of examination. These abstract application forms, in which the attendance of examinees is recorded, should be returned to the Confidential Section of the University, positively as soon as the examinations are over.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>26.</strong> No examinee shall, after the question papers have been distributed, be allowed to return the answer books and finally leave the examination hall, before the expiry of at least one hour, nor shall an examinee be allowed entry to the examination hall after the expiry of half an hour after the start of the examination.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>27.</strong> After the expiry of the one hour, examinees desirous of leaving the examination hall temporarily shall be permitted to do so for a maximum period of five minutes. The absence shall be recorded and if the examinee fails to return within this time of 5 minutes, he/she shall not be permitted to enter the examination hall unless he/she gives some convincing explanation.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>28.</strong> The cases of those candidates found using unfair means during the examination (i.e. answer-books, report forms, unfair means material etc.) should not be kept in the bundle of answer-books of examination but they should be sent separately to the university and on the covers super scribed "<strong>UNFAIR MEANS CASES</strong>" in bold letters. The case of the use of unfair means at the examination as reported by the superintendent along with the report of the examiner shall be examined by a committee to be appointed by the vice chancellor every year.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>29.</strong> All cases of the Use of Unfair Means, Misconduct shall be dealt with by the Superintendent of examination as per provisions and procedure laid down in Ordinance No. 4 and 5. A register of all such cases be maintained in the form given below and a consolidated statement of the same be sent to the University confidential section immediately after the end of each examination. The forms of reporting the cases of use of unfair means will be sent to the Centre separately.</p>
+            <p class="text-center"><strong>LIST OF STUDENTS REPORTED TO HAVE ATTEMPTED USE OF UNFAIR MEANS</strong></p>
+            <p>
+                Centre........................................................... Examination.............................................................<br>
+                Branch....................................................... Year................................. Month...................................<br>
+            </p>
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Roll No.</th>
+                        <th>Enrol. No./Reg. No.</th>
+                        <th>Name of Candidate</th>
+                        <th>Subject/Paper</th>
+                        <th>Date of Paper</th>
+                        <th>Letter No./Date</th>
+                        <th>Remarks</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td colspan="7" class="text-center">[To be filled by Centre]</td></tr>
+                </tbody>
+            </table>
+            <p>While sending consolidated list of such cases to the University Confidential section lists should be prepared examination-wise separately.</p>
+        </div>
+
+        <div class="instruction-box">
+            <p><strong>30.</strong> Centre Superintendent will receive separate answer-books which should be given to these examinees who are caught using unfair means during examination. This answer-book is to be treated as a second answer-book for unfair means cases only.</p>
+        </div>
+
+
+        <div class="instruction-box">
+            <p><strong>31.</strong> Instructions for Unfair Means Report Form</p>
+            <div class="list-indent">
+                <p><strong>(i)</strong> The invigilators must record their report in clear words in <strong>Column III</strong>.</p>
+                <p><strong>(ii)</strong> The examinee's statement must be obtained with signature in the <strong>second answer-book</strong>.</p>
+                <p><strong>(iii)</strong> The Centre Superintendent must provide comments about each case in <strong>Column IV</strong>.</p>
+                <p><strong>(iv)</strong> Material seized from the examinee must have:</p>
+                <ul>
+                    <li>Signatures of the invigilators and centre superintendent</li>
+                    <li>Rubber seal of the centre number on the material</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="instruction-box">
+            <p>
+                <strong>32.</strong> As regards point (iv) of the above paragraph, it is observed in previous years that the examinees have written points concerning the subject/paper either on their palm or on some portion of their body or on the clothes, in such cases, only sending of such a report is not sufficient. The Centre superintendent and the invigilators should as far as possible reproduce the matter found written on the palm or body of the examinee or on any part of the clothes of the examinee verbatim on a separate sheet of paper on which the signature of the examinee be obtained. The invigilators concerned and the centre superintendent should also countersign that paper send along with the case
+                to the University confidential section.
+            </p>
+        </div>
+
+        <div class="instruction-box">
+            <p>
+                <strong>33.</strong> The University may appoint flying squad to see that the conduct of the examinations is strictly according to the rule and procedure laid down. The Centre superintendents are requested to render all the necessary help to them and access to every room where examinees are seated.
+            </p>
+            <p>
+                The flying squad  can discuss the arrangements with the centre superintendent and give their suggestions to him/her. They will make a report to the Registrar direct and can also give a copy of it to the centre superintendent on the spot if they like. In the event of the flying squad  pointing out such serious breach of rules or procedure, the Vice-Chancellor may take action immediately as he/she may deem fit.
+            </p>
+        </div>
+        <div class="instruction-box">
+            <p>
+                <strong>34.</strong> If any emergency not covered by these Rules or Ordinance No. 5 the Centre Superintendent shall act on his/her own responsibility and report the action taken by him/her for the information to the University confidential section / Registrar.
+            </p>
+        </div>
+
+    </div>
+</div>
+    </div>
+
+    <style>
+        .sku-footer {
+            background: url('/images/97430854-19cd-41a9-98b1-5fa49e2f2966.png') center center / cover no-repeat, #205194;
+            background-blend-mode: overlay;
+            color: #fff;
+            padding: 0px 0;
+        }
+
+            .sku-footer .footer-heading {
+                font-weight: bold;
+                margin-bottom: 10px;
+                font-size: 24px;
+            }
+
+            .sku-footer .footer-subtext {
+                font-size: 16px;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 25px;
+                font-weight: bold;
+                padding: 10px 25px;
+                border-radius: 8px !important;
+            }
+
+        @media (max-width: 767px) {
+            .sku-footer .text-left, .sku-footer .text-right {
+                text-align: center !important;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 20px;
+            }
+        }
+    </style>
+    <div class="container-fluid sku-footer text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 text-left">
+                    <h2 class="footer-heading">Shape Your Future at SKU University</h2>
+                    <p class="footer-subtext">Join a dynamic learning community focused on skills, growth, and innovation.</p>
+                </div>
+                <div class="col-sm-4 text-right">
+                    <a href="#" class="btn btn-default btn-lg footer-btn">Click Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid footer padTB20">
+        <div class="container">
+            <div class="footerlist">
+                <ul>
+                    <li>
+                        <h1>Media</h1>
+                        <a href="/event-gallery">Events</a>
+                        <a href="/Media-Gallery">Media Coverage</a>
+                    </li>
+                    <li>
+                        <h1>Programs</h1>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                        <a href="/Course-admission/1">Under Graduate</a>
+                        <a href="/Course-admission/2">Post Graduate</a>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <h1>Placements</h1>
+                        <a href="">Placement Cell</a>
+                        <a href="">Associated Recruiters</a>
+                        <a href="">Placement Record</a>
+                        <a href="">Recruiter Speak</a>
+                        <a href="">Placement Highlights</a>
+                    </li>
+                    <li>
+                        <h1>Admissions</h1>
+                        <a href="">Admission Procedure</a>
+                        <a href="">Scholarship</a>
+                        <a href="">Payment Procedure</a>
+                        <a href="">Admission Assistance</a>
+                        <a href="Registration/studentregistration">Admission Form</a>
+                    </li>
+                    <li>
+                        <h1>Other Links</h1>
+                        <a href="/event-gallery">Gallery</a>
+                        <a href="/carrier">Careers</a>
+                        <a href="/Enquiry">Quick Query</a>
+                        <a href="/contact-us">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mainrow">
+                <div style="height: 30px;"></div>
+            </div>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td width="165" class="block">
+                            <div itemscope="" itemtype="http://schema.org/Organization">
+                                <a itemprop="url" href="" title="Shri Krishna University">
+                                    <img itemprop="logo" style="width: 150px;" src="/Content/images/sku_universal_logo .png" class="marbtm10" alt="Shri Krishna University" title="Shri Krishna University">
+                                </a>
+                            </div>
+                        </td>
+                        <td width="3%" class="mobnnnnn">
+                            <div align="left">
+                                <img src="/Content/images/border.jpg">
+
+                            </div>
+                        </td>
+                        <td valign="top" class="block" style="padding-top: 0px; vertical-align: top;">
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td class="calbold" style="padding: 0px;">
+                                            <span itemprop="name">Shri Krishna University</span> <span class="mobns">-</span> <span class="moblk">Vidya Sarvasva Pujnam</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="5%" class="mobnnnnn">
+                                                            <div class="mapmarker"></div>
+                                                        </td>
+                                                        <td width="94%" valign="baseline" class="cam14">
+                                                            <a href="" target="_blank">N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="phoneicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">Landline No. - <a href="tel:+917682241716"><span class="lato">+</span>07682-241716</a>, <a href="tel:+918682248735">07682-248735</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="mailicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">
+                                                            <a href="mailto:info@skuindia.com">info@skuindia.com</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td valign="top" class="block">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Admission Enquiry.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 303/707</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Technical Support.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 909</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="cam14" style="font-weight: 600;">
+                                                            <a href="/Refund-and-Cancellation-policy">Refund and Cancellation policy</a> <span class="lato">/</span> <a href="/Privacy-Policy">Privacy Policy</a> <span class="lato">/</span> <a href="/Terms-Conditions">Terms &amp; Conditions </a><span class="lato">/</span> <a href="#">Disclaimer</a> <span class="lato">/</span> <a href="#">Site Map</a> <span class="lato">/</span> Helpline No. - <a href="tel:+6262180303">6262 180 303</a>, <a href="tel:+6262180909">6262 180 909</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="cam14">
+                                                            <span class="lato">©</span> 2022 Shri Krishna University. All rights reserved. </span>
+
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <div id="side-quick-links">
+        <ul>
+            <li class="call">
+                <div class="xContent">
+                    <a href="javascript:void(0)"><i class="fa fa-phone" aria-hidden="true"></i></a>
+                    <p><a href="tel:+91-6262-180-303">+91-6262-180-303/707</a></p>
+                </div>
+            </li>
+
+            <li class="marker">
+                <div class="xContent">
+                    <a href="javascript:void(0)">
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                    </a>
+                    <p>
+                        <a class="" href="https://www.facebook.com/skuindia/" target="_blank"><i class=" social fa fa-facebook"></i></a>
+                        <a class="" href="https://twitter.com/skuindia" target="_blank"><i class=" social fa fa-twitter"></i></a>
+                        <a class="" href="https://www.linkedin.com/company/skuindia/" target="_blank"><i class="social fa fa-linkedin"></i></a>
+                        <a class="" href="https://www.youtube.com/channel/UC2g8P5Ef7GFWacIaZ0OhEfg" target="_blank"><i class=" social fa fa-youtube-play"></i></a>
+                        <a class="" href="https://www.instagram.com/skuindia/" target="_blank"><i class=" social fa fa-instagram"></i></a>
+                    </p>
+                </div>
+            </li>
+
+            <li class="watsapp">
+                <div class="xContent">
+                    <a href="javascript:void(0)" rel="nofollow"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                    <h6>For Information</h6>
+                    <p><a href="https://wa.me/6262180909" target="_blank">+91-6262180909</a></p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="/Content/Assets/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="/Content/Assets/plugins/jquery.tickerNews.min.js"></script>
+
+    <script src="/Content/xcv/bootstrap-dropdownhover.js"></script>
+
+
+    <script async src="/Content/Assets/js/nusc.js"></script>
+
+
+    <link href="/Content/xcv/fotorama.css" rel="stylesheet" />
+    <script src="/Content/xcv/fotorama.js"></script>
+    <script src="/Content/xcv/jquery.vticker-min.js"></script>
+    
+    <script>
+        $('#InfoApplication').parsley();
+
+        function alignModal() {
+            var modalDialog = $(this).find(".modal-dialog");
+
+            // Applying the top margin on modal dialog to align it vertically center
+            modalDialog.css("margin-top", Math.max(0, ($(window).height() - modalDialog.height()) / 2));
+        }
+        // Align modal when it is displayed
+        $(".modal").on("shown.bs.modal", alignModal);
+
+        // Align modal when user resize the window
+        $(window).on("resize", function () {
+            $(".modal:visible").each(alignModal);
+        });
+        function toggle_popup() {
+            $("#myModal").modal("show")
+        }
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            _Ticker = $(".TickerNews").newsTicker();
+
+
+        });
+
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+
+    <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function () { myFunction() };
+
+        // Get the header
+        var header = document.getElementById("hybridHeader");
+
+        // Get the offset position of the navbar
+        var sticky = header.offsetTop;
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("hybridDesign");
+                header.classList.add("navbar-fixed-top");
+
+            } else {
+                header.classList.remove("navbar-fixed-top");
+                header.classList.remove("hybridDesign");
+            }
+        }
+    </script>
+    
+    
+
+
+    <script>
+        $(document).on('click',
+            '[data-toggle="lightbox"]',
+            function (event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+    </script>
+
+
+
+    
+    <script async>
+
+        $(document).ajaxStart(function () {
+            $(".loading").css("visibility", "visible");
+        });
+        $(document).ajaxComplete(function () {
+            $(".loading").css("visibility", "hidden");
+        });
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54764231-15"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-54764231-15');
+    </script>
+
+</body>
+</html>

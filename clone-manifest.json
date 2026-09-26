@@ -1,0 +1,57 @@
+﻿{
+    "source":  "https://www.skuindia.ac.in/",
+    "crawledAt":  "2026-09-02T16:43:15.6544846Z",
+    "pagesDiscovered":  116,
+    "pagesCloned":  113,
+    "assetsDownloaded":  335,
+    "imagesDownloaded":  122,
+    "documentsDownloaded":  45,
+    "videosDownloaded":  0,
+    "externalLinks":  [
+                          "https://www.youtube.com/watch?v=_aRud8Aty3s",
+                          "https://fonts.googleapis.com/"
+                      ],
+    "failedResources":  [
+                            {
+                                "url":  "/Content/web/acts-statutes/shri-krishna-university-act.pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\acts-statutes\\shri-krishna-university-act.pdf https://www.skuindia.ac.in/Content/web/acts-statutes/shri-krishna-university-act.pdf\ncurl: (22) The requested URL returned error: 404\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/acts-statutes/shri-krishna-university-statutes.pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\acts-statutes\\shri-krishna-university-statutes.pdf https://www.skuindia.ac.in/Content/web/acts-statutes/shri-krishna-university-statutes.pdf\ncurl: (22) The requested URL returned error: 404\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/promotional-banner/appy__job.jpg",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\promotional-banner\\appy__job.jpg https://www.skuindia.ac.in/Content/web/promotional-banner/appy__job.jpg\ncurl: (22) The requested URL returned error: 404\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/collaborations/Vikram University",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\collaborations\\Vikram University https://www.skuindia.ac.in/Content/web/collaborations/Vikram%20University\ncurl: (22) The requested URL returned error: 404\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/annual-report/shri-krishna-university-annual-report-2022-23.pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\annual-report\\shri-krishna-university-annual-report-2022-23.pdf https://www.skuindia.ac.in/Content/web/annual-report/shri-krishna-university-annual-report-2022-23.pdf\ncurl: (28) Operation timed out after 15007 milliseconds with 10551296 out of 214761452 bytes received\r\n"
+                            },
+                            {
+                                "url":  "/Content/Upload/Timetable/",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\Upload\\Timetable\\ https://www.skuindia.ac.in/Content/Upload/Timetable/\ncurl: (22) The requested URL returned error: 403\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/annual-report/shri-krishna-university-annual-report-2021-22.pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\annual-report\\shri-krishna-university-annual-report-2021-22.pdf https://www.skuindia.ac.in/Content/web/annual-report/shri-krishna-university-annual-report-2021-22.pdf\ncurl: (28) Operation timed out after 15000 milliseconds with 5128192 out of 74217706 bytes received\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/ordinance/Second Ordinance (1).pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\ordinance\\Second Ordinance (1).pdf https://www.skuindia.ac.in/Content/web/ordinance/Second%20Ordinance%20(1).pdf\ncurl: (22) The requested URL returned error: 404\r\n"
+                            },
+                            {
+                                "url":  "/Content/web/collaborations/Khajuraho Agro and Fine Arts Infotainment Private Limited.pdf",
+                                "error":  "Command failed: curl.exe -L --fail --silent --show-error --max-time 15 --connect-timeout 5 -A SKU-local-clone/1.0 -o C:\\Users\\safet\\OneDrive\\Desktop\\SKU\\mirror-full\\static\\Content\\web\\collaborations\\Khajuraho Agro and Fine Arts Infotainment Private Limited.pdf https://www.skuindia.ac.in/Content/web/collaborations/Khajuraho%20Agro%20and%20Fine%20Arts%20Infotainment%20Private%20Limited.pdf\ncurl: (28) Operation timed out after 15000 milliseconds with 3571712 out of 3790485 bytes received\r\n"
+                            }
+                        ],
+    "skippedRestrictedResources":  [
+                                       "/admin/*",
+                                       "authenticated and third-party resources",
+                                       "3 slow/unavailable endpoints recorded during crawl"
+                                   ]
+}

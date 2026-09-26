@@ -1,0 +1,3611 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <title>Form | Shri Krishna University</title>
+    <meta name="description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education.">
+    <meta name="keywords" content="sku india, Best University MP, SKU, SKUINDIA, Shri Krishna University, Best Leading University Chhatarpur, Best University Chhatarpur, Best college MP, Best Hi-Tech University In Bundelkhand, Hi-Tech University In Chhatarpur, Hi-Tech College In Chhatarpur, Hi-Tech College In MP, Hi-Tech College In Madhya Pradesh, Best University India, Leading University India, Best Private University, Chhatarpur, Madhya Pradesh, Sagar, Damoh, Panna, Tikamgarh, Jhansi, Khajuraho, Best High-Tech University, Best Law College, Best Nursing College, Best Architecture College, Best Pharmacy College, Global University, UGC Approved University, Top Rated University Madhya Pradesh, Best MBA University, Best Engineering University, shri krishna, ">
+
+    <meta property="og:title" content="Form | Shri Krishna University" />
+    <meta property="og:description" content="Shri Krishna University, one of the leading and Hi-Tech Universities in Madhya Pradesh for providing Best Quality Education." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Shri Krishna University" />
+    <meta property="og:url" content="https://www.skuindia.ac.in/Registration/studentregistration" />
+    <link rel="canonical" href="https://www.skuindia.ac.in/Registration/studentregistration" />
+    <link rel="shortcut icon" type="image/png" href="/Content/images/sku_logo.png" />
+
+    <!-- Additional course-related keywords for SEO -->
+    <meta name="Course_keywords" content="MBA, Engineering, Science, Computer Science, Arts, Architecture, LAW, Mass Communication, Nursing, Pharmacy, Paramedical courses." />
+
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="FLDn8XvtIcI/GsRYkFdZ+g" async></script>
+    
+
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,800&display=swap" rel="stylesheet">
+
+    <!-- icons -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">    
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="/Content/Assets/css/nwuni.css" />
+    <link rel="stylesheet" href="/Content/Assets/css/bootstrap.min.css" />
+
+
+    
+    
+    
+    
+    
+    
+
+    <!-- slider -->
+    <script src="/Content/xcv/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/Content/Assets/plugins/Slider/slippry.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/plugins/Slider/slippry.css">
+
+    <!-- parsley -->
+    <link href="/Content/Assets/css/parsley.css" rel="stylesheet" />
+    <script src="/Content/Assets/js/parsley.js"></script>
+
+    <!-- lightbox -->
+    <link href="/Content/xcv/ekko-lightbox.css" rel="stylesheet" />
+    <script src="/Content/xcv/ekko-lightbox.js"></script>
+
+    <!-- custom-css -->
+
+    <link rel="stylesheet" type="text/css" href="/Content/Assets/css/sku.css">
+    <link href="/Content/Assets/css/sku_custom.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/footer.css" rel="stylesheet" />
+    <link href="/Content/Assets/css/skuCustom2020.css" rel="stylesheet" />
+    <link href="/Content/web/css/web-view-custom.css" rel="stylesheet" />
+
+    <!-- custom-css-mobile -->
+    <link rel="stylesheet" type="text/css" href="/Content/masterCss/dotmobile-small.css" />
+
+    <!-- loader style -->
+    <link href="/Content/admin/css/zloder.css" rel="stylesheet" />
+
+
+    
+
+    <style>
+        /* Global Styles */
+        .social {
+            padding: 0 10px;
+            border-radius: 50px;
+        }
+
+        #divProcessing {
+            /* No styles defined */
+        }
+
+        .loading {
+            position: fixed;
+            z-index: 999;
+            height: 2em;
+            width: 2em;
+            overflow: show;
+            margin: auto;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            visibility: hidden;
+        }
+
+            .loading:before {
+                content: '';
+                display: block;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+                background: -webkit-radial-gradient(rgba(20, 20, 20, .8), rgba(0, 0, 0, .8));
+            }
+
+            .loading:not(:required) {
+                font: 0/0 a;
+                color: transparent;
+                text-shadow: none;
+                background-color: transparent;
+                border: 0;
+            }
+
+                .loading:not(:required):after {
+                    content: '';
+                    display: block;
+                    font-size: 10px;
+                    width: 1em;
+                    height: 1em;
+                    margin-top: -0.5em;
+                    animation: spinner 1500ms infinite linear;
+                    border-radius: 0.5em;
+                    box-shadow: rgba(255, 255, 255, 0.75) 1.5em 0 0 0, rgba(255, 255, 255, 0.75) 1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) 0 1.5em 0 0, rgba(255, 255, 255, 0.75) -1.1em 1.1em 0 0, rgba(255, 255, 255, 0.75) -1.5em 0 0 0, rgba(255, 255, 255, 0.75) -1.1em -1.1em 0 0, rgba(255, 255, 255, 0.75) 0 -1.5em 0 0, rgba(255, 255, 255, 0.75) 1.1em -1.1em 0 0;
+                }
+
+        /* Animation */
+        @keyframes spinner {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Social Icon Styles */
+        .socialIcon {
+            padding: 10px 51px;
+            font-size: 48px;
+        }
+
+        /* Filter Block Styles */
+        .xFilterBlock {
+            background-color: #efeded;
+            padding: 10px;
+            margin: 0 0 20px;
+        }
+
+        /* Horizontal Rule Styles */
+        hr.style13 {
+            height: 10px;
+            border: 0;
+            box-shadow: 0 10px 10px -10px #8c8b8b inset;
+        }
+
+        hr.styleX1 {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, #f0f0f0, #8c8b8b, #f0f0f0);
+        }
+
+        hr.style15 {
+            border-top: 4px double #8c8b8b;
+            text-align: center;
+        }
+
+            hr.style15:after {
+                content: '\002665';
+                display: inline-block;
+                position: relative;
+                top: -15px;
+                padding: 0 10px;
+                background: #f0f0f0;
+                color: #8c8b8b;
+                font-size: 18px;
+            }
+
+        /* Content Block Styles */
+        .content-xc {
+            padding: 15px;
+            background-color: #f8f8f8;
+        }
+
+        /* Ribbon Styles */
+        .ribbon {
+            background: #e22692;
+            height: 87px;
+            margin: 0 auto;
+            position: absolute;
+            width: 74px;
+            right: 20px;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 87px;
+            font-size: 35px;
+            color: #f2f2f2;
+        }
+
+            .ribbon:after,
+            .ribbon:before {
+                content: '';
+                position: absolute;
+                border-top: 20px solid #e22692;
+                height: 0;
+                width: 0;
+                top: 100%;
+            }
+
+            .ribbon:after {
+                border-left: 50px solid transparent;
+                right: 0;
+            }
+
+            .ribbon:before {
+                border-right: 50px solid transparent;
+                left: 0;
+            }
+
+        /* Box Styles */
+        #box {
+            width: 250px;
+            height: 250px;
+            background: #f8f8f8;
+            position: relative;
+            color: #666;
+            font-size: 18px;
+            border: 1px solid #333;
+        }
+
+        /* Navigation Title Styles */
+        .li-nav-title {
+            border-right: 1px solid #dedede !important;
+        }
+
+        /* Heading Styles */
+        .style__3 h1 {
+            font-size: 28px;
+            font-weight: 500;
+            letter-spacing: 0;
+            line-height: 1.5em;
+            padding-bottom: 15px;
+            position: relative;
+        }
+
+            .style__3 h1:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                height: 5px;
+                width: 55px;
+                background-color: #111;
+            }
+
+            .style__3 h1:after {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 2px;
+                height: 1px;
+                width: 95%;
+                max-width: 255px;
+                background-color: #333;
+            }
+
+        .style__6 h2 {
+            text-align: center;
+            color: #222;
+            font-size: 30px;
+            font-weight: 400;
+            text-transform: uppercase;
+            word-spacing: 1px;
+            letter-spacing: 2px;
+            color: #c50000;
+        }
+
+            .style__6 h2 span {
+                line-height: 2em;
+                padding-bottom: 15px;
+                text-transform: none;
+                font-size: .7em;
+                font-weight: normal;
+                font-style: italic;
+                font-family: "Playfair Display","Bookman",serif;
+                color: #999;
+                letter-spacing: -0.005em;
+                word-spacing: 1px;
+                letter-spacing: none;
+            }
+
+            .style__6 h2:after, .style__6 h2:before {
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 45px;
+                height: 4px;
+                content: "";
+                right: 45px;
+                margin: auto;
+                background-color: #ccc;
+            }
+
+            .style__6 h2:before {
+                background-color: #d78b8b;
+                left: 45px;
+                width: 90px;
+            }
+
+        .style__7 h2 {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 300;
+            color: #222;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            display: grid;
+            grid-template-columns: 1fr max-content 1fr;
+            grid-template-rows: 27px 0;
+            grid-gap: 20px;
+            align-items: center;
+        }
+
+            .style__7 h2:after, .style__7 h2:before {
+                content: " ";
+                display: block;
+                border-bottom: 1px solid #c50000;
+                border-top: 1px solid #c50000;
+                height: 5px;
+                background-color: #f8f8f8;
+            }
+
+        .style__10 h2 {
+            font-size: 18px;
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+
+            .style__10 h2:before {
+                background-color: #c50000;
+                border-radius: 0.25rem;
+                content: '';
+                display: block;
+                height: 0.25rem;
+                width: 42px;
+                margin-bottom: 1.25rem;
+            }
+
+        /* Top Bar Styles */
+        #top-bar {
+            font-weight: 800;
+            position: inherit;
+            left: 0;
+            top: 0;
+            z-index: 2000;
+            background: #f7f7f7;
+            width: 100%;
+            text-align: center;
+            height: 40px;
+            overflow: visible !important;
+            border-bottom: 1px solid #dedede;
+            background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+        }
+
+            #top-bar #right .e-journal-menu {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter {
+                    display: inline-block !important;
+                    padding: 8px !important;
+                    background-color: white !important;
+                    color: inherit !important;
+                    text-decoration: none !important;
+                    font-size: 10px !important;
+                }
+
+                /* Base Styles */
+                #top-bar #right .e-journal-menu .submenu {
+                    display: none; /* Hide submenu initially */
+                    position: absolute;
+                    top: 100%;
+                    right: 10px;
+                    background-color: white;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                    padding: 10px;
+                    min-width: 200px;
+                    z-index: 1000;
+                    text-align: left;
+                }
+
+                #top-bar #right .e-journal-menu > a.animate-charcter:hover .submenu {
+                    display: block !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block !important;
+                    margin: 5px 0 !important;
+                    padding: 0 !important;
+                    list-style-type: none !important;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block !important;
+                    padding: 5px !important;
+                    color: #333 !important;
+                    text-decoration: none !important;
+                    white-space: nowrap !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4 !important;
+                        color: white !important;
+                    }
+
+            #top-bar #right {
+                position: relative !important;
+            }
+
+                #top-bar #right .e-journal-menu,
+                #top-bar #right .e-journal-menu > a,
+                #top-bar #right .e-journal-menu .submenu,
+                #top-bar #right .e-journal-menu .submenu li,
+                #top-bar #right .e-journal-menu .submenu a {
+                    margin: 0 !important;
+                    border: none !important;
+                    font-size: inherit !important;
+                    font-weight: normal !important;
+                    line-height: normal !important;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu {
+                        opacity: 0;
+                        visibility: hidden;
+                        transition: opacity 0.2s, visibility 0.2s;
+                    }
+
+                    #top-bar #right .e-journal-menu:hover .submenu {
+                        opacity: 1 !important;
+                        visibility: visible !important;
+                    }
+
+
+
+
+
+        /* Desktop View: Show submenu on hover */
+        @media (min-width: 769px) {
+            #top-bar #right .e-journal-menu:hover .submenu {
+                display: block;
+            }
+        }
+
+        /* Mobile View: Ensure submenu only shows when toggled */
+        @media (max-width: 768px) {
+            #top-bar #right .e-journal-menu .submenu {
+                position: static;
+                box-shadow: none;
+                background-color: transparent;
+                padding: 0;
+            }
+
+                #top-bar #right .e-journal-menu .submenu li {
+                    display: block;
+                    margin: 5px 0;
+                }
+
+                #top-bar #right .e-journal-menu .submenu a {
+                    display: block;
+                    padding: 5px;
+                    color: #333;
+                    text-decoration: none;
+                    white-space: nowrap;
+                }
+
+                    #top-bar #right .e-journal-menu .submenu a:hover {
+                        background-color: #054bb4;
+                        color: white;
+                    }
+        }
+    </style>
+    <style>
+        .blink {
+            animation: blinker 1s linear infinite;
+            background: red !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .blink-Yellow {
+            animation: blinker 1s linear infinite;
+            background: #5a0303 !important;
+            color: white;
+            width: 100px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+
+
+        .blink-blue {
+    animation: blinkBlue 1s infinite;
+}
+
+@keyframes blinkBlue {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+    </style>
+</head>
+<body>
+    <div id="divProcessing" class="loading"></div>
+
+    <div id="top-bar" class="strip">
+        <div class="contain-1120 group">
+
+
+
+            <ul id="left">
+                
+                <li class="header-sub-title-eng hidden-xs">(Approved By Government of Madhya Pradesh & UGC)</li>
+            </ul>
+            <ul id="right">
+                <li><a class="" href="/admin/Login/Login">Login</a></li>
+                <li>
+                    <a href="http://library.skuindia.com">Library</a>
+                </li>
+                <li style="padding: 8px;" class="blink-blue">
+                    <a href="https://sku.clickeffect.in/" target="_blank"
+                       style="background: linear-gradient(45deg, #007bff, #00c6ff);
+                              color: #fff;
+                              padding: 5px 18px;
+                              border-radius: 25px;
+                              text-decoration: none;
+                              font-weight: bold;
+                              display: inline-block;
+                              box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+                              transition: 0.3s;">
+                        🎥 360° Virtual Tour
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink-Yellow">
+                    <a href="/Home/proformaUGC" target="_blank" style="color: white;">
+                        UGC Proforma
+                    </a>
+                </li>
+                <li style="padding: 8px;" class="blink">
+                    <a href="http://skuindia.ac.in/content/upload/disclosure/ugc-sku-public-self-disclosure.pdf" target="_blank" style="color: white;">
+                        Public Self Disclosure
+                    </a>
+                </li>
+                <li style="padding: 8px;">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-wifi" aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+                </li>
+                <li class="e-journal-menu">
+                    <a href="#" class="animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i>
+                        &nbsp;E Journal
+                    </a>
+                    <ul class="submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            const ejournalMenu = document.querySelector('.e-journal-menu');
+            const submenu = ejournalMenu.querySelector('.submenu');
+            const ejournalLink = ejournalMenu.querySelector('a');
+
+            // Function to toggle submenu display
+            function toggleSubmenu() {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    submenu.style.display = submenu.style.display === 'block' ? 'none' : 'block';
+                } else {
+                    submenu.style.display = ''; // Reset display for desktop view
+                }
+            }
+
+            // Toggle submenu on click for mobile
+            ejournalLink.addEventListener('click', function (event) {
+                const isMobileView = window.innerWidth <= 768;
+
+                if (isMobileView) {
+                    event.preventDefault(); // Prevent the default anchor behavior
+                    toggleSubmenu();
+                }
+            });
+
+            // Hide submenu if clicked outside for mobile view
+            document.addEventListener('click', function (event) {
+                if (window.innerWidth <= 768 && !ejournalMenu.contains(event.target)) {
+                    submenu.style.display = 'none';
+                }
+            });
+
+            // Adjust submenu display on window resize
+            window.addEventListener('resize', function () {
+                submenu.style.display = ''; // Reset display on resize
+            });
+        });
+    </script>
+
+
+    <header id="nu" class="grayBg">
+        <div class="bottom-bar group">
+            <div class="container-fluid grayBg hidden-xs" style="padding-top: 0px; margin-top:-10px;">
+                <div class="col-md-5 col-xs-12 logo">
+                    <a href="/">
+                        <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-md-6 col-xs-12" style="padding-top: 10px;padding-left: 0;padding-bottom: 0px;text-align: left; float:right;">
+                    <div style="float:right;">
+                        <a href="https://www.skuindia.ac.in/Enquiry">
+                            <img style="border-radius: 12px;" src="https://www.skuindia.ac.in/Content/web/banner/shri-krishna-university-2026-admission-enquiry-now.webp" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid grayBg hidden-xs" id="hybridHeader"
+                 style="padding-left: 0px; padding-right: 0px;">
+                <div class="col-md-12"
+                     style="padding: 0px;">
+                    <nav aria-label="main navigation menu" id="top-nav">
+<ul>
+    
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">About <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>The University</span>
+                    </li>
+                    <li>
+                        <a href="/about-university">About University</a>
+                    </li>
+                    <li>
+                        <a href="/Administration">Administration</a>
+                    </li>
+                    <li>
+                        <a href="/institutional-development-plan">Institutional Development Plan</a>
+                    </li>
+                    <li>
+                        <a href="/annual-reports">Annual Reports</a>
+                    </li>
+                    <li>
+                        <a href="/annual-accounts">Annual Accounts</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Welcome Note</span>
+                    </li>
+                    <li>
+                        <a href="/chancellor-welcome-message">Chancellor Message</a>
+                    </li>
+                    <li>
+                        <a href="/chairman-welcome-message">Chairman Message</a>
+                    </li>
+                    <li>
+                        <a href="/vice-chancellor-welcome-message">Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/pro-vice-chancellor-welcome-message">Pro Vice chancellor's Message</a>
+                    </li>
+                    <li>
+                        <a href="/registrar">Registrar Message</a>
+                    </li>
+                    <li>
+                        <a href="/Important-message">Important Message</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Councils</span>
+                    </li>
+                    <li>
+                        <a href="/governing-body">Governing Body</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-management">Board of Management</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-council">Academic Council</a>
+                    </li>
+
+                    <li>
+                        <a href="/finance-committee">Finance Committee</a>
+                    </li>
+
+                    <li>
+                        <a href="/internal-complaint-committee">Internal Complaint Committee (Staff)</a>
+                    </li>
+
+                    <li>
+                        <a href="/board-of-studies">Board of Studies</a>
+                    </li>
+
+                    <li>
+                        <a href="/academic-leadership">Academic Leadership</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%">
+                <ul class="column">
+                    <li class="sku-menu-sub-title">
+                        <span>Regulatory & Compliance</span>
+                    </li>
+                    <li>
+                        <a href="/act-and-statutes">Act & Statutes</a>
+                    </li>
+                    <li>
+                        <a href="/approval-and-recognitions">Approvals & Recognitions</a>
+                    </li>
+                    <li>
+                        <a href="/ordinances">Ordinance</a>
+                    </li>
+                    <li>
+                        <a href="">Accreditation & Ranking</a>
+                    </li>
+                    <li>
+                        <a href="/Home/proformaUGC">
+                            Proforma For Submission of information by State Private</br>
+                            Universities for ascertaining their norms and Standards
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            UGC Application Proforma
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Faculty <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Science & Technology</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/2">Faculty of Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/12">Faculty of Computer Science & Application</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/14">Faculty of Agriculture</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Medical & Health Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/Course/FacultyPharmacy">Faculty of Pharmacy</a>
+                        <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                            <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                            <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/Course-details/29">Faculty of Paramedical</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/26">Faculty of Nursing</a>
+                    </li>
+                    <li>
+                         <a href="#">Faculty of Ayurveda</a>
+                         <ul style="padding-left: 10px; border-left: 1px solid #fff; padding-bottom: 0px;">
+                             <li><a href="/department/ayurveda">Department of Ayurveda</a></li>
+                             <li><a href="https://skuayurvedic.com/">Shri Krishna Ayurvedic Hospital</a></li>
+                         </ul>
+                        
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Arts, Humanities & Social Sciences</span>
+                    </li>
+                    <li>
+                        <a href="/faculty/education">Department of Education</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/15">Faculty of Humanities & Social Science</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/7">Faculty of Journalism and Mass Communication</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/22">Faculty of Music, Dance, Fine Arts & Film and Theater</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/18">Faculty of Fashion and Animation</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/20">Faculty of Vocational Studies</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Business, Law & Management</span>
+                    </li>
+                    <li>
+                        <a href="/Course-details/8">Faculty of Management</a>
+                    </li>
+                    <li>
+                        <a href="/Course-details/5">Faculty of Commerce</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/law">Faculty of Law</a>
+                    </li>
+                    <li>
+                        <a href="/faculty/disaster-management">Faculty of Disaster Management</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Academics <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/academic-menu-intro.webp" />
+                <p class="intro">Stay informed with the Academic Calendar, explore quality initiatives by the Internal Quality Assurance Cell, and discover academic collaborations. Access a rich collection of resources in the Library, experience innovative pedagogy, and review exam regulations for a smooth academic journey.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/academic-calander">Academic Calendar</a>
+                    </li>
+                    <li>
+                        <a href="/internal-quality-assurance-cell">Internal Quality Assurance Cell</a>
+                    </li>
+                    <li>
+                        <a href="/collaboration">Academic Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/teaching-staff-details">Teaching Staff</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/pedagogy">Pedagogy</a>
+                    </li>
+                    <li>
+                        <a href="/exam-guidelines">Exam Guidelines & Regulation</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Admissions <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/admission-menu-intro.webp" />
+                <p class="intro">Learn how to apply and start your SKU journey. Explore certificate, diploma, undergraduate, postgraduate, and Ph.D. programs. Get details on the admission process, prospectus, fees refund policy, scholarships, and apply online effortlessly.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Academic Programs</span>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/1">Undergradute Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/2">Postgraduate Admission</a>
+                    </li>
+                    <li>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <a href="/Search-Course-Syllabus">Scheme / Syllabus</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Guidelines</span>
+                    </li>
+                    <li>
+                        <a href="">Admission Process & Guidelines</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/Content/web/prospectus/shri-krishna-university-prospectus-2025-26.pdf">Prospectus</a>
+                    </li>
+                    <li>
+                        <a href="/fees-refund-policy">Fees Refund Policy</a>
+                    </li>
+                    <li>
+                        <a href="">Scholorship</a>
+                    </li>
+                    <li>
+                        <a href="">Online Application & Enquiry</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">R&D/Research<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/research-menu-intro.webp" />
+                <p class="intro">Explore the Research & Development Cell, engage in consultancy projects, and discover patents and research papers. Learn about books, foreign and industry collaborations, and the Incubation Center fostering start-ups and entrepreneurship. Access central facilities for innovation and growth.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/research-and-development-cell">Research & Development Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Research & Consultancy Projects</a>
+                    </li>
+                    <li>
+                        <a href="/research-patent">Patents</a>
+                    </li>
+                    <li>
+                        <a href="/research-papers">Research Papers</a>
+                    </li>
+                    <li>
+                        <a href="/books-and-book-chapters">Books & Book Chapters</a>
+                    </li>
+                    <li>
+                        <a href="#">Foreign Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="#">Industry Collaboration</a>
+                    </li>
+                    <li>
+                        <a href="/university-Incubation-Innovation-startup-center">Incubation Center/ Start-ups/ Entrepreneurship Cell</a>
+                    </li>
+                    <li>
+                        <a href="/university-central-facilities">Central Facilities</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+
+    <li class="li-nav-title li__sudent__zone">
+        <a href="#">Life@SKU<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro" style="width:35%;">
+                <img class="navigation__intro__img" src="/Content/web/navigation/campus-.webp" />
+                <p class="intro">Explore student support services including the Grievance Redressal Committee, Ombudsperson, and Anti-Ragging Cell. Access campus highlights, sports, health, and lab facilities. Discover NCC/NSS activities, placement support, and amenities for differently-abled individuals, ensuring a safe and inclusive environment.</p>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Rights & Safety</span>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Student-Grievance-Redressal-Committee-Feb-2026.pdf">Student Grievance Redressal Committee</a>
+                    </li>
+                    <li>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd5YfrlIPE8YsTqJUIg6p0GrzIU1JgEnypjtk7Z2LsFQA_Mw/viewform">Student Grievance Form</a>
+                    </li>
+                    <li>
+                        <a href="/ombudsperson">Ombudsperson</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Anti-Ragging-Committee-Feb-2026.pdf">Anti-Ragging Cell</a>
+                    </li>
+                    <li>
+                        <a href="https://www.skuindia.ac.in/content/upload/pdfs/Internal-Complaints-Committee-ICC-Feb-2026.pdf">Internal Complaint Committee (Students)</a>
+                    </li>
+                    <li>
+                        <a href="/equal-opportunity-cell">Equal Opportunity Cell/ Socio-Economically Disadvantaged Groups Cells (SEDG)</a>
+                    </li>
+                    <li>
+                        <a href="https://samadhaan.ugc.ac.in/" target="_blank">UGC e-Samadhan Portal</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Campus Life</span>
+                    </li>
+                    <li>
+                        <a href="/Sports-Facility">Sports Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/university-health-facilities">Health Facilities</a>
+                    </li>
+                    <li>
+                        <a href="/Internet">Computer Lab</a>
+                    </li>
+                    <li>
+                        <a href="/Innovation-Labs">Innovation Labs</a>
+                    </li>
+                    <li>
+                        <a href="/Laboratories">Laboratories</a>
+                    </li>
+                    <li>
+                        <a href="/library">Library</a>
+                    </li>
+                    <li>
+                        <a href="/Transport">Transport</a>
+                    </li>
+                    <li>
+                        <a href="/facility-for-differently-abled">Facility for Differently Abled</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Safety</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 25%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Student Support & Activities</span>
+                    </li>
+                    <li>
+                        <a href="/ncc-nss">NCC/NSS Details</a>
+                    </li>
+                    <li>
+                        <a href="/training-and-placements">Placement Cell & its Activities</a>
+                    </li>
+                    <li>
+                        <a href="/counselling-well-being-cell">SKU Counselling & Well-being Cell</a>
+                    </li>
+                    <li>
+                        <a href="#">Campus Highlights</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Information Corner<span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/information-menu-intro.webp" />
+                <p class="intro">Stay updated with circulars, announcements, and newsletters. Explore recent events, achievements, and international student facilities. Browse print and online media coverage, and view highlights in the video gallery.</p>
+            </li>
+            <li class="nav-links" style="width: 35%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Announcements & Events</span>
+                    </li>
+                    <li>
+                        <a href="#">Circular & Notices</a>
+                    </li>
+                    <li>
+                        <a href="#">Announcements</a>
+                    </li>
+                    <li>
+                        <a href="#">Newsletters</a>
+                    </li>
+                    <li>
+                        <a href="#">News, Recent Events & Achievements</a>
+                    </li>
+                    <li>
+                        <a href="#">Study in India & SKU</a>
+                    </li>
+                    <li>
+                        <a href="#">Admission procedure and facilities provided to International Students</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-links" style="width: 15%;">
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Media</span>
+                    </li>
+                    <li>
+                        <a href="/media-gallery">Print Media</a>
+                    </li>
+                    <li>
+                        <a href="#">Online Media</a>
+                    </li>
+                    <li>
+                        <a href="/event-gallery">Event Gallery</a>
+                    </li>
+                    <li>
+                        <a href="/video-gallery">Video Gallery</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="sku-menu-sub-title">
+                        <span>Career</span>
+                    </li>
+                    <li>
+                        <a href="/Apply-Job">Apply Online</a>
+                    </li>
+                    <li>
+                        <a href="/carrier">Current Openings</a>
+                    </li>
+                </ul>
+            </li>
+
+        </ul>
+    </li>
+    <li class="li-nav-title li__menu__zone">
+        <a href="#">Placement <span class="dropdown-carrot"></span></a>
+        <ul class="dropdown group">
+            <li class="nav-intro">
+                <img class="navigation__intro__img" src="/Content/web/navigation/placement-menu-intro.webp" />
+                <p class="intro">Enhance your skills with training programs and explore career opportunities through our dedicated placement cell.</p>
+            </li>
+            <li class="nav-links">
+                <ul>
+                    <li>
+                        <a href="/training-and-placements">Training & Placements</a>
+                    </li>
+                   
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="li-nav-title">
+        <a href="/">NIRF</a>
+    </li>
+</ul>
+
+                    </nav>
+                </div>
+            </div>
+
+
+
+
+
+            
+
+            <div class="row mobile-head bg__light__yellow " style="text-align:left;">
+                <div class="col-xs-11 padR0 hidden-lg hidden-md hidden-sm">
+                    <a href="tel:18002003007" class="mobile__admission__head">Admission Helpline +91 6262 180 303/909</a>
+                </div>
+                <div class="col-xs-1 padR0 hidden-lg hidden-md hidden-sm">
+                    <div id="mobile-links">
+                        <a class="mobile-link mobile-nav-link" href="#mobile-nav">
+                            <span class="hide-label">Menu</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xs-12 hidden-lg hidden-md hidden-sm" style="border-top: 1px solid #e2e2e2;">
+                    <a href="http://library.skuindia.com" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-library' aria-hidden="true"></i>
+                        Library
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        Public Self Disclosure
+                    </a>
+                    <a href="#" class="mobile__menu__title__top__link animate-charcter">
+                        <i class='bx bx-podcast' aria-hidden="true"></i>
+                        SKU MY RADIO
+                    </a>
+
+                    <a href="#" class="mobile__menu__title__top__link unique-e-journal-link animate-charcter">
+                        <i class="fa fa-book" aria-hidden="true"></i> &nbsp;E Journal
+                    </a>
+                    <ul class="unique-e-journal-submenu">
+                        <li>
+                            <a href="https://www.skushodhsanchar.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Shodh Sanchar
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skupharma.in/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Pharmaceutical Review
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujlv.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Lex Vibrent
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.skujer.com/" target="_blank">
+                                <i class="fa fa-book" aria-hidden="true"></i> &nbsp;SKU Journal of Engineering Research
+                            </a>
+                        </li>
+                    </ul>
+
+                    <script>
+                        document.querySelector('.unique-e-journal-link').addEventListener('click', function (e) {
+                            e.preventDefault();
+                            document.querySelector('.unique-e-journal-submenu').classList.toggle('active');
+                        });
+                    </script>
+                </div>
+            </div>
+            <nav id="mobile-nav">
+<ul>
+    <li>
+        <a href="http://www.skuindia.ac.in">Home</a>
+    </li>
+    <li>
+        <a href="#">About</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            <li class="sku-menu-sub-title">
+                <span>The University</span>
+            </li>
+            <li>
+                <a href="">About University</a>
+            </li>
+            <li>
+                <a href="">Administration</a>
+            </li>
+            <li>
+                <a href="">Institutional Development Plan</a>
+            </li>
+            <li>
+                <a href="">Annual Reports</a>
+            </li>
+            <li>
+                <a href="">Annual Accounts</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Welcome Note</span>
+            </li>
+            <li>
+                <a href="">Chancellor Message</a>
+            </li>
+            <li>
+                <a href="">Chairman Message</a>
+            </li>
+            <li>
+                <a href="">Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Pro Vice chancellor's Message</a>
+            </li>
+            <li>
+                <a href="">Important Message</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Councils</span>
+            </li>
+            <li>
+                <a href="">Governing Body</a>
+            </li>
+
+            <li>
+                <a href="">Board of Management</a>
+            </li>
+
+            <li>
+                <a href="">Academic Council</a>
+            </li>
+
+            <li>
+                <a href="">Finance Committee</a>
+            </li>
+
+            <li>
+                <a href="">Internal Complaint Committee (Staff)</a>
+            </li>
+
+            <li>
+                <a href="">Board of Studies</a>
+            </li>
+
+            <li>
+                <a href="">Academic Leadership</a>
+            </li>
+
+            <li class="sku-menu-sub-title">
+                <span>Regulatory & Compliance</span>
+            </li>
+            <li>
+                <a href="#">Act & Statutes</a>
+            </li>
+            <li>
+                <a href="">Approvals & Recognitions</a>
+            </li>
+            <li>
+                <a href="">Ordinance</a>
+            </li>
+            <li>
+                <a href="">Accreditation & Ranking</a>
+            </li>           
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Faculty</a>
+        <span class="arrow">
+            <a href="#"><span>Expand</span></a>
+        </span>
+        <ul>
+            
+        <li>
+            <a href="/faculty/education">Department of Education</a>
+        </li>
+            <li>
+                <a href="/faculty/engineering-and-technology">Faculty of Engineering & Technology</a>
+            </li>
+        <li>
+            <a href="/Course/FacultyPharmacy">Faculty of Pharmacy </a>
+            <ul class="mobile__sub__ul_li_ul">
+                <li><a href="/Course/DepartmentPharmacy">Department of Pharmacy</a></li>
+                <li><a href="/Course/DepartmentPharmaceuticalResearch">Department of Pharmaceutical Research</a></li>
+            </ul>
+        </li>
+            
+        </ul>
+    </li>
+    <li>
+        <a href="#">Admissions</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Admissions Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="Course-admission/4">Certificate Course</a>
+            </li>
+            <li>
+                <a href="Course-admission/3">Diploma Admissions</a>
+            </li>
+            <li>
+                <a href="Course-admission/1">Undergradute Admission</a>
+            </li>
+            <li>
+                <a href="Course-admission/2">Postgraduate Admission</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">M.Phil. / Ph.D.</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scholarship</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Fees Structure</a>
+            </li>
+            <li>
+                <a href="/Registration/RegistrationForm">Scheme / Syllabus</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Campus Life</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Campus Life Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a href="#">Campus Events</a>
+            </li>
+            <li>
+                <a href="#">Visiting Campus</a>
+            </li>
+            <li>
+                <a href="#">Campus Highlights</a>
+            </li>
+            <li>
+                <a href="#">Campus Safety</a>
+            </li>
+            <li class="sku-menu-sub-title">
+                <span>Gallery</span>
+            </li>
+            <li>
+                <a href="/home/event-gallery">Picture Gallery</a>
+            </li>
+            <li>
+                <a href="/home/video-gallery">Video Gallery</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Research</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Research Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+                <a target="_blank" href="http://library.skuindia.ac.in">Libraries</a>
+            </li>
+            <li>
+                <a href="#">Innovation &amp; Entrepreneurship</a>
+            </li>
+            <li>
+                <a href="#">Research News</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Infrastructure</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Infrastructure Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+    <li><a href="Infrastructure/3">Library </a></li>
+    <li><a href="Infrastructure/4">Laboratories </a></li>
+    <li><a href="Infrastructure/5">Hostel </a></li>
+    <li><a href="Infrastructure/6">Sports facility </a></li>
+    <li><a href="Infrastructure/7">Transport </a></li>
+    <li><a href="Infrastructure/9">Internet </a></li>
+
+
+        </ul>
+    </li>
+    <li>
+        <a href="#">Career</a>
+        <span class="arrow">
+            <a aria-haspopup="true" href="#" role="button"><span>Expand</span>Career Submenu</a>
+        </span>
+        <ul aria-expanded="false" aria-hidden="true">
+            <li>
+
+                <a>
+
+                </a>
+                <a href="/carrier/Why-SKU">Why Sku</a>
+            </li>
+            <li>
+                <a href="/Apply-Job">Apply Online</a>
+            </li>
+            <li>
+                <a href="/Carrier">Current Openings</a>
+            </li>
+            <li>
+                <a href="#">Policies</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/contact-us">Contact Us</a>
+    </li>
+</ul>
+
+<div id="mobile-nav-bottom">
+    <ul id="mobile-nav-bottom-left">                      
+        <li>
+            <a href="#">Alumni</a>
+        </li>
+        <li>
+            <a href="#">Faculty &amp; Staff</a>
+        </li>
+    </ul>
+    <ul id="mobile-nav-bottom-right">
+        <li>
+            <a href="#">Webmail</a>
+        </li>
+        <li><a class="" href="/admin/Login/Login">Admin</a></li>
+        <li>
+            <a href="#">Libraries</a>
+        </li>
+        <li>
+            <a href="#">Academic&#160;Calendar</a>
+        </li>
+    </ul>
+</div>
+            </nav>
+            <div class="row mobile-head hidden-lg hidden-md hidden-sm" style="background-color: #e8e8e8; text-align: center; color: white !important; ">
+                <div class="col-xs-12"></div>
+            </div>
+            <div class="container-fluid hidden-lg hidden-md hidden-sm bg__light__yellow">
+                <div class="container" style="padding-right: 0px; padding-left: 0px;">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <a href="#">
+                                <img src="/Content/web/university/sku-logo-header.png" style="" class="img-responsive" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+        </div>
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="conatiner-content" style="background: #f7f8fa !important;">
+        <div class="container-fluid" id="TitleBreadcum">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <style>
+                        </style>
+                        <nav aria-label="Breadcrumb" class="breadcrumb">
+                            <ol>
+                                <li>
+                                    <a href="#"><i class='bx bx-home-circle'></i></a>
+                                </li>
+                                
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+
+<link href="/Content/Assets/css/registration.css" rel="stylesheet" />
+
+<div class="container-fluid">
+    <div class="container" style="font-family: 'Akkurat Pro Regular','Roboto', sans-serif;text-align: center;font-size: 14px;color: #616161;font-weight: 800;letter-spacing: 2px;padding-top: 15px;">
+        
+
+        FOR ACADEMIC SESSION 2026-27
+        <hr class="styleX1" />
+
+        
+    </div>
+</div>
+<div class="container-fluid padTB25">
+    <div class="container">
+        <div class="row padB15">
+            <div class="col-lg-12">
+
+                <!-- START card -->
+                <div class="card card-default">
+                    <div class="card-block">
+
+<form action="/registration/SubmitRegistrationForm" enctype="multipart/form-data" id="register_form" method="post" name="frm1" target="_blank">                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-12" style="font-size: 12px; color: red; padding-bottom: 5px;">
+                                    (*) Star marked fields must be filled by the applicant.
+                                </div>
+                            </div>
+                            <input data-val="true" data-val-number="The field REGISTARATION_ID must be a number." id="TempReg" name="REGISTARATION_ID" type="hidden" value="" />
+                            <input data-val="true" data-val-number="The field CurrentSession must be a number." data-val-required="The CurrentSession field is required." id="CurrentSession" name="CurrentSession" type="hidden" value="509" />
+                            <div class="panel panel-warning shadowsfx">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Course Selection</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Admission for</label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field DEGREE_TYPE_ID must be a number." id="DEGREE_TYPE_ID" name="DEGREE_TYPE_ID" onchange="GetBaseCourses()" required=""><option value="">--- Select Admission for ---</option>
+<option value="1">UG
+</option>
+<option value="2">PG
+</option>
+<option value="3">Diploma
+</option>
+<option value="4">Certificate
+</option>
+<option value="5">Phd</option>
+<option value="6">PG Diploma</option>
+<option value="7">M. Phill</option>
+<option value="8">Dual Degree </option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Applying For</label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field BASE_COURSE_ID must be a number." id="BASE_COURSE_ID" name="BASE_COURSE_ID" onchange="GetFaculty(Event, this)" required=""><option value="">--- Select Applying for ---</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Faculty<br /><span class="hindiType">(संकाय )</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field FACULTY_ID must be a number." id="FACULTY_ID" name="FACULTY_ID" onchange="GetDepartment()" required=""><option value="">--- Select Faculty ---</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Department<br /><span class="hindiType">(विभाग)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field DEPT_ID must be a number." id="DEPT_ID" name="DEPT_ID" onchange=" getCourseLisForOpenRegistration() " required=""><option value="">--- Select Department ---</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Course Applied for<br /><span class="hindiType">(पाठ्यक्रम के लिए आवेदन)</span> </label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field COURSE_APPL must be a number." id="COURSE_APPL" name="COURSE_APPL" onchange=" checkCourseSelected() " required=""><option value="">--- Select Course ---</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Course Medium <br /><span class="hindiType">(कोर्स का माध्यम)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field CourseMedium must be a number." data-val-required="The CourseMedium field is required." id="CourseMedium" name="CourseMedium" required=""><option value="">--- Select Medium ---</option>
+<option selected="selected" value="0">English</option>
+<option value="1">Hindi</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="panel panel-warning" id="NewSchemePanelCV">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Classification Selection (New Scehme)</h3>
+                                </div>
+                                <div class="panel-body">
+
+                                    <div class="row pb-5">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Major Category<br /><span class="hindiType">प्रमुख श्रेणी</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="">
+<select class="form-control select" data-val="true" data-val-number="The field MJR_CAT_1 must be a number." id="xCategoryClassificationGroup_MJR_CAT_1" name="xCategoryClassificationGroup.MJR_CAT_1" onchange="GetMinorCategory()" required=""></select>
+
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row pb-5">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Minor Category<br /><span class="hindiType">लघु श्रेणी</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="">
+
+
+                                                    <select class="form-control select" data-val="true" data-val-number="The field MNR_CAT_1 must be a number." id="xCategoryClassificationGroup_MNR_CAT_1" name="xCategoryClassificationGroup.MNR_CAT_1" required=""></select>
+
+
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="panel panel-warning shadowsfx">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Basic Details (All Information should be as per 10th Marksheet)</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Aadhar Enrollment No./Aadhar No.<br /><span class="hindiType">(आधार नामांकन संख्या)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control Numeric" id="ADHAR_NO" maxlength="12" name="ADHAR_NO" onBlur="checkUniquAadhar(this)" required="True" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">First Name <br /><span class="hindiType">(पहला नाम)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+
+                                                <input Value="09/03/2026 01:17:44" data-val="true" data-val-date="The field Start_date must be a date." id="Start_date" name="Start_date" type="hidden" value="" />
+                                                <input class="form-control" id="FIRST_NAME" maxlength="50" name="FIRST_NAME" required="" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Middle Name <br /><span class="hindiType">(मध्य नाम)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="MIDDLE_NAME" maxlength="50" name="MIDDLE_NAME" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Last Name <br /><span class="hindiType">(सरनेम)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="LAST_NAME" maxlength="50" name="LAST_NAME" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Father's/Husband Name <br /><span class="hindiType">(पिता का नाम) <strong style="font-weight: normal; font-family: Tahoma, Geneva, sans-serif; font-size: 10px; color: #930;">(Do not write Mr / Dr Etc..)</strong></span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+
+                                                <div class="pure-radiobutton">
+
+                                                    <input checked="True" class="radio" data-val="true" data-val-required="The IS_HUSBAND_NAME field is required." id="IS_HUSBAND_NAME_False" name="IS_HUSBAND_NAME" type="radio" value="False" />
+                                                    <label for="IS_HUSBAND_NAME_False">
+                                                        Father
+                                                    </label>
+
+                                                    <input class="radio" id="IS_HUSBAND_NAME_True" name="IS_HUSBAND_NAME" type="radio" value="True" />
+                                                    <label for="IS_HUSBAND_NAME_True">
+
+                                                        Husband
+                                                    </label>
+                                                </div>
+                                            </div>
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="FATHERS_NAME" maxlength="50" name="FATHERS_NAME" required="" type="text" value="" />
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Mother's Name<br /><span class="hindiType"> (माता का नाम) <strong style="font-weight: normal; font-family: Tahoma, Geneva, sans-serif; font-size: 10px; color: #930;">(Do not write Mrs / Dr Etc..)</strong></span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="MOTHERS_NAME" maxlength="50" name="MOTHERS_NAME" required="" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Date of Birth <br /><span class="hindiType">(जन्मतिथि)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control js-date" data-parsley-pattern="/^([12]\d|0[1-9]|3[01])\D?(0[1-9]|1[0-2])\D?(\d{4})$/" data-parsley-pattern-message="Please enter a valid date" data-val="true" data-val-date="The field DOB must be a date." id="DOB" maxlength="10" name="DOB" placeholder="dd/mm/yyyy" required="" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Mobile No.<br /><span class="hindiType">(मोबाइल नंबर)(To receive SMS for admission)</span> </label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control Numeric" id="MOBILE" maxlength="10" name="MOBILE" pattern="[1-9]{1}[0-9]{9}" required="" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Email ID <br /><span class="hindiType">(ईमेल आईडी)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="EMAIL_ID" maxlength="50" name="EMAIL_ID" required="" type="email" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required"> Address Line 1 <br /><span class="hindiType">(स्थाई पता)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <textarea class="form-control" cols="30" id="AddrssDetails_ADDRESSLINE1" maxlength="400" name="AddrssDetails.ADDRESSLINE1" required="" rows="3">
+</textarea>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Country<br /><span class="hindiType">(देश)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field COUNTRY_ID must be a number." id="countryDDl" name="AddrssDetails.COUNTRY_ID" onchange="getStateList()" required=""><option value="">Select Country</option>
+<option value="1">INDIA</option>
+<option value="0">OTHER</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">State<br /><span class="hindiType">(राज्य)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field STATE_ID must be a number." id="StateDDl" name="AddrssDetails.STATE_ID" onchange="getDistrictList()" required="True"></select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">District <br /><span class="hindiType">(जिला)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" data-val="true" data-val-number="The field DISTRICT_ID must be a number." id="DistrictDDl" name="AddrssDetails.DISTRICT_ID" required="True"></select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <div class="panel panel-warning shadowsfx">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Personal Details (All Information should be as per 10th Marksheet)</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Marital Status<br /><span class="hindiType"> (विवाहित)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group pt-15">
+
+                                                <div class="pure-radiobutton">
+
+                                                    <input class="radio" id="single-true" name="MARTIAL_STATUS" type="radio" value="Single" />
+                                                    <label for="single-true">
+                                                        Single
+                                                    </label>
+                                                </div>
+                                                <div class="pure-radiobutton">
+
+                                                    <input class="radio" id="married-true" name="MARTIAL_STATUS" type="radio" value="Married" />
+                                                    <label for="married-true">
+                                                        Married
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Gender <br /><span class="hindiType"> (लिंग)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group pt-15">
+
+                                                <div class="pure-radiobutton">
+
+                                                    <input class="radio" id="male-true" name="GENDER" type="radio" value="Male" />
+                                                    <label for="male-true">
+                                                        Male
+                                                    </label>
+                                                </div>
+                                                <div class="pure-radiobutton">
+
+                                                    <input class="radio" id="female-true" name="GENDER" type="radio" value="Female" />
+                                                    <label for="female-true">
+                                                        Female
+                                                    </label>
+                                                </div>
+                                                <div class="pure-radiobutton">
+
+                                                    <input class="radio" id="other-true" name="GENDER" type="radio" value="Other" />
+                                                    <label for="other-true">
+                                                        Other
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Samagra Id <br /><span class="hindiType">(समग्र आईडी)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control Numeric" id="SSSM_ID" maxlength="12" name="SSSM_ID" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Blood Group <br /><span class="hindiType">(रक्त समूह)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" id="BLOOD_GRP" name="BLOOD_GRP"><option value="">Select Blood Group</option>
+<option value="0">O+</option>
+<option value="1">A+</option>
+<option value="2">B+</option>
+<option value="3">AB+</option>
+<option value="4">AB-</option>
+<option value="5">A-</option>
+<option value="6">B-</option>
+<option value="7">O-</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Religion <br /><span class="hindiType">(धर्म)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" id="RELIGION" name="RELIGION"><option value="">Select Religion</option>
+<option>Hindu</option>
+<option>Muslim</option>
+<option>Sikh</option>
+<option>Christian</option>
+<option>Buddhist</option>
+<option>Other</option>
+</select>
+                                                </span>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Category <br /><span class="hindiType">(वर्ग)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" id="categoryDDL" name="CATEGORY"><option value="">Select category</option>
+<option>General</option>
+<option>OBC</option>
+<option>SC</option>
+<option>ST</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Nationality <br /><span class="hindiType">(राष्ट्रीयता)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" id="NATIONALITY" name="NATIONALITY"><option value="">Select Nationality</option>
+<option value="indian">Indian</option>
+<option value="other">Other</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Student is Eligible for any Scholarship scheme<br /><span class="hindiType">(छात्र किसी भी छात्रवृत्ति योजना के लिए पात्र है)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group pt-15">
+                                                <div class="checkbox">
+                                                    <label>
+                                                        <input data-val="true" data-val-required="The ISEligible_ForScholar field is required." disabled="True" id="ISEligible_ForScholar" name="ISEligible_ForScholar" type="checkbox" value="true" /><input name="ISEligible_ForScholar" type="hidden" value="false" />
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label class="required">Student Type <br /><span class="hindiType">(विद्यार्थी का प्रकार)</span></label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <span class="custom-dropdown big">
+                                                    <select class="form-control" id="STUDENT_TYPE" name="STUDENT_TYPE" required="True"><option value="">Select Type</option>
+<option>Regular</option>
+<option>ExStudent</option>
+</select>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Applied For<br /><span class="hindiType">(आवेदन)</span> </label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <label>SHRI KRISHNA UNIVERSITY</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+
+                                    <div class="row" style="padding-bottom: 15px;">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-3">
+                                            <label>Migration No.<br /><span class="hindiType">(माइग्रेशन संख्या)</span> </label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="form-group form-group-default ">
+                                                <input class="form-control" id="MIGRATION_NO" maxlength="20" name="MIGRATION_NO" type="text" value="" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-warning shadowsfx">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">DETAILS OF LAST QUALIFYING EXAMINATION</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row panel-sub-block">
+
+                                        Note:- If you have Grading result in X CBSE, then convert your grade into marks. For marks conversion click on http://www.icbse.com/cgpa/
+
+                                    </div>
+
+
+                                    <div class="row">
+                                        <div class="col-md-12">
+
+                                            <div class="row hidden-xs hidden-sm">
+                                                <div class="col-md-2">Board/University</div>
+                                                <div class="col-md-3">Name of Institution</div>
+                                                <div class="col-md-2">Subjects</div>
+                                                <div class="col-md-2">Passing Year</div>
+                                                <div class="col-md-1">Max Marks</div>
+                                                <div class="col-md-1">Obtained Marks</div>
+                                                <div class="col-md-1">% Marks/CGPA</div>
+                                            </div>
+                                            <div class="row bg-lightslate" id="HightSchoolrow">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>High School</strong>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        
+                                                        <input class="form-control" id="inhi" maxlength="50" name="Marks[0].BOARD_UNIVERSITY" placeholder="Board/University" required="" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0); " type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group">
+                                                        
+                                                        <input class="form-control" id="inhina" maxlength="50" name="Marks[0].INSTITUTION" placeholder="Name of Institution" required="" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="insubject" maxlength="50" name="Marks[0].SUBJECT" placeholder="Subjects" required="" size="11" style="background: url(&amp;quot;../Content/images/icon_subjects.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <span class="custom-dropdown big">
+                                                            <select class="form-control yearddr" id="Marks_0__PASSING_YEAR" name="Marks[0].PASSING_YEAR" required=""><option value="">Passing Year</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+</select>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control maxmark Numeric" id="inhimax" name="Marks[0].MAX_MARKS" placeholder="Max Marks" required="" size="6" style="background: url(&amp;quot;../Content/images/icon_max.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control obtmark Numeric" disabled="True" id="inobta" name="Marks[0].OBT_MARKS" placeholder="Obtained Marks" required="" size="6" style="background: url(&amp;quot;../Content/images/icon_obtained.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control percentmark Numeric" disabled="True" id="inperce" name="Marks[0].PERCENT_CGPA" placeholder="% Marks/CGPA" size="2" style="background: url(&amp;quot;../Content/images/icon_percentage.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="row bg-lightgrey" id="IntermidiateRow">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>Intermediate</strong>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="ininter" maxlength="50" name="Marks[1].BOARD_UNIVERSITY" placeholder="Board/University" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3 ">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="ininterm" maxlength="50" name="Marks[1].INSTITUTION" placeholder="Name of Institution" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2 ">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="inintersub" maxlength="50" name="Marks[1].SUBJECT" placeholder="Subjects" size="11" style="background: url(&amp;quot;../Content/images/icon_subjects.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2 ">
+                                                    <div class="form-group">
+                                                        <span class="custom-dropdown big">
+                                                            <select class="form-control yearddr" id="Marks_1__PASSING_YEAR" name="Marks[1].PASSING_YEAR"><option value="">Passing Year</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+</select>
+
+                                                            
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+
+                                                        <input class="form-control maxmark Numeric" id="inintermax" name="Marks[1].MAX_MARKS" placeholder="Max Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_max.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control obtmark Numeric" disabled="True" id="inintermeobt" name="Marks[1].OBT_MARKS" onkeyup="inputPinHighClculatpercent(this,event)" placeholder="Obtained Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_obtained.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control percentmark  Numeric" disabled="True" id="inintermeperc" name="Marks[1].PERCENT_CGPA" placeholder="% Marks/CGPA" size="2" style="background: url(&amp;quot;../Content/images/icon_percentage.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="row bg-lightslate" id="GraduationRow">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>Graduation</strong>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+
+                                                        <input class="form-control" id="ingrad" maxlength="50" name="Marks[2].BOARD_UNIVERSITY" placeholder="Board/University" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="ininstgra" maxlength="50" name="Marks[2].INSTITUTION" placeholder="Name of Institution" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control " id="ingradsubj" maxlength="50" name="Marks[2].SUBJECT" placeholder="Subjects" size="11" style="background: url(&amp;quot;../Content/images/icon_subjects.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <span class="custom-dropdown big">
+                                                            <select class="form-control yearddr" id="Marks_2__PASSING_YEAR" name="Marks[2].PASSING_YEAR"><option value="">Passing Year</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+</select>
+
+                                                            
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control maxmark Numeric" id="ingramax" name="Marks[2].MAX_MARKS" placeholder="Max Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_max.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control obtmark Numeric" disabled="True" id="ingradobta" name="Marks[2].OBT_MARKS" placeholder="Obtained Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_obtained.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control percentmark Numeric" disabled="True" id="ingraduperc" name="Marks[2].PERCENT_CGPA" placeholder="% Marks/CGPA" size="2" style="background: url(&amp;quot;../Content/images/icon_percentage.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="row bg-lightgrey" id="pgRow">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>PostGraduation</strong>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control" maxlength="50" name="Marks[3].BOARD_UNIVERSITY" placeholder="Board/University" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group">
+                                                        <input class="form-control" maxlength="50" name="Marks[3].INSTITUTION" placeholder="Name of Institution" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control" maxlength="50" name="Marks[3].SUBJECT" placeholder="Subjects" size="11" style="background: url(&amp;quot;../Content/images/icon_subjects.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <span class="custom-dropdown big">
+                                                            <select class="form-control yearddr" id="Marks_3__PASSING_YEAR" name="Marks[3].PASSING_YEAR"><option value="">Passing Year</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+</select>
+
+                                                            
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control maxmark Numeric" id="inpgmaxmark" name="Marks[3].MAX_MARKS" onkeyup="inputPinPgMaxl(this)" placeholder="Max Marks" size="6" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control  obtmark Numeric" disabled="True" id="inpgobtained" name="Marks[3].OBT_MARKS" onblur="inputPinPgObl(this)" onfocus="inputPinPgOb(this)" onkeyup="inputPinHighClculatpercent(this,event)" placeholder="Obtained Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_obtained.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control percentmark Numeric" disabled="True" id="inpgperce" name="Marks[3].PERCENT_CGPA" placeholder="% Marks/CGPA" size="2" style="background: url(&amp;quot;../Content/images/icon_percentage.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12">
+
+
+                                            <div class="row bg-lightslate" id="">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>Other Qualification</strong>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        
+                                                        <input class="form-control" id="inhi" maxlength="50" name="ExtraMarksMarks[0].BOARD_UNIVERSITY" placeholder="Board/University" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0); " type="text" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group">
+                                                        
+                                                        <input class="form-control" id="inhina" maxlength="50" name="ExtraMarksMarks[0].INSTITUTION" placeholder="Name of Institution" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <input class="form-control" id="insubject" maxlength="50" name="ExtraMarksMarks[0].SUBJECT" placeholder="Subjects" size="11" style="background: url(&amp;quot;../Content/images/icon_subjects.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-2">
+                                                    <div class="form-group">
+                                                        <span class="custom-dropdown big">
+                                                            <select class="form-control yearddr" id="ExtraMarksMarks_0__PASSING_YEAR" name="ExtraMarksMarks[0].PASSING_YEAR"><option value="">Passing Year</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+<option value="2026">2026</option>
+</select>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control maxmark Numeric" id="inhimax" name="ExtraMarksMarks[0].MAX_MARKS" placeholder="Max Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_max.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control obtmark Numeric" disabled="True" id="inobta" name="ExtraMarksMarks[0].OBT_MARKS" placeholder="Obtained Marks" size="6" style="background: url(&amp;quot;../Content/images/icon_obtained.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1">
+                                                    <div class="form-group">
+                                                        <input class="form-control percentmark Numeric" disabled="True" id="inperce" name="ExtraMarksMarks[0].PERCENT_CGPA" placeholder="% Marks/CGPA" size="2" style="background: url(&amp;quot;../Content/images/icon_percentage.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12 hide" id="Net_Exam_Block">
+                                            <div class=" hidden-xs hidden-sm">
+                                                <div class="col-md-12 p-5 pl-10">
+                                                    <strong>NET EXAM </strong>
+                                                </div>
+                                                <div class="col-md-2">Electronic Cert. No.</div>
+                                                <div class="col-md-2">UGC REF No.</div>
+                                                <div class="col-md-2">Roll No.</div>
+                                                <div class="col-md-2">Subjects</div>
+                                                <div class="col-md-2">Certificate Date</div>
+                                                <div class="col-md-2">MarkSheet Attachment</div>
+                                                <div class="row bg-lightgrey" id="NetRow">
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control" maxlength="50" name="NET_ELECT_CERT_NUMBER" placeholder="Certificate Number" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control" maxlength="50" name="NET_UGC_REF_NUMBER" placeholder="UGC Ref No." size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control" maxlength="50" name="NET_ROLL_NO" placeholder="Roll No." size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control" maxlength="50" name="NET_SUBJCET" placeholder="Subject" size="11" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="text" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control js-date" data-parsley-pattern="/^([12]\d|0[1-9]|3[01])\D?(0[1-9]|1[0-2])\D?(\d{4})$/" data-parsley-pattern-message="Please enter a valid date" id="NET_ISSUE_DATE" maxlength="10" name="NET_ISSUE_DATE" placeholder="dd/mm/yyyy" type="text" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2">
+                                                        <div class="form-group">
+                                                            <input class="form-control openFile1000kb" id="NET_MARKSHEET" name="NET_MARKSHEET" placeholder="" style="background: url(&amp;quot;../Content/images/icon_qualification.png&amp;quot;) 0.6em center no-repeat; border: 1px solid rgb(0, 204, 0);" type="file" value="" />
+                                                            
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="panel panel-warning">
+                                        <div class="panel-heading">
+                                            <h3 class="panel-title">ATTACHMENTS</h3>
+                                        </div>
+                                        <div class="panel-body">
+                                            <div class="row panel-sub-block">
+
+                                                आपको फोटो, हताक्षर एवं निम्न मूल प्रमाण पत्रों की स्कैनड कॉपी अपलोड करनी है। अपलोड हेतू सिर्फ JPG/JPEG फॉर्मेट स्वीकार्य है फोटो का साइज़ कम करने के लिए RIOT Image Compressor लिंक का इस्तमाल करके सॉफ्टवेर को इंस्टाल कर सकते है |
+
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label class="required" style="font-size: 9px; font-weight: 500; color: #0029ff;">Applicant's Photo ( Maximum 100KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile100kb" id="APPLICANT_PHOTO" name="APPLICANT_PHOTO" required="True" type="file" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label class="required" style="font-size: 9px; font-weight: 500; color: #0029ff;">Aadhar Card  ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="AADHAR" name="AADHAR" required="True" type="file" value="" />
+                                                        
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Applicant's Signature ( Maximum 100KB)</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile100kb" id="SIGNATURE" name="SIGNATURE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Marksheet of 10th examination ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="MARKSHEET_TENTH" name="MARKSHEET_TENTH" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Marksheet of 12th examination ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="MARKSHEET_TWELVE" name="MARKSHEET_TWELVE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">UNDER GRADUATE CERTIFICATE ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="UGCERTIFICATE" name="UGCERTIFICATE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">POST GRADUATE CERTIFICATE ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="PGCERTIFICATE" name="PGCERTIFICATE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Domicile Certificate (Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="domicilecertificate" name="DOMICILE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row openFileBlock">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Caste Certificate ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" disabled="true" id="CAST" name="CAST" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Income Certificate ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="INCOME" name="INCOME" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row openFileBlock" style="cursor: pointer;">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Transfer Certificate ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="" disabled="true" id="TRANSFER" name="TRANSFER" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4 xselect-bg">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Character Certificate ( Maximum 1000KB)</label>
+                                                </div>
+                                                <div class="col-md-3 xselect-bg">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" id="CHARACTER" name="CHARACTER" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row openFileBlock">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Migration Certificate(Maximum 1000KB)*</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default ">
+                                                        <input class="openFile1000kb" disabled="true" id="fc" name="MIGRATION" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-2"></div>
+                                                <div class="col-md-4">
+                                                    <label style="font-size: 9px; font-weight: 500; color: #0029ff;">Marriage Certificate(Maximum 1000KB)*</label>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="form-group form-group-default">
+                                                        <input class="openFile1000kb" id="Marr_Cert" name="MARRIAGE_CERTIFICATE" type="file" value="" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3"></div>
+                                            </div>
+
+
+                                            <div class="row" style="padding-bottom: 20px; padding-top: 20px;">
+
+                                            </div>
+                                            <div class="row Iagree">
+
+
+                                                <div class="col-md-12">
+                                                    <div class="row pb-10">
+                                                        <div class="col-md-12">
+                                                            आवेदक की घोषणा
+                                                        </div>
+                                                    </div>
+                                                    <div class="row pb-10">
+
+                                                        <div class="col-md-12">
+                                                            <input id="tandc" name="T&amp;C" type="checkbox" value="true" /><input name="T&amp;C" type="hidden" value="false" /> मैं सत्य निष्ठा से शपथपूर्वक घोषणा करता/करती हूं कि:-
+                                                        </div>
+                                                    </div>
+                                                    <div class="row pb-10">
+                                                        <div class="col-md-12">
+                                                            ऑनलाइन आवेदन पत्र प्रस्तुत करते समय मेरे द्वारा अपलोड किये गए समस्त दस्तावेजों को मैंने जांच लिया है और वे सही हैं। इस आवेदन पत्र में मेरे द्वारा प्रस्तुत सभी तथ्य पूर्णतया सही हैं | यदि मेरे द्वारा अपूर्ण/गलत सूचना दी जाती है अथवा अपठनीय दस्तावेज़ अपलोड किए जाते हैं तथा इनके कारण मुझे कोई लाभ/आरक्षण/प्रवेश नहीं दिया जाता है, तो इसका सम्पूर्ण उत्तरदायित्व मेरा होगा।
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-md-12">
+                                                            यदि कोई भी तथ्य गलत/अपूर्ण पाया जावे तो मेरा प्रवेश स्वतः ही निरस्त माना जावेगा।
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12 ">
+                                            <input id="transactionid" name="TransactionId" type="hidden" value="" />
+                                            <input data-val="true" data-val-number="The field Amount must be a number." data-val-required="The Amount field is required." id="Amount" name="Amount" type="hidden" value="0" />
+                                            <button  autocomplete="off" type="submit" class="btn btn-block btn-success" id="btnsbmt" disabled>Submit Registration Form</button>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+</form>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/Content/Slim/lib/jquery.maskedinput/js/jquery.maskedinput.js"></script>
+
+<script src="/Content/admin/jsx/regFormValidationOpenRegistration-v2004202201.js"></script>
+
+<script>
+    $("#register_form").submit(function (e) {
+        var Amount = 0;
+        DEGREE_TYPE_ID = $("#DEGREE_TYPE_ID").val();
+        categoryDDL = $("#categoryDDL").val();
+        debugger;
+        $.ajax({
+            url: '/registration/getregistrationamount',
+            async: false,
+            data: {
+                DEGREE_TYPE_ID: DEGREE_TYPE_ID,
+                categoryDDL: categoryDDL
+            },
+            success: function (data) {
+                Amount = data;
+
+            },
+            error: function () {
+                console.log("something went wrong");
+
+            }
+        });
+        $("#Amount").val(Amount);
+
+        $("#btnsbmt").attr("disabled", true);
+
+    });
+
+    channel = new BroadcastChannel("Registraion__Channel");
+    channel.onmessage = function (e) {
+        console.log('Received', e.data);
+        if (e.data.status == true)
+            location.replace("/Registration/RegistrationSuccess?Registration=" + e.data.reg);
+        else {
+            $("#TempReg").val(e.data.TempReg);
+            $("#btnsbmt").removeAttr("disabled");
+        }
+
+    };
+
+    $("#register_form").parsley();
+
+</script>
+
+
+
+
+
+    </div>
+
+    <style>
+        .sku-footer {
+            background: url('/images/97430854-19cd-41a9-98b1-5fa49e2f2966.png') center center / cover no-repeat, #205194;
+            background-blend-mode: overlay;
+            color: #fff;
+            padding: 0px 0;
+        }
+
+            .sku-footer .footer-heading {
+                font-weight: bold;
+                margin-bottom: 10px;
+                font-size: 24px;
+            }
+
+            .sku-footer .footer-subtext {
+                font-size: 16px;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 25px;
+                font-weight: bold;
+                padding: 10px 25px;
+                border-radius: 8px !important;
+            }
+
+        @media (max-width: 767px) {
+            .sku-footer .text-left, .sku-footer .text-right {
+                text-align: center !important;
+            }
+
+            .sku-footer .footer-btn {
+                margin-top: 20px;
+            }
+        }
+    </style>
+    <div class="container-fluid sku-footer text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 text-left">
+                    <h2 class="footer-heading">Shape Your Future at SKU University</h2>
+                    <p class="footer-subtext">Join a dynamic learning community focused on skills, growth, and innovation.</p>
+                </div>
+                <div class="col-sm-4 text-right">
+                    <a href="#" class="btn btn-default btn-lg footer-btn">Click Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid footer padTB20">
+        <div class="container">
+            <div class="footerlist">
+                <ul>
+                    <li>
+                        <h1>Media</h1>
+                        <a href="/event-gallery">Events</a>
+                        <a href="/Media-Gallery">Media Coverage</a>
+                    </li>
+                    <li>
+                        <h1>Programs</h1>
+                        <a href="/Course-admission/4">Certificate Course</a>
+                        <a href="/Course-admission/3">Diploma Admissions</a>
+                        <a href="/Course-admission/1">Under Graduate</a>
+                        <a href="/Course-admission/2">Post Graduate</a>
+                        <a href="/Course-admission/5">Ph.D.</a>
+                    </li>
+                    <li>
+                        <h1>Placements</h1>
+                        <a href="">Placement Cell</a>
+                        <a href="">Associated Recruiters</a>
+                        <a href="">Placement Record</a>
+                        <a href="">Recruiter Speak</a>
+                        <a href="">Placement Highlights</a>
+                    </li>
+                    <li>
+                        <h1>Admissions</h1>
+                        <a href="">Admission Procedure</a>
+                        <a href="">Scholarship</a>
+                        <a href="">Payment Procedure</a>
+                        <a href="">Admission Assistance</a>
+                        <a href="Registration/studentregistration">Admission Form</a>
+                    </li>
+                    <li>
+                        <h1>Other Links</h1>
+                        <a href="/event-gallery">Gallery</a>
+                        <a href="/carrier">Careers</a>
+                        <a href="/Enquiry">Quick Query</a>
+                        <a href="/contact-us">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="mainrow">
+                <div style="height: 30px;"></div>
+            </div>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td width="165" class="block">
+                            <div itemscope="" itemtype="http://schema.org/Organization">
+                                <a itemprop="url" href="" title="Shri Krishna University">
+                                    <img itemprop="logo" style="width: 150px;" src="/Content/images/sku_universal_logo .png" class="marbtm10" alt="Shri Krishna University" title="Shri Krishna University">
+                                </a>
+                            </div>
+                        </td>
+                        <td width="3%" class="mobnnnnn">
+                            <div align="left">
+                                <img src="/Content/images/border.jpg">
+
+                            </div>
+                        </td>
+                        <td valign="top" class="block" style="padding-top: 0px; vertical-align: top;">
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td class="calbold" style="padding: 0px;">
+                                            <span itemprop="name">Shri Krishna University</span> <span class="mobns">-</span> <span class="moblk">Vidya Sarvasva Pujnam</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="5%" class="mobnnnnn">
+                                                            <div class="mapmarker"></div>
+                                                        </td>
+                                                        <td width="94%" valign="baseline" class="cam14">
+                                                            <a href="" target="_blank">N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="phoneicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">Landline No. - <a href="tel:+917682241716"><span class="lato">+</span>07682-241716</a>, <a href="tel:+918682248735">07682-248735</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="mobnnnnn">
+                                                            <div class="mailicon"></div>
+                                                        </td>
+                                                        <td valign="baseline" class="cam14">
+                                                            <a href="mailto:info@skuindia.com">info@skuindia.com</a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                        <td valign="top" class="block">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Admission Enquiry.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 303/707</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="contacts">
+                                            <div class="txtright textalign-trs">
+                                                Technical Support.
+                                                <span class="bolds">
+                                                    <a href="tel:18002003007"> +91 6262 180 909</a>
+                                                </span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td valign="top">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tdpad">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="cam14" style="font-weight: 600;">
+                                                            <a href="/Refund-and-Cancellation-policy">Refund and Cancellation policy</a> <span class="lato">/</span> <a href="/Privacy-Policy">Privacy Policy</a> <span class="lato">/</span> <a href="/Terms-Conditions">Terms &amp; Conditions </a><span class="lato">/</span> <a href="#">Disclaimer</a> <span class="lato">/</span> <a href="#">Site Map</a> <span class="lato">/</span> Helpline No. - <a href="tel:+6262180303">6262 180 303</a>, <a href="tel:+6262180909">6262 180 909</a>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="cam14">
+                                                            <span class="lato">©</span> 2022 Shri Krishna University. All rights reserved. </span>
+
+                                                        </td>
+                                                    </tr>
+
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <div id="side-quick-links">
+        <ul>
+            <li class="call">
+                <div class="xContent">
+                    <a href="javascript:void(0)"><i class="fa fa-phone" aria-hidden="true"></i></a>
+                    <p><a href="tel:+91-6262-180-303">+91-6262-180-303/707</a></p>
+                </div>
+            </li>
+
+            <li class="marker">
+                <div class="xContent">
+                    <a href="javascript:void(0)">
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                    </a>
+                    <p>
+                        <a class="" href="https://www.facebook.com/skuindia/" target="_blank"><i class=" social fa fa-facebook"></i></a>
+                        <a class="" href="https://twitter.com/skuindia" target="_blank"><i class=" social fa fa-twitter"></i></a>
+                        <a class="" href="https://www.linkedin.com/company/skuindia/" target="_blank"><i class="social fa fa-linkedin"></i></a>
+                        <a class="" href="https://www.youtube.com/channel/UC2g8P5Ef7GFWacIaZ0OhEfg" target="_blank"><i class=" social fa fa-youtube-play"></i></a>
+                        <a class="" href="https://www.instagram.com/skuindia/" target="_blank"><i class=" social fa fa-instagram"></i></a>
+                    </p>
+                </div>
+            </li>
+
+            <li class="watsapp">
+                <div class="xContent">
+                    <a href="javascript:void(0)" rel="nofollow"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                    <h6>For Information</h6>
+                    <p><a href="https://wa.me/6262180909" target="_blank">+91-6262180909</a></p>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+    <script src="/Content/Assets/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="/Content/Assets/plugins/jquery.tickerNews.min.js"></script>
+
+    <script src="/Content/xcv/bootstrap-dropdownhover.js"></script>
+
+
+    <script async src="/Content/Assets/js/nusc.js"></script>
+
+
+    <link href="/Content/xcv/fotorama.css" rel="stylesheet" />
+    <script src="/Content/xcv/fotorama.js"></script>
+    <script src="/Content/xcv/jquery.vticker-min.js"></script>
+    
+    <script>
+        $('#InfoApplication').parsley();
+
+        function alignModal() {
+            var modalDialog = $(this).find(".modal-dialog");
+
+            // Applying the top margin on modal dialog to align it vertically center
+            modalDialog.css("margin-top", Math.max(0, ($(window).height() - modalDialog.height()) / 2));
+        }
+        // Align modal when it is displayed
+        $(".modal").on("shown.bs.modal", alignModal);
+
+        // Align modal when user resize the window
+        $(window).on("resize", function () {
+            $(".modal:visible").each(alignModal);
+        });
+        function toggle_popup() {
+            $("#myModal").modal("show")
+        }
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            _Ticker = $(".TickerNews").newsTicker();
+
+
+        });
+
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown("400");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp("400");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+
+    <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function () { myFunction() };
+
+        // Get the header
+        var header = document.getElementById("hybridHeader");
+
+        // Get the offset position of the navbar
+        var sticky = header.offsetTop;
+
+        // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("hybridDesign");
+                header.classList.add("navbar-fixed-top");
+
+            } else {
+                header.classList.remove("navbar-fixed-top");
+                header.classList.remove("hybridDesign");
+            }
+        }
+    </script>
+    
+    
+
+
+    <script>
+        $(document).on('click',
+            '[data-toggle="lightbox"]',
+            function (event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+    </script>
+
+
+
+    
+    <script async>
+
+        $(document).ajaxStart(function () {
+            $(".loading").css("visibility", "visible");
+        });
+        $(document).ajaxComplete(function () {
+            $(".loading").css("visibility", "hidden");
+        });
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54764231-15"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-54764231-15');
+    </script>
+
+</body>
+</html>

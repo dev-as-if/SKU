@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Result | Shri Krishna University</title>
+  <style>
+    :root { --navy:#153158; --red:#c52317; --line:#d9e0e8; --paper:#fff; --soft:#f3f6fa; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--soft); color:#17202a; font-family:Arial,Helvetica,sans-serif; }
+    .site-header { background:#fff; border-bottom:1px solid #e5e9ef; display:flex; align-items:center; gap:32px; padding:12px clamp(16px,4vw,54px); position:sticky; top:0; z-index:2; }
+    .brand img { width:210px; max-width:35vw; display:block; }
+    .site-header nav { display:flex; flex-wrap:wrap; gap:24px; align-items:center; }
+    .site-header nav a { color:#153158; font-weight:700; text-decoration:none; font-size:15px; }
+    .result-shell { max-width:1180px; margin:42px auto; padding:0 20px; }
+    .result-header { background:var(--navy); color:#fff; padding:28px clamp(20px,4vw,48px); border-radius:6px 6px 0 0; }
+    .result-header h1 { margin:0 0 8px; font-size:clamp(24px,3vw,38px); }
+    .result-header p { margin:0; opacity:.9; }
+    .result-panel { background:var(--paper); padding:clamp(20px,4vw,42px); box-shadow:0 8px 28px #15315818; }
+    .result-form { display:grid; grid-template-columns:1fr 1fr 1fr auto; gap:18px; align-items:end; }
+    label { display:block; color:var(--navy); font-weight:700; margin-bottom:8px; }
+    input, select { width:100%; border:1px solid #b8c4d2; border-radius:4px; min-height:44px; padding:10px 12px; font-size:16px; background:#fff; }
+    button, .download { border:0; border-radius:4px; background:var(--red); color:#fff; cursor:pointer; min-height:44px; padding:0 22px; font-weight:700; font-size:15px; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; }
+    button:hover, .download:hover { background:#9e1d14; }
+    .message { min-height:24px; margin:18px 0 0; color:var(--red); font-weight:700; }
+    .result-output { display:none; margin-top:28px; }
+    .result-output.visible { display:block; }
+    .result-meta { display:flex; flex-wrap:wrap; justify-content:space-between; gap:12px; align-items:center; margin-bottom:16px; }
+    .result-meta h2 { color:var(--navy); margin:0 0 8px; font-size:24px; }
+    .result-meta p { margin:3px 0 0; color:#596575; }
+    .table-wrap { overflow-x:auto; border:1px solid #111; }
+    table { width:100%; min-width:760px; border-collapse:collapse; background:#fff; }
+    th, td { border:1px solid #111; padding:10px 12px; text-align:center; font-size:16px; }
+    thead th { background:#f8fafc; font-weight:700; }
+    th:nth-child(2), td:nth-child(2) { text-align:left; }
+    tfoot td { font-weight:700; }
+    .site-footer { background:#fff url('/Content/images/footer.jpg') center / cover; border-top:1px solid #e1e6ec; color:#153158; padding:30px 20px 18px; text-align:center; }
+    .site-footer p { margin:5px 0; color:#596575; font-size:14px; }
+    @media (max-width:850px) { .site-header { align-items:flex-start; flex-direction:column; gap:12px; } .site-header nav { gap:12px 16px; } .brand img { width:190px; max-width:80vw; } .result-shell { margin:20px auto; padding:0 12px; } .result-form { grid-template-columns:1fr 1fr; gap:14px; } .result-panel { padding:20px 16px; } .result-form button { width:100%; } .result-meta { align-items:flex-start; flex-direction:column; } }
+    @media (max-width:520px) { .result-form { grid-template-columns:1fr; } }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="brand"><img src="/Content/web/university/sku-logo-header.png" alt="Shri Krishna University"></a>
+    <nav aria-label="Primary navigation"><a href="/about-university">About</a><a href="/faculty/engineering-and-technology">Faculty</a><a href="/Search-Course-Syllabus">Academics</a><a href="/Course-admission/1">Admissions</a><a href="/research-and-development-cell">R&amp;D/Research</a><a href="/event-gallery">Life@SKU</a><a href="/contact-us">Information Corner</a><a href="/training-and-placements">Placement</a></nav>
+  </header>
+  <main class="result-shell">
+    <header class="result-header">
+      <h1>Student Result</h1>
+      <p>Enter your enrollment number, date of birth and semester to view your subject-wise result.</p>
+    </header>
+    <section class="result-panel">
+      <form class="result-form" id="result-form" novalidate>
+        <div><label for="enrollment">Enrollment No.</label><input id="enrollment" name="enrollment" autocomplete="off" placeholder="Enter enrollment number" required></div>
+        <div><label for="dob">Date of Birth</label><input id="dob" name="dob" type="date" required></div>
+        <div><label for="semester">Semester</label><select id="semester" name="semester" required><option value="">Select semester</option><option value="1">1st</option><option value="2">2nd</option><option value="3">3rd</option><option value="4">4th</option></select></div>
+        <button type="submit">View Result</button>
+      </form>
+      <p class="message" id="message" role="alert"></p>
+      <section class="result-output" id="result-output" aria-live="polite"></section>
+    </section>
+  </main>
+  <footer class="site-footer"><strong>Shri Krishna University</strong><p>Vidya Sarvasva Pujnam, N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</p><p>© Shri Krishna University. All rights reserved.</p></footer>
+  <script>
+    const semesterResults = {
+      '1': {
+        label: '1st',
+        rows: [
+          ['CC 1', 'Childhood & Growing Up', '75', '60', '25', '21', '100', '81'],
+          ['CC 2', 'Education in India-Status, Problems and Issues', '75', '64', '25', '23', '100', '87'],
+          ['CC 4', 'Curriculum Development & School', '75', '55', '25', '19', '100', '74'],
+          ['CC 3', 'Language Across the Curriculum', '35', '19', '15', '14', '50', '33'],
+          ['EPC 1', 'Reading And Reflecting On Texts', '', '', '50', '38', '50', '38']
+        ],
+        totals: ['TOTAL', '300', '198', '160', '115', '400', '313']
+      },
+      '2': {
+        label: '2nd',
+        rows: [
+          ['CC 1', 'Learning & Teaching', '75', '58', '25', '16', '100', '74'],
+          ['PC(I)', 'Pedagogy of a School Subject-Part-1', '75', '66', '25', '19', '100', '85'],
+          ['PC(II)', 'Pedagogy of a School Subject-Part-2', '75', '48', '25', '20', '100', '68'],
+          ['CC 2', 'Language Across the Curriculum', '35', '23', '15', '10', '50', '33'],
+          ['EPC 2', 'Drama & Art in Education', '', '19', '50', '38', '50', '57']
+        ],
+        totals: ['TOTAL', '300', '195', '140', '103', '400', '317']
+      },
+      '3': {
+        label: '3rd',
+        rows: [
+          ['CC 1', 'Pedagogy of a School Subject(Part-II)', '75', '48', '25', '16', '100', '64'],
+          ['EPC 1', 'Educational Psychology Practical and Issues', '', '', '50', '37', '50', '37'],
+          ['', 'School Internship', '', '', '350', '220', '350', '220']
+        ],
+        totals: ['TOTAL', '300', '48', '425', '273', '500', '321']
+      },
+      '4': {
+        label: '4th',
+        rows: [
+          ['CC 1', 'Gender, School & Equality', '75', '52', '25', '17', '100', '69'],
+          ['CC 2', 'Educational Technology & ICT', '75', '49', '25', '19', '100', '68'],
+          ['CC 3', 'Creating an Inclusive School', '75', '57', '25', '22', '100', '79'],
+          ['CC 4', 'Environmental Education', '75', '63', '25', '15', '100', '78'],
+          ['EPC 3', 'Understanding the Self', '-', '-', '50', '47', '50', '47'],
+          ['EPC 4', 'Understanding of ICT', '-', '-', '50', '41', '50', '41']
+        ],
+        totals: ['TOTAL', '300', '221', '200', '161', '500', '382']
+      }
+    };
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
+    }
+
+    function formatDob(value) {
+      const [year, month, day] = value.split('-');
+      return `${day}-${month}-${year}`;
+    }
+
+    document.getElementById('result-form').addEventListener('submit', function (event) {
+      event.preventDefault();
+      const enrollment = document.getElementById('enrollment').value.trim().toUpperCase();
+      const dob = document.getElementById('dob').value;
+      const semester = document.getElementById('semester').value;
+      const message = document.getElementById('message');
+      const output = document.getElementById('result-output');
+      const result = semesterResults[semester];
+
+      if (enrollment !== 'SKU266920325' || dob !== '2002-02-15' || !result) {
+        output.classList.remove('visible');
+        message.textContent = 'The enrollment number, date of birth or semester is incorrect.';
+        return;
+      }
+
+      const rows = result.rows.map(row => `<tr>${row.map(value => `<td>${escapeHtml(value)}</td>`).join('')}</tr>`).join('');
+      const totals = `<tr><td colspan="2">${escapeHtml(result.totals[0])}</td>${result.totals.slice(1).map(value => `<td>${escapeHtml(value)}</td>`).join('')}</tr>`;
+      const download = semester === '4' ? '<a class="download" href="/results/SKU266920325-result.pdf" download>Download Result PDF</a>' : '';
+
+      message.textContent = '';
+      output.innerHTML = `<div class="result-meta"><div><h2>Statement of Marks</h2><p><strong>Name:</strong> Biru Kumar Thakur | <strong>Father&#39;s Name:</strong> Krishna Narayan Thakur</p><p>Enrollment No.: <strong>${escapeHtml(enrollment)}</strong> | Date of Birth: <strong>${escapeHtml(formatDob(dob))}</strong> | Semester: <strong>${escapeHtml(result.label)}</strong></p></div>${download}</div><div class="table-wrap"><table><thead><tr><th rowspan="2">Paper Code</th><th rowspan="2">Paper Name</th><th colspan="2">External Marks</th><th colspan="2">Sessional Marks</th><th colspan="2">Marks Obtain</th></tr><tr><th>Max. Marks</th><th>Marks Obt.</th><th>Max. Marks</th><th>Marks Obt.</th><th>Max. Marks</th><th>Marks Obt.</th></tr></thead><tbody>${rows}</tbody><tfoot>${totals}</tfoot></table></div>`;
+      output.classList.add('visible');
+    });
+  </script>
+</body>
+</html>

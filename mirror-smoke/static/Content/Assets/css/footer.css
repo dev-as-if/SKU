@@ -1,0 +1,242 @@
+ï»¿.footer {
+    background: #fff url(/Content/images/footer.jpg);
+    float: left;
+    width: 100%;
+
+    background: linear-gradient(#f5f7fa00, #c3cfe2), url(/Content/images/footer.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.footerlist ul {
+    margin: 0px -15px;
+    padding: 0px 0px
+}
+
+    .footerlist ul li {
+        list-style: none;
+        float: left;
+        width: 20%;
+        padding: 0 15px;
+        position: relative;
+        margin-bottom: 30px
+    }
+
+        .footerlist ul li:after {
+            position: absolute;
+            background: #DCDCDC;
+            width: 1px;
+            height: 100%;
+            content: '';
+            right: 14px;
+            top: 0;
+            min-height: 216px
+        }
+
+        .footerlist ul li a {
+            display: block;
+            padding: 5px 0px;
+            font-size: 13px;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #666
+        }
+
+        .footerlist ul li h1 {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #002147;
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+.lato {
+    font-family: 'Lato' !important
+}
+
+.calbold {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 19px;
+    color: #002147;
+}
+
+.cam14 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #666
+}
+
+
+.tdpad td {
+    padding: 5px 0px
+}
+
+.contacts {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: #002147;
+}
+
+    .contacts span.bolds {
+        font-size: 23px;
+        font-weight: bold
+    }
+
+.imgtop {
+    position: relative;
+    top: 7px;
+    margin-right: 5px
+}
+
+.footer a {
+    color: #666
+}
+
+    .footer a:hover {
+        color: #D8AC61
+    }
+
+.contacts span.bolds a {
+    color: #002147;
+}
+.mainrow {
+    margin: 0 -15px;
+    clear: both;
+}
+
+.txtright {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:767px) {
+
+
+    .mobnnnnn {
+        display: none;
+    }
+
+
+    .footer {
+        background: #fff url(/Content/images/footer.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        padding-bottom: 120px;
+        background-position-x: 1133px;
+    }
+
+    .footerlist {
+        padding: 0 15px
+    }
+
+    .footer table td.block {
+        display: block;
+        width: 100%
+    }
+
+    .mobnnnnn {
+        display: none !important
+    }
+
+    .footer table td {
+        text-align: center;
+    }
+
+
+    .footer .cam14 {
+        line-height: 24px;
+    }
+    .textalign-trs {
+        text-align: center !important;
+        font-size: 10px;
+    }
+    .contacts span.bolds {
+        font-size: 10px;
+        font-weight: bold;
+    }
+}
+
+
+
+
+
+@media (min-width:600px) and (max-width:989px) {
+    .footerlist ul li {
+        width: 33.3333%;
+        min-height: 215px
+    }
+    .textalign-trs {
+        text-align: center !important;
+        font-size: 10px;
+    }
+}
+
+@media (min-width:400px) and (max-width:600px) {
+    .footerlist ul li {
+        width: 50%
+    }
+    .textalign-trs {
+        text-align: center !important;
+        font-size: 10px;
+    }
+    .contacts span.bolds {
+        font-size: 10px;
+        font-weight: bold;
+    }
+}
+
+
+
+@media (min-width:320px) and (max-width:400px) {
+
+
+    .footerlist ul li {
+        width: 50%;
+        padding: 0 5px;
+    }
+
+        .footerlist ul li a {
+            font-size: 11px;
+        }
+
+        .footerlist ul li:after {
+            display: none
+        }
+    .textalign-trs {
+        text-align: center !important;
+        font-size: 10px;
+    }
+    .contacts span.bolds {
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+}
+
+.mailicon {
+    background: url(/Content/images/mail.png);
+}
+.phoneicon {
+    background: url(/Content/images/phone.png);
+}
+.mapmarker {
+    background: url(/Content/images/map.png);
+}
+.mapmarker {
+    background-size: 19px 15px;
+    width: 19px;
+    height: 15px;
+    background-repeat: no-repeat;
+}
+.phoneicon, .mailicon {
+    background-size: 15px 15px;
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat;
+}
