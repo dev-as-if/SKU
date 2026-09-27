@@ -80,7 +80,7 @@
           ['CC 3', 'Language Across the Curriculum', '35', '19', '15', '14', '50', '33'],
           ['EPC 1', 'Reading And Reflecting On Texts', '', '', '50', '38', '50', '38']
         ],
-        totals: ['TOTAL', '300', '198', '160', '115', '400', '313']
+        totals: ['TOTAL', '', '198', '', '115', '400', '313']
       },
       '2': {
         label: '2nd',
@@ -89,9 +89,9 @@
           ['PC(I)', 'Pedagogy of a School Subject-Part-1', '75', '66', '25', '19', '100', '85'],
           ['PC(II)', 'Pedagogy of a School Subject-Part-2', '75', '48', '25', '20', '100', '68'],
           ['CC 2', 'Language Across the Curriculum', '35', '23', '15', '10', '50', '33'],
-          ['EPC 2', 'Drama & Art in Education', '', '19', '50', '38', '50', '57']
+          ['EPC 2', 'Drama & Art in Education', '', '', '50', '38', '50', '']
         ],
-        totals: ['TOTAL', '300', '195', '140', '103', '400', '317']
+        totals: ['TOTAL', '', '195', '', '103', '400', '']
       },
       '3': {
         label: '3rd',
