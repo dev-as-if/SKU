@@ -5,6 +5,7 @@ const root = path.join(__dirname, '..');
 const publish = path.join(root, 'site');
 const homepage = path.join(root, 'mirror-smoke', 'pages', 'index.html');
 const resultPage = path.join(root, 'mirror-full', 'pages', 'students', 'result');
+const grievancePage = path.join(root, 'mirror-full', 'pages', 'grievance');
 const staticRoot = path.join(root, 'mirror-full', 'static');
 const smokeStatic = path.join(root, 'mirror-smoke', 'static');
 
@@ -13,9 +14,12 @@ fs.mkdirSync(publish, { recursive: true });
 
 const html = fs.readFileSync(homepage, 'utf8');
 const resultHtml = fs.readFileSync(resultPage, 'utf8');
+const grievanceHtml = fs.readFileSync(grievancePage, 'utf8');
 fs.writeFileSync(path.join(publish, 'index.html'), html);
 fs.mkdirSync(path.join(publish, 'students', 'result'), { recursive: true });
 fs.writeFileSync(path.join(publish, 'students', 'result', 'index.html'), resultHtml);
+fs.mkdirSync(path.join(publish, 'grievance'), { recursive: true });
+fs.writeFileSync(path.join(publish, 'grievance', 'index.html'), grievanceHtml);
 fs.writeFileSync(path.join(publish, '404.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0; url=/"><title>Page not found</title><script>window.location.replace('/');</script></head><body><p>Page not found. <a href="/">Return home</a>.</p></body></html>`);
 fs.writeFileSync(path.join(publish, '_redirects'), '/* / 302\n');
 fs.writeFileSync(path.join(publish, '.nojekyll'), '');
@@ -42,6 +46,7 @@ function addFromHtml(text) {
 
 addFromHtml(html);
 addFromHtml(resultHtml);
+addFromHtml(grievanceHtml);
 
 function copyFile(relative) {
   const clean = relative.replace(/^\/+/, '').replaceAll('\\', '/');

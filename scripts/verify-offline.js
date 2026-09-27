@@ -80,6 +80,45 @@ function verifyResultForm(html, problems) {
   elements.enrollment.value = 'INVALID';
   submit();
   if (classes.has('visible') || !elements.message.textContent) problems.push('invalid credentials were not rejected');
+
+  if (!html.includes("totals: ['TOTAL', '75', '48', '425', '273', '500', '321']")) {
+    problems.push('semester 3 external maximum total should be 75');
+  }
+  if (!html.includes("'Drama & Art in Education', '', '19', '50', '38', '50', '57'")) {
+    problems.push('semester 2 EPC 2 marks do not match the supplied result');
+  }
+}
+
+function verifyGrievanceForm(html, problems) {
+  const script = [...html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)]
+    .find(match => !/\bsrc\s*=/.test(match[1]) && match[2].includes("getElementById('grievance-form')"));
+  if (!script) {
+    problems.push('grievance page is missing its form handler');
+    return;
+  }
+
+  let submitHandler;
+  let alertMessage = '';
+  let resetCalled = false;
+  const form = { addEventListener: (event, handler) => { if (event === 'submit') submitHandler = handler; }, reset: () => { resetCalled = true; } };
+  vm.runInNewContext(script[2], {
+    document: { getElementById: id => id === 'grievance-form' ? form : undefined },
+    alert: message => { alertMessage = message; }
+  });
+  if (!submitHandler) {
+    problems.push('grievance form submit handler was not registered');
+    return;
+  }
+  submitHandler.call(form, { preventDefault() {} });
+  if (alertMessage !== 'Your issue was submitted successfully. Sorry for the inconvenience.' || !resetCalled) {
+    problems.push('grievance form did not show its success popup and reset');
+  }
+  for (const category of ['Result issue', 'Website not working', 'Server issue', 'General issue']) {
+    if (!html.includes(category)) problems.push(`grievance category missing: ${category}`);
+  }
+  if (!/name="message"/.test(html) || !/name="email"[^>]*type="email"/.test(html)) {
+    problems.push('grievance form is missing its message or email field');
+  }
 }
 
 (async () => {
@@ -94,7 +133,7 @@ function verifyResultForm(html, problems) {
 
   const problems = [];
   try {
-    for (const page of ['/', '/students/result/']) {
+    for (const page of ['/', '/students/result/', '/grievance/']) {
       const response = await get(page);
       if (response.status !== 200) problems.push(`${page} status ${response.status}`);
       const html = response.body.toString('utf8');
@@ -141,6 +180,8 @@ function verifyResultForm(html, problems) {
     const resultHtml = result.body.toString('utf8');
     if (!/SKU266920325/.test(resultHtml)) problems.push('result page is missing the sample enrollment markup');
     verifyResultForm(resultHtml, problems);
+    const grievance = await get('/grievance/');
+    verifyGrievanceForm(grievance.body.toString('utf8'), problems);
     const pdf = await get('/results/SKU266920325-result.pdf');
     if (pdf.status !== 200 || !/pdf/i.test(pdf.type)) problems.push('result PDF is not being served');
     const missing = await get('/this-path-should-404');

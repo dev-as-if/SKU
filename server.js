@@ -6,6 +6,7 @@ const root = __dirname;
 const site = path.join(root, 'site');
 const homepage = path.join(root, 'mirror-smoke', 'pages', 'index.html');
 const resultPage = path.join(root, 'mirror-full', 'pages', 'students', 'result');
+const grievancePage = path.join(root, 'mirror-full', 'pages', 'grievance');
 const staticRoots = [
   path.join(root, 'mirror-full', 'static'),
   path.join(root, 'mirror-smoke', 'static')
@@ -39,6 +40,7 @@ function findFile(requestPath) {
   if (siteFile && fs.existsSync(siteFile) && fs.statSync(siteFile).isFile()) return siteFile;
   if (requestPath === '/' || requestPath === '/index.html') return homepage;
   if (requestPath === '/students/result' || requestPath === '/students/result/' || requestPath === '/students/result/index.html') return resultPage;
+  if (requestPath === '/grievance' || requestPath === '/grievance/' || requestPath === '/grievance/index.html') return grievancePage;
   for (const staticRoot of staticRoots) {
     const file = safePath(staticRoot, requestPath);
     if (file && fs.existsSync(file) && fs.statSync(file).isFile()) return file;

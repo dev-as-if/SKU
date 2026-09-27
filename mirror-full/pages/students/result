@@ -36,6 +36,9 @@
     tfoot td { font-weight:700; }
     .site-footer { background:#fff url('/Content/images/footer.jpg') center / cover; border-top:1px solid #e1e6ec; color:#153158; padding:30px 20px 18px; text-align:center; }
     .site-footer p { margin:5px 0; color:#596575; font-size:14px; }
+    .grievance-link { margin-top:24px; padding:20px; background:#fff; border:1px solid var(--line); display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:16px; }
+    .grievance-link h2 { margin:0 0 6px; color:var(--navy); font-size:20px; }
+    .grievance-link p { margin:0; color:#596575; }
     @media (max-width:850px) { .site-header { align-items:flex-start; flex-direction:column; gap:12px; } .site-header nav { gap:12px 16px; } .brand img { width:190px; max-width:80vw; } .result-shell { margin:20px auto; padding:0 12px; } .result-form { grid-template-columns:1fr 1fr; gap:14px; } .result-panel { padding:20px 16px; } .result-form button { width:100%; } .result-meta { align-items:flex-start; flex-direction:column; } }
     @media (max-width:520px) { .result-form { grid-template-columns:1fr; } }
   </style>
@@ -60,6 +63,10 @@
       <p class="message" id="message" role="alert"></p>
       <section class="result-output" id="result-output" aria-live="polite"></section>
     </section>
+    <section class="grievance-link" aria-labelledby="grievance-heading">
+      <div><h2 id="grievance-heading">Need help with the website?</h2><p>Report a result, website or server issue.</p></div>
+      <a class="download" href="/grievance/">Report an issue</a>
+    </section>
   </main>
   <footer class="site-footer"><strong>Shri Krishna University</strong><p>Vidya Sarvasva Pujnam, N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</p><p>© Shri Krishna University. All rights reserved.</p></footer>
   <script>
@@ -68,7 +75,7 @@
         label: '1st',
         rows: [
           ['CC 1', 'Childhood & Growing Up', '75', '60', '25', '21', '100', '81'],
-          ['CC 2', 'Education in India-Status, Problems and Issues', '75', '64', '25', '23', '100', '87'],
+          ['CC 2', 'Education In India-Status, Problems and Issues', '75', '64', '25', '23', '100', '87'],
           ['CC 4', 'Curriculum Development & School', '75', '55', '25', '19', '100', '74'],
           ['CC 3', 'Language Across the Curriculum', '35', '19', '15', '14', '50', '33'],
           ['EPC 1', 'Reading And Reflecting On Texts', '', '', '50', '38', '50', '38']
@@ -93,7 +100,7 @@
           ['EPC 1', 'Educational Psychology Practical and Issues', '', '', '50', '37', '50', '37'],
           ['', 'School Internship', '', '', '350', '220', '350', '220']
         ],
-        totals: ['TOTAL', '300', '48', '425', '273', '500', '321']
+        totals: ['TOTAL', '75', '48', '425', '273', '500', '321']
       },
       '4': {
         label: '4th',

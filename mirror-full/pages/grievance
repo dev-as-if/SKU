@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Report an Issue | Shri Krishna University</title>
+  <style>
+    :root { --navy:#153158; --red:#c52317; --line:#d9e0e8; --paper:#fff; --soft:#f3f6fa; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--soft); color:#17202a; font-family:Arial,Helvetica,sans-serif; }
+    .site-header { background:#fff; border-bottom:1px solid #e5e9ef; display:flex; align-items:center; gap:32px; padding:12px clamp(16px,4vw,54px); }
+    .brand img { width:210px; max-width:35vw; display:block; }
+    .site-header nav { display:flex; flex-wrap:wrap; gap:24px; align-items:center; }
+    .site-header nav a { color:#153158; font-weight:700; text-decoration:none; font-size:15px; }
+    main { max-width:760px; margin:42px auto; padding:0 20px; }
+    .page-heading { background:var(--navy); color:#fff; padding:28px clamp(20px,4vw,40px); border-radius:6px 6px 0 0; }
+    .page-heading h1 { margin:0 0 8px; font-size:clamp(24px,3vw,36px); }
+    .page-heading p { margin:0; opacity:.9; }
+    .form-panel { background:var(--paper); padding:clamp(20px,4vw,40px); box-shadow:0 8px 28px #15315818; }
+    .form-row { margin-bottom:20px; }
+    label { display:block; color:var(--navy); font-weight:700; margin-bottom:8px; }
+    select, textarea, input { width:100%; border:1px solid #b8c4d2; border-radius:4px; padding:11px 12px; font:inherit; background:#fff; }
+    select, input { min-height:44px; }
+    textarea { min-height:160px; resize:vertical; }
+    button, .back-link { border:0; border-radius:4px; background:var(--red); color:#fff; cursor:pointer; min-height:44px; padding:0 22px; font-weight:700; font-size:15px; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; }
+    button:hover, .back-link:hover { background:#9e1d14; }
+    .form-actions { display:flex; flex-wrap:wrap; align-items:center; gap:14px; }
+    .back-link { background:var(--navy); }
+    .demo-note { margin:18px 0 0; color:#596575; font-size:14px; }
+    .site-footer { background:#fff url('/Content/images/footer.jpg') center / cover; border-top:1px solid #e1e6ec; color:#153158; padding:30px 20px 18px; text-align:center; }
+    .site-footer p { margin:5px 0; color:#596575; font-size:14px; }
+    @media (max-width:700px) { .site-header { align-items:flex-start; flex-direction:column; gap:12px; } .site-header nav { gap:12px 16px; } .brand img { width:190px; max-width:80vw; } main { margin:20px auto; padding:0 12px; } .form-panel { padding:20px 16px; } .form-actions { align-items:stretch; flex-direction:column; } button, .back-link { width:100%; } }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="brand"><img src="/Content/web/university/sku-logo-header.png" alt="Shri Krishna University"></a>
+    <nav aria-label="Primary navigation"><a href="/">Home</a><a href="/students/result/">Results</a></nav>
+  </header>
+  <main>
+    <header class="page-heading">
+      <h1>Report a Website Issue</h1>
+      <p>Tell us what went wrong and how we can contact you.</p>
+    </header>
+    <section class="form-panel">
+      <form id="grievance-form">
+        <div class="form-row">
+          <label for="category">Category</label>
+          <select id="category" name="category" required>
+            <option value="">Select a category</option>
+            <option value="result-issue">Result issue</option>
+            <option value="website-not-working">Website not working</option>
+            <option value="server-issue">Server issue</option>
+            <option value="general-issue">General issue</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label for="issue-message">Message</label>
+          <textarea id="issue-message" name="message" placeholder="Describe the issue you faced" required></textarea>
+        </div>
+        <div class="form-row">
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required>
+        </div>
+        <div class="form-actions">
+          <button type="submit">Submit issue</button>
+          <a class="back-link" href="/students/result/">Back to results</a>
+        </div>
+      </form>
+      <p class="demo-note">This demonstration form does not send or store your report.</p>
+    </section>
+  </main>
+  <footer class="site-footer"><strong>Shri Krishna University</strong><p>Vidya Sarvasva Pujnam, N-H 86, Village Chauka, Sagar Road, Chhatarpur, Madhya Pradesh</p><p>© Shri Krishna University. All rights reserved.</p></footer>
+  <script>
+    document.getElementById('grievance-form').addEventListener('submit', function (event) {
+      event.preventDefault();
+      alert('Your issue was submitted successfully. Sorry for the inconvenience.');
+      this.reset();
+    });
+  </script>
+</body>
+</html>
