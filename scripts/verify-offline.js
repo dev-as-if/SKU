@@ -45,7 +45,7 @@ function verifyResultForm(html, problems) {
   const classes = new Set();
   const elements = {
     'result-form': { addEventListener: (event, handler) => { if (event === 'submit') submitHandler = handler; } },
-    enrollment: { value: 'SKU266920325' },
+    enrollment: { value: 'SKU244238923' },
     dob: { value: '2002-02-15' },
     semester: { value: '1' },
     message: { textContent: '' },
@@ -74,8 +74,24 @@ function verifyResultForm(html, problems) {
   }
   elements.semester.value = '4';
   submit();
-  if (!elements['result-output'].innerHTML.includes('Gender, School &amp; Equality') || !elements['result-output'].innerHTML.includes('Download Result PDF')) {
-    problems.push('semester 4 did not retain its result and PDF download');
+  if (classes.has('visible') || elements.message.textContent !== 'No result found for this enrollment number and semester.') {
+    problems.push('new enrollment incorrectly returned a semester 4 result');
+  }
+  elements.enrollment.value = 'SKU266920325';
+  for (const semester of ['1', '2', '3']) {
+    elements.semester.value = semester;
+    submit();
+    if (classes.has('visible') || elements.message.textContent !== 'No result found for this enrollment number and semester.') {
+      problems.push(`old enrollment incorrectly returned a semester ${semester} result`);
+    }
+  }
+  elements.semester.value = '4';
+  submit();
+  if (!classes.has('visible') || !elements['result-output'].innerHTML.includes('Gender, School &amp; Equality') || !elements['result-output'].innerHTML.includes('Download Result PDF')) {
+    problems.push('old enrollment did not render its semester 4 result and PDF download');
+  }
+  if (!elements['result-output'].innerHTML.includes('Biru Kumar Thakur') || !elements['result-output'].innerHTML.includes('Krishna Narayan Thakur') || !elements['result-output'].innerHTML.includes('15-02-2002')) {
+    problems.push('result did not retain the shared student name, father name and date of birth');
   }
   elements.enrollment.value = 'INVALID';
   submit();
@@ -84,8 +100,8 @@ function verifyResultForm(html, problems) {
   if (!html.includes("totals: ['TOTAL', '75', '48', '425', '273', '500', '321']")) {
     problems.push('semester 3 external maximum total should be 75');
   }
-  if (!html.includes("'Drama & Art in Education', '', '19', '50', '38', '50', '57'")) {
-    problems.push('semester 2 EPC 2 marks do not match the supplied result');
+  if (!html.includes("['EPC 2', 'Drama & Art in Education', '', '', '50', '38', '50', '']")) {
+    problems.push('semester 2 EPC 2 marks changed unexpectedly');
   }
 }
 

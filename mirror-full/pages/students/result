@@ -116,6 +116,11 @@
       }
     };
 
+    const enrollmentSemesters = {
+      SKU244238923: ['1', '2', '3'],
+      SKU266920325: ['4']
+    };
+
     function escapeHtml(value) {
       return String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
     }
@@ -134,9 +139,15 @@
       const output = document.getElementById('result-output');
       const result = semesterResults[semester];
 
-      if (enrollment !== 'SKU266920325' || dob !== '2002-02-15' || !result) {
+      if (dob !== '2002-02-15' || !enrollmentSemesters[enrollment]) {
         output.classList.remove('visible');
         message.textContent = 'The enrollment number, date of birth or semester is incorrect.';
+        return;
+      }
+
+      if (!enrollmentSemesters[enrollment].includes(semester) || !result) {
+        output.classList.remove('visible');
+        message.textContent = 'No result found for this enrollment number and semester.';
         return;
       }
 
